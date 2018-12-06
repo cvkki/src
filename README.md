@@ -1,4 +1,4 @@
-# src-
+# src
 日常SRC平台域名收集
 
 官网：http://www.srcsrc.net/
