@@ -1,0 +1,69 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+m.Guazi.com	124.251.6.20	80,443	openresty	80:正常访问
+op.Guazi.com	124.250.45.29	80,443	openresty	80:(404) 未找到
+s.Guazi.com	124.250.45.29	80,443	openresty	80:正常访问
+t.Guazi.com	124.251.6.92	80,443	openresty	80:正常访问
+user.Guazi.com	10.16.11.244	-	端口未开放	端口未开放
+www.Guazi.com	124.250.31.68	80,443	openresty	80:正常访问
+wap.Guazi.com	124.251.6.21	80,443	openresty	80:正常访问
+mail.Guazi.com	124.250.45.78	80,443	openresty	80:(440) Login Timeout
+cms.Guazi.com	124.250.45.63	80,443	openresty	80:正常访问
+api.Guazi.com	124.251.6.21	80,443	openresty	80:(404) 未找到
+zhaopin.Guazi.com	124.250.45.9	80,443	openresty	80:正常访问
+security.Guazi.com	124.250.45.76	80,443	openresty	80:正常访问
+pay.Guazi.com	124.250.45.63	80,443	openresty	80:尝试自动重定向的次数太多
+file.Guazi.com	124.250.45.63	80,443	openresty	80:正常访问
+bi.Guazi.com	124.250.45.48	80,443	openresty	80:正常访问
+bm.Guazi.com	124.250.45.80	80,443	openresty	80:(404) 未找到
+av.Guazi.com	106.38.228.205	443	获取失败	443:-
+gateway.Guazi.com	124.250.45.53	-	端口未开放	端口未开放
+im.Guazi.com	124.250.45.63	80,443	openresty	80:正常访问
+partner.Guazi.com	124.250.45.8	80,443	openresty	80:正常访问
+sa.Guazi.com	58.83.181.23	-	端口未开放	端口未开放
+staff.Guazi.com	124.250.45.62	80,443	openresty	80:(404) 未找到
+storage.Guazi.com	124.250.45.29	80,443	openresty	80:正常访问
+3g.Guazi.com	124.251.6.20	80,443	openresty	80:正常访问
+g3.Guazi.com	124.250.45.9	80,443	openresty	80:(403) 已禁止
+tg.Guazi.com	124.250.45.79	80,443	openresty	80:正常访问
+venus.Guazi.com	124.250.45.48	80,443	openresty	80:正常访问
+welcome.Guazi.com	124.250.45.63	80,443	openresty	80:(403) 已禁止
+join.Guazi.com	124.250.45.63	80,443	openresty	80:正常访问
+mx1.Guazi.com	124.250.45.6	-	端口未开放	端口未开放
+sale.Guazi.com	124.250.45.8	80,443	openresty	80:(404) 未找到
+entry.Guazi.com	124.250.45.70	80,443	openresty	80:正常访问
+trading.Guazi.com	124.250.45.75	80,443	openresty	80:正常访问
+allspark.Guazi.com	124.250.45.15	80,443	nginx	80:正常访问
+analytics.Guazi.com	124.250.45.15	80,443	nginx	80:(403) 已禁止
+audio.Guazi.com	124.251.6.63	80,443	openresty	80:正常访问
+apitest.Guazi.com	10.16.208.92	-	端口未开放	端口未开放
+cctv.Guazi.com	124.250.45.74	80,443	openresty	80:正常访问
+crm2.Guazi.com	124.250.45.73	80	openresty	80:正常访问
+ctrl.Guazi.com	124.251.6.86	80,443	openresty	80:(405) 不允许的方法
+guagua.Guazi.com	124.250.45.63	80,443	openresty	80:正常访问
+image.cache.Guazi.com	218.92.138.18,218.92.138.14,218.92.138.13,218.92.138.16,218.92.138.12,218.92.138.11,218.92.138.19,218.92.138.17,218.92.138.15,218.92.138.20	80,443	web cache	80:(403) 已禁止
+kaoshi.Guazi.com	10.16.8.216	-	端口未开放	端口未开放
+mtest.Guazi.com	10.16.208.55	-	端口未开放	端口未开放
+ping.Guazi.com	124.251.6.77	80,443	openresty	80:(404) 未找到
+polaris.Guazi.com	124.250.45.48	80,443	openresty	80:正常访问
+qrcode.Guazi.com	124.250.45.100	80,443	openresty	80:(404) 未找到
+sentry.Guazi.com	124.250.45.9	80,443	openresty	80:正常访问
+sslvpn.Guazi.com	124.251.6.25	80,443	Server	80:正常访问
+uctest.Guazi.com	10.16.208.55	-	端口未开放	端口未开放
+wxtest.Guazi.com	10.16.208.212	-	端口未开放	端口未开放
+bx.Guazi.com	124.250.45.79	80,443	openresty	80:正常访问
+uc.Guazi.com	124.251.6.20	80,443	openresty	80:正常访问
+ams.Guazi.com	124.250.45.76	80,443	openresty	80:(404) 未找到
+che.Guazi.com	124.251.6.77	80,443	openresty	80:(404) 未找到
+gyl.Guazi.com	124.250.45.79	80,443	openresty	80:正常访问
+inv.Guazi.com	124.250.45.100	80,443	openresty	80:(404) 未找到
+oss.Guazi.com	124.250.45.76	80,443	openresty	80:(404) 未找到
+seo.Guazi.com	124.251.6.90	80,443	openresty	80:(403) 已禁止
+sip.Guazi.com	106.38.228.203	443	RTC/6.0	443:(404) 未找到
+wxs.Guazi.com	124.251.6.21	80,443	openresty	80:正常访问
+waf.Guazi.com	117.23.61.207	80,443	获取失败	80:-
+bmh5.Guazi.com	124.250.45.80	80,443	openresty	80:正常访问
+ikey.Guazi.com	124.250.45.74	80,443	openresty	80:正常访问
+nrbs.Guazi.com	124.250.45.80	80,443	openresty	80:(404) 未找到
+nrwh.Guazi.com	124.250.45.80	80,443	openresty	80:(404) 未找到
+nrsp.Guazi.com	124.250.45.80	80,443	openresty	80:(404) 未找到
+scos.Guazi.com	124.250.45.100	80,443	openresty	80:正常访问

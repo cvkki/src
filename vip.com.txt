@@ -1,0 +1,412 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+acs.vip.com	221.228.213.115	80,443	vipshop/VIP	80:正常访问
+feedback.vip.com	221.228.213.115	80,443	vipshop/VIP	80:正常访问
+ap.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+mst.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+iclub.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+help.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+home.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+kid.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+m.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+beauty.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+jf.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+lux.vip.com	183.240.49.134	80,443	nginx	80:正常访问
+lady.vip.com	183.240.49.131	80,443	nginx	80:正常访问
+sport.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+jia.vip.com	64.125.34.251,64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253	80,443	vipshop/Vbib	80:(404) 未找到
+s1.vip.com	64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251	80,443	vipshop/VipS	80:正常访问
+blog.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+support.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+fav.vip.com	120.83.182.131	80,443	nginx	80:(405) 不允许的方法
+campus.vip.com	222.73.233.36	80	Apache	80:正常访问
+fuli.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+vis.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+viva.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+wap.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+tms.vip.com	221.228.212.23	80,443	nginx	80:正常访问
+order.vip.com	183.6.216.42	80,443	nginx	80:(405) 不允许的方法
+job.vip.com	219.135.134.227	443	nginx/1.10.3	443:正常访问
+passport.vip.com	183.6.216.43	80,443	nginx	80:(405) 不允许的方法
+shoes-bags.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+click.union.vip.com	116.31.114.239	80,443	vipshop/Vbib	80:正常访问
+myi.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+global.vip.com	183.240.49.133	80	nginx	80:正常访问
+vop.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+vipcard.vip.com	120.83.182.132	80,443	nginx	80:正常访问
+comm.vip.com	183.240.49.132	-	端口未开放	端口未开放
+brand.vip.com	163.171.130.132	-	端口未开放	端口未开放
+ir.vip.com	104.71.168.129	80,443	nginx	80:正常访问
+lv.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+union.vip.com	183.240.49.133	80	nginx	80:(405) 不允许的方法
+c.vip.com	183.60.219.235	80,443	nginx	80:正常访问
+pb.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+s.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+acce.vip.com	183.240.49.132	80	nginx	80:正常访问
+u.vip.com	114.67.54.170,114.67.54.169	-	端口未开放	端口未开放
+yy.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+z.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+q.vip.com	116.31.114.22	80,443	nginx	80:(503) 服务器不可用
+e.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+img2.vip.com	163.171.130.132	80,443	vipshop/Vbib	80:(403) 已禁止
+app.vip.com	64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251	80,443	vipshop/VipS	80:正常访问
+img3.vip.com	64.125.34.251,64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253	80,443	vipshop/Vbib	80:(403) 已禁止
+img1.vip.com	64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251	80,443	vipshop/Vbib	80:(403) 已禁止
+img4.vip.com	64.125.34.253,64.125.34.251,64.125.34.243,64.125.34.249,64.125.34.252	80,443	vipshop/Vbib	80:(403) 已禁止
+mall.vip.com	183.61.89.70,183.61.89.6	80	获取失败	80:-
+us.vip.com	52.191.118.183	80,443	vipshop/Vbib	80:正常访问
+open.vip.com	36.25.241.254	80,443	Cdn Cache Server V2.0	80:(502) 错误的网关
+w2.vip.com	163.171.130.132	80,443	获取失败	80:-
+try.vip.com	183.240.49.132	80	nginx	80:正常访问
+mi.vip.com	14.17.85.49,14.17.91.49	-	端口未开放	端口未开放
+in.vip.com	221.228.213.94	80,443	nginx	80:(503) 服务器不可用
+pay.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+browse.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+sec.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+wifi.vip.com	183.61.89.83,183.61.89.19	80	获取失败	80:-
+safe.vip.com	183.6.216.42	80,443	nginx	80:(405) 不允许的方法
+chs.vip.com	221.228.213.150	80,443	-	80:(503) 服务器不可用
+community.vip.com	52.191.118.183	80,443	vipshop/Vbib	80:正常访问
+discovery.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+disney.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+detail.vip.com	219.147.92.64	80,443	vipshop/Vbib	80:正常访问
+es.vip.com	52.191.118.183	80,443	vipshop/Vbib	80:正常访问
+fj.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+category.vip.com	163.171.130.132	80,443	获取失败	80:-
+pic1.vip.com	163.171.130.132	80,443	获取失败	80:-
+files.vip.com	64.125.34.251,64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253	80,443	vipshop/VipS	80:(403) 已禁止
+edu.vip.com	219.147.92.64	80,443	vipshop/Vbib	80:正常访问
+act.vip.com	64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243,64.125.34.249	80,443	获取失败	80:-
+ias.vip.com	183.6.216.44	80,443	获取失败	80:-
+checkout.vip.com	163.171.130.132	443	获取失败	443:-
+www.vip.com	163.171.130.132	80,443	nginx	80:正常访问
+list.vip.com	163.171.130.132	80	获取失败	80:-
+err.vip.com	64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243	80,443	nginx	80:正常访问
+it.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+kr.vip.com	52.243.33.22	80,443	-	80:(503) 服务器不可用
+lc.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+ma.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+mx.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+mp.vip.com	221.228.212.24	80,443	nginx	80:(404) 未找到
+ru.vip.com	52.191.118.183	80,443	vipshop/Vbib	80:正常访问
+ns1.vip.com	183.232.169.63	-	端口未开放	端口未开放
+sd.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+sc.vip.com	64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251	80,443	vipshop/Vbib	80:正常访问
+stock.vip.com	183.240.49.134	80,443	nginx	80:(404) 未找到
+sy.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+3c.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+store.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+s2.vip.com	64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243	80,443	vipshop/Vbib	80:(403) 已禁止
+8.vip.com	36.25.241.254	80,443	获取失败	80:-
+h5.vip.com	183.6.216.43	80,443	nginx	80:(403) 已禁止
+vt.vip.com	120.83.182.133	80,443	nginx	80:正常访问
+size.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+shop.vip.com	163.171.130.132	80,443	获取失败	80:-
+man.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+one.vip.com	116.31.114.22	80,443	nginx	80:正常访问
+share.vip.com	64.125.34.243,64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251	80,443	获取失败	80:-
+send.vip.com	61.160.43.11	-	端口未开放	端口未开放
+vipfashion.vip.com	183.6.216.42,183.6.216.41	80,443	nginx	80:正常访问
+auth.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+rule.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+morning.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+tcl.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+y6.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+because.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+active.vip.com	14.17.91.38,14.17.85.38	80	获取失败	80:-
+school.vip.com	219.147.92.64	80,443	vipshop/Vbib	80:正常访问
+common.vip.com	219.147.92.64	80,443	nginx	80:正常访问
+trip.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+collection.vip.com	52.191.118.183	80,443	vipshop/Vbib	80:(403) 已禁止
+jump.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+defend.vip.com	36.25.241.254	80,443	vipshop/Vbkd	80:正常访问
+life.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+discover.vip.com	38.123.100.132	-	端口未开放	端口未开放
+instant.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+cup.vip.com	183.6.216.42	80,443	nginx	80:(405) 不允许的方法
+loan.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+sink.vip.com	183.6.216.44	80,443	nginx	80:(404) 未找到
+rank.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+arrow.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+dr.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+did.vip.com	14.17.85.201	443	-	443:(503) 服务器不可用
+jr.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+hudson.vip.com	183.240.49.132	80	nginx	80:正常访问
+forever.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+fund.vip.com	183.6.216.44	80,443	nginx	80:(405) 不允许的方法
+survey.vip.com	221.228.212.24	80,443	nginx	80:正常访问
+classic.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+cart.vip.com	163.171.130.132	80,443	获取失败	80:-
+800.vip.com	221.228.213.117	80,443	Tengine	80:(403) 已禁止
+aaaa.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+ba2.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+baihua.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+baoxian.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+dddd.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+dongzhi.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+fenghuang.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+fuxin.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+fushan.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+fuwu.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+hanying.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+huayi.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+huoban.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+hxjy.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+jiedian.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+jinrong.vip.com	183.6.216.43	80,443	nginx	80:(405) 不允许的方法
+jiudian.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+langjing.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+lenovo.vip.com	183.6.216.44	80,443	nginx	80:(404) 未找到
+leyou.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+lichuan.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+longfeng.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mapi.vip.com	183.6.216.43	80,443	nginx	80:(404) 未找到
+mbaobao.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mufeng.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+ns11.vip.com	139.159.20.28	-	端口未开放	端口未开放
+oauth.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+ns7.vip.com	14.17.72.89	-	端口未开放	端口未开放
+ns8.vip.com	183.60.220.6	-	端口未开放	端口未开放
+oa2.vip.com	210.21.83.150	-	端口未开放	端口未开放
+qiche.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+qianhui.vip.com	183.240.49.132	80	nginx	80:正常访问
+qingwa.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+robot.vip.com	221.228.213.115	80,443	nginx	80:(403) 已禁止
+sapi.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+recruit.vip.com	183.6.129.114	443	nginx	443:正常访问
+sheying.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+shny.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+shuangpai.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+shuangyu.vip.com	183.240.49.133	80	nginx	80:正常访问
+sibao.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+sleemon.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+supfire.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+suofeiya.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+tongxing.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+vippc.vip.com	183.6.216.43	80,443	nginx	80:(404) 未找到
+vendor.vip.com	121.32.130.122	-	端口未开放	端口未开放
+weixin.vip.com	120.83.182.132	80,443	nginx	80:正常访问
+weixin-static.vip.com	64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243	80,443	nginx/1.2.4	80:(403) 已禁止
+xiaoqiao.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+xiaozhi.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+xiuzheng.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+yijiaren.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+yinghua.vip.com	183.240.49.132	80	nginx	80:正常访问
+youlun.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+zhihui.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+zhenpin.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+zhongxing.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+bp.vip.com	183.240.49.131	80,443	nginx	80:正常访问
+gv.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+fa.vip.com	183.6.129.114	443	nginx	443:(403) 已禁止
+lm.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+qy.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+sf.vip.com	120.83.182.133	80,443	nginx	80:正常访问
+vp.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+bx.vip.com	183.6.216.43	80,443	nginx	80:(405) 不允许的方法
+wj.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+fp.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+sp.vip.com	64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243,64.125.34.249	80,443	vipshop/Vbib	80:(403) 已禁止
+aln.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+bba.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+bct.vip.com	183.6.216.44	80,443	nginx	80:(405) 不允许的方法
+bsm.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+csc.vip.com	221.228.213.117	80,443	Tengine	80:(403) 已禁止
+crw.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+dds.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+dji.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+fds.vip.com	183.6.216.43	80,443	nginx	80:(404) 未找到
+fzf.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+hdj.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+hzw.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+ics.vip.com	221.228.212.24	80,443	nginx	80:正常访问
+jbb.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+jhm.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+kml.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+kkc.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+lxq.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+lxj.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+mar.vip.com	36.25.241.254	80,443	vipshop/Vbib	80:正常访问
+miz.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mjn.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+mdp.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+mst.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+mpw.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+mbx.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mjr.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mtm.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mtj.vip.com	183.240.49.133	80	nginx	80:正常访问
+mlq.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+mzt.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mlc.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+mkt.vip.com	221.228.212.101	-	端口未开放	端口未开放
+ods.vip.com	14.17.85.150	80	PHENAS-CACHE/0.1.0	80:(404) 未找到
+osf.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+ota.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+otv.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+pls.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+pjd.vip.com	103.229.214.135	80,443	-	80:(503) 服务器不可用
+pdo.vip.com	202.108.35.250,202.108.35.226	80,443	nginx	80:(404) 未找到
+mcp.vip.com	183.240.49.131	80,443	nginx	80:尝试自动重定向的次数太多
+pms.vip.com	14.17.85.85,14.17.85.86	-	端口未开放	端口未开放
+shp.vip.com	183.240.49.132	80	nginx	80:正常访问
+seo.vip.com	64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243	80,443	vipshop/Vbib	80:正常访问
+skj.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+tjr.vip.com	120.83.182.132	80,443	nginx	80:正常访问
+txz.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+uls.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+tqt.vip.com	183.61.89.138	-	端口未开放	端口未开放
+vca.vip.com	221.228.213.115	80,443	nginx	80:(403) 已禁止
+vdo.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+vcc.vip.com	183.61.170.30,183.61.170.160	443	vipshop/Vbib	443:正常访问
+vfs.vip.com	163.171.140.176,163.171.132.128	80,443	vipshop/Vbib	80:(405) 不允许的方法
+vto.vip.com	183.6.216.41	80,443	nginx	80:(405) 不允许的方法
+wpc.vip.com	221.228.212.24	80,443	nginx	80:正常访问
+wjr.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+wxk.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+xhl.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+xtq.vip.com	120.83.182.131	80,443	nginx	80:正常访问
+yos.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+zek.vip.com	120.83.182.131	80,443	nginx	80:正常访问
+zsg.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+ztg.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+uas.vip.com	183.57.77.79	80,443	获取失败	80:-
+ds1.vip.com	106.48.12.40,106.48.12.36	80,443	JSP3/2.0.14	80:(403) 已禁止
+fp2.vip.com	183.6.216.44	80,443	nginx	80:(404) 未找到
+3myf.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+0727.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+aag1.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+aajj.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+adsj.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+aing.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+aipu.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+aols.vip.com	120.83.182.132	80,443	nginx	80:正常访问
+anpo.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+aupu.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+bans.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+bair.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+berz.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+bjhs.vip.com	183.6.216.42	80,443	获取失败	80:-
+cpai.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+curb.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+czsy.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+cybb.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+daqi.vip.com	183.6.216.42	80,443	获取失败	80:-
+demy.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+deli.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+dadi.vip.com	183.240.49.131	80,443	获取失败	80:-
+dryp.vip.com	183.240.49.134	80,443	nginx	80:正常访问
+dsdt.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+drmm.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+duka.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+dypg.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+eben.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+elle.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+eria.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+fymm.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+gbss.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+gery.vip.com	120.83.182.132	80,443	nginx	80:(404) 未找到
+gldt.vip.com	120.83.182.132	80,443	nginx	80:正常访问
+glks.vip.com	120.83.182.133	80,443	nginx	80:正常访问
+guyi.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+hqbb.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+hswn.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+hune.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+jgjf.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+jhsp.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+jidu.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+jkmj.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+jrda.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+jrhd.vip.com	120.83.182.131	80,443	nginx	80:(405) 不允许的方法
+kdep.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+kena.vip.com	120.83.182.133	80,443	nginx	80:正常访问
+keyu.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+kiwy.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+ksfs.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+ldmm.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+lkwd.vip.com	183.240.49.133	80	nginx	80:正常访问
+lmyk.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+ltvt.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+lusn.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+lvfu.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+lxds.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+m2fa.vip.com	183.61.170.125	443	nginx	443:(404) 未找到
+mkbl.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+mlbl.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+modi.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+mops.vip.com	64.125.34.249,64.125.34.252,64.125.34.253,64.125.34.251,64.125.34.243	80,443	web cache	80:(503) 服务器不可用
+msjc.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+mula.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+mvfq.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+mwyd.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+mxjd.vip.com	120.83.182.133	80,443	nginx	80:正常访问
+mxfd.vip.com	183.240.49.132	80	nginx	80:正常访问
+myjc.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+npay.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+nzdz.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+oapi.vip.com	14.17.85.14,14.17.91.14	-	端口未开放	端口未开放
+oxus.vip.com	120.83.182.134	80,443	nginx	80:正常访问
+papo.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+pns7.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pnsa.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pns2.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pns6.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pnsc.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pnse.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pnsf.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pns5.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pns0.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pns1.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pns9.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pns4.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pnsd.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pns3.vip.com	116.31.114.51	-	端口未开放	端口未开放
+pns8.vip.com	116.31.114.52	-	端口未开放	端口未开放
+pnsb.vip.com	116.31.114.52	-	端口未开放	端口未开放
+qjlp.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+reco.vip.com	183.240.49.131	80,443	nginx	80:正常访问
+rido.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+rsks.vip.com	183.240.49.134	80,443	nginx	80:正常访问
+sdip.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+sgwl.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+sh11.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+shkl.vip.com	183.6.216.44	80,443	nginx	80:(404) 未找到
+slem.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+smsj.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+ssww.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+sywd.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+syma.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+toys.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+tprc.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+unme.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+vcps.vip.com	116.31.114.208	80	nginx	80:(503) 服务器不可用
+vips.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+vone.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+vpal.vip.com	183.57.77.69	80,443	vipshop/Vips	80:(404) 未找到
+wctj.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+wfjn.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+winy.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+wxwj.vip.com	183.240.49.133	80	nginx	80:正常访问
+xbwv.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+xflp.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+xxmt.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+ygmj.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+yhdq.vip.com	183.6.216.43	80,443	nginx	80:(404) 未找到
+yier.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+yike.vip.com	183.6.216.42	80,443	nginx	80:(404) 未找到
+yily.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+yimi.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+yiyu.vip.com	183.6.216.43	80,443	nginx	80:正常访问
+yodo.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+ypoo.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+ytjj.vip.com	183.6.216.41	80,443	nginx	80:(404) 未找到
+yuai.vip.com	120.83.182.134	80,443	nginx	80:正常访问
+yuyu.vip.com	183.6.216.42	80,443	nginx	80:正常访问
+ywlt.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+yzym.vip.com	183.6.216.41	80,443	nginx	80:正常访问
+zjth.vip.com	183.240.49.133	80	nginx	80:(404) 未找到
+zqjj.vip.com	183.6.216.44	80,443	nginx	80:正常访问
+international.vip.com	163.171.130.132	80,443	获取失败	80:-
+400.vip.com	221.228.213.115	80,443	获取失败	80:-
+fancy.vip.com	183.240.49.134	80,443	获取失败	80:-
+maxx.vip.com	183.6.216.42	80,443	获取失败	80:-
+wpms.vip.com	183.6.216.43	80,443	获取失败	80:-

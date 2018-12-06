@@ -1,0 +1,74 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+ccwp.sf-express.com	111.230.1.177	80,443	nginx	80:正常访问
+fuwu.sf-express.com	111.230.1.177	80,443	nginx	80:正常访问
+career.sf-express.com	61.129.48.130	80	Apache	80:(403) 已禁止
+bidding.sf-express.com	218.17.224.153	-	端口未开放	端口未开放
+dm.sf-express.com	119.147.212.19	-	端口未开放	端口未开放
+ces.sf-express.com	218.17.224.166	-	端口未开放	端口未开放
+hkshop.sf-express.com	202.66.140.166	80,443	Microsoft-IIS/7.5	80:正常访问
+hkmarketing.sf-express.com	202.66.140.166	80,443	Microsoft-IIS/7.5	80:正常访问
+heike.sf-express.com	218.17.224.210	-	端口未开放	端口未开放
+hkncs.sf-express.com	202.66.140.170	-	端口未开放	端口未开放
+i.sf-express.com	14.21.78.192,118.180.15.219	443	nginx	443:正常访问
+hr.sf-express.com	202.103.150.108	-	端口未开放	端口未开放
+job.sf-express.com	218.17.224.152	-	端口未开放	端口未开放
+kf.sf-express.com	218.17.224.159	-	端口未开放	端口未开放
+origin.sf-express.com	218.17.224.196	-	端口未开放	端口未开放
+ovms-user.sf-express.com	218.17.224.190	-	端口未开放	端口未开放
+ows-dfppe.sf-express.com	119.147.212.30	-	端口未开放	端口未开放
+sfbuytest.sf-express.com	218.17.224.232	-	端口未开放	端口未开放
+sf-ocs.sf-express.com	218.17.224.160	-	端口未开放	端口未开放
+webmail.sf-express.com	111.230.207.62	80,443	nginx	80:正常访问
+sg.sf-express.com	115.42.211.32	-	端口未开放	端口未开放
+store.sf-express.com	218.17.224.41	-	端口未开放	端口未开放
+intl.sf-express.com	202.103.150.118	80	获取失败	80:-
+ucmp-entrance.sf-express.com	218.17.224.171	-	端口未开放	端口未开放
+vip.sf-express.com	119.147.212.120	-	端口未开放	端口未开放
+wbepnew.sf-express.com	58.250.206.153	80	Apache-Coyote/1.1	80:正常访问
+tw.sf-express.com	219.87.80.7	80	Microsoft-IIS/7.5	80:正常访问
+w2.sf-express.com	219.134.187.146	-	端口未开放	端口未开放
+a3.sf-express.com	218.17.32.70	-	端口未开放	端口未开放
+wwwuat.st.sf-express.com	219.134.187.147	80	-	80:(503) 服务器不可用
+campus.sf-express.com	218.17.224.143	80	获取失败	80:-
+appstg.sf-express.com	219.134.187.152	80	获取失败	80:-
+ses.sf-express.com	218.17.224.36	80	获取失败	80:-
+ovms.sf-express.com	218.17.224.190	80	获取失败	80:-
+open.sf-express.com	218.17.224.176	80	获取失败	80:-
+ocsuat.sf-express.com	219.134.187.147	80	获取失败	80:-
+w1.sf-express.com	219.134.187.147	80	获取失败	80:-
+sfftp.sf-express.com	218.17.224.77	443	获取失败	443:-
+www.sf-express.com	157.185.179.197	80,443	获取失败	80:-
+css.sf-express.com	14.21.71.107	80	nginx	80:正常访问
+update.sf-express.com	119.6.229.101,125.211.204.225,27.221.28.204,221.204.166.20,121.29.54.65,139.215.203.208,112.90.58.197,221.204.166.38,221.204.166.22,121.29.54.195,218.11.8.104,182.118.11.236,139.215.203.199,118.212.234.89,121.29.54.199	80,443	NWS_TCloud_S1	80:正常访问
+b2c.sf-express.com	118.89.75.125	80,443	nginx/1.13.3	80:正常访问
+qiao.sf-express.com	14.21.71.4	443	nginx	443:正常访问
+ftp.sf-express.com	202.66.140.173	-	端口未开放	端口未开放
+mail.sf-express.com	111.230.163.237	443	-	443:(400) 错误的请求
+ntp.sf-express.com	218.17.224.69	-	端口未开放	端口未开放
+honey.sf-express.com	218.17.32.39	80,443	获取失败	80:-
+dengta.sf-express.com	218.17.224.186	-	端口未开放	端口未开放
+ezgo.sf-express.com	218.17.224.168	80,443	nginx	80:正常访问
+exmail.sf-express.com	210.5.169.165	-	端口未开放	端口未开放
+ghs2.sf-express.com	202.103.150.72	80,443	nginx/1.6.0	80:(405) 不允许的方法
+ecs.sf-express.com	218.17.131.179	-	端口未开放	端口未开放
+ibs.sf-express.com	218.17.224.192	-	端口未开放	端口未开放
+gis.sf-express.com	14.21.71.63	443	nginx/1.13.12	443:(401) 未经授权
+kms.sf-express.com	218.18.153.217	-	端口未开放	端口未开放
+lbs.sf-express.com	14.21.71.77	80,443	nginx	80:正常访问
+lss.sf-express.com	14.21.71.84	80	Jetty(9.2.7.v20150116)	80:(404) 未找到
+owf.sf-express.com	218.17.224.196	80	获取失败	80:-
+sps.sf-express.com	218.17.32.35	443	nginx	443:正常访问
+srs.sf-express.com	218.17.224.102	80	nginx	80:正常访问
+acsp.sf-express.com	111.230.215.223	443	openresty	443:正常访问
+cemp.sf-express.com	14.21.71.41	80,443	nginx	80:正常访问
+eims.sf-express.com	218.11.8.104,139.215.203.199,221.204.166.20,101.69.121.120,119.6.229.101,121.29.54.199,182.118.11.236,221.204.166.38,221.204.60.63,139.215.203.208,27.221.28.207,221.204.166.22,27.221.28.204,121.29.54.195,125.211.204.225	443	NWSs	443:正常访问
+expe.sf-express.com	58.251.11.193	-	端口未开放	端口未开放
+imsp.sf-express.com	219.134.187.250	80,443	nginx	80:正常访问
+mcas.sf-express.com	218.17.224.79	80,443	Apache-Coyote/1.1	80:正常访问
+osms.sf-express.com	119.28.87.248	80,443	-	80:(503) 服务器不可用
+sfim.sf-express.com	218.17.224.106	80,443	ngx_openresty/1.4.3.6	80:(400) 错误的请求
+ssom.sf-express.com	111.230.215.133	80,443	nginx	80:(404) 未找到
+ucmp.sf-express.com	119.29.44.198,111.231.125.51,123.207.193.188,123.207.106.218	80,443	openresty	80:正常访问
+wbep.sf-express.com	218.17.224.26	80	-	80:(503) 服务器不可用
+wcas.sf-express.com	119.29.43.115	80,443	nginx	80:正常访问
+sfpw.sf-express.com	218.17.224.157	443	获取失败	443:-

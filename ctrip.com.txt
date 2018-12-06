@@ -1,0 +1,410 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+3300.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+3g.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+3uair.flights.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+8lair.flights.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+9cair.flights.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+accounts.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+116travel.flights.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+8684.vacations.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+ad206.ctrip.com	140.207.228.6	80		80:正常访问
+ad210.ctrip.com	140.207.228.6	80		80:正常访问
+accounts.corporatetravel.ctrip.com	101.226.248.40	-	端口未开放	端口未开放
+airbus.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(500) 内部服务器错误
+airchina.flights.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+airchina.hotels.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+alibaba.hotels.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+alibb.destguides.ctrip.com	140.207.228.6	80	nginx/1.14.0	80:正常访问
+app.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:正常访问
+bestdeals.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+b.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:尝试自动重定向的次数太多
+big5.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+bkair.flights.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+bus.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+c.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+caair.flights.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+car.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+card.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+cards.big5.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+campus.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:尝试自动重定向的次数太多
+cards.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+cctv.destguides.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+calendar.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+campaign.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+city8.vacations.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+corporatetravel.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+de.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+deals.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+destguides.corporatetravel.ctrip.com	114.80.124.109	-	端口未开放	端口未开放
+download.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:(403) 已禁止
+english.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+eplan.destguides.ctrip.com	114.80.124.109	-	端口未开放	端口未开放
+es.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+events.ctrip.com	101.226.248.25	-	端口未开放	端口未开放
+expo2010.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+flights.big5.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+fr.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+fun.ctrip.com	101.226.248.123	-	端口未开放	端口未开放
+help.big5.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+help.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+hhtravel.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+gzrb.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+huixuan.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+images.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:正常访问
+images2.ctrip.com	113.13.17.70,113.13.17.71	80,443	DnionOS/1.11.2.4_6	80:正常访问
+hunter.ctrip.com	101.226.249.3	-	端口未开放	端口未开放
+jifen.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+ir.ctrip.com	23.32.248.19,23.32.248.42	80,443		80:正常访问
+jp.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+kefu.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+kr.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+livechat.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+livechat.english.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+lipin.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+map.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+mcp.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+mice.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+mn.ctrip.com	101.226.248.177	-	端口未开放	端口未开放
+openapi.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+package.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+pages.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+pages.ctrip.com	59.80.23.81,59.80.23.78,59.80.23.79	80,443	获取失败	80:-
+pages.english.ctrip.com	183.56.168.99,14.215.100.233	80,443	Tengine/2.1.2	80:正常访问
+ru.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+recruitment.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:尝试自动重定向的次数太多
+sec.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(405) 不允许的方法
+sbooking.ctrip.com	101.226.248.142	-	端口未开放	端口未开放
+sinfo.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+tax.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+techshow.ctrip.com	101.226.248.119	-	端口未开放	端口未开放
+tujia.ctrip.com	110.173.1.195	-	端口未开放	端口未开放
+uedsummit.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+ued.ctrip.com	101.132.125.4	80	nginx/1.12.2	80:正常访问
+vbooking.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+vn.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+vpn.ctrip.com	140.207.228.6	80	获取失败	80:-
+webmail.ctrip.com	112.64.124.246	80,443	Microsoft-IIS/10.0	80:(440) Login Timeout
+vichy.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+weekend.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+vpn1.ctrip.com	180.166.109.211	-	端口未开放	端口未开放
+www.english.ctrip.com	140.207.228.6	80	Tengine/2.1.2	80:正常访问
+xc.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+youpiao.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+d.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+e.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+mall.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+api.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+mail1.ctrip.com	218.244.111.212	-	端口未开放	端口未开放
+ai.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+cat.ctrip.com	140.206.211.5	-	端口未开放	端口未开放
+passport.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+download2.ctrip.com	183.56.168.99,14.215.100.233	80,443	openresty/1.9.7.2	80:(404) 未找到
+online.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+shop.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+activity.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:(404) 未找到
+tw.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+service.ctrip.com	101.226.248.177	-	端口未开放	端口未开放
+git.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+security.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(405) 不允许的方法
+pay.ctrip.com	140.206.211.82	80,443	Tengine/2.1.2	80:(404) 未找到
+pic.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:正常访问
+picture.ctrip.com	210.13.114.53	-	端口未开放	端口未开放
+agent.ctrip.com	101.226.248.99	-	端口未开放	端口未开放
+au.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+california.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+channel.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+cl.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+customer.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+dev.ctrip.com	140.206.211.198	80,443	Tengine/2.1.2	80:(404) 未找到
+design.ctrip.com	221.6.196.51	-	端口未开放	端口未开放
+europe.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+external.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+fs.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+go.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+im.ctrip.com	140.207.228.187	80,443	Cowboy	80:(404) 未找到
+live.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+lists.ctrip.com	210.13.114.80	-	端口未开放	端口未开放
+me.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+mail2.ctrip.com	218.244.111.195	-	端口未开放	端口未开放
+mx.ctrip.com	180.166.109.199	-	端口未开放	端口未开放
+ns1.ctrip.com	210.13.114.42	-	端口未开放	端口未开放
+ns2.ctrip.com	140.206.211.7	-	端口未开放	端口未开放
+ns3.ctrip.com	210.13.114.44	-	端口未开放	端口未开放
+ns4.ctrip.com	114.80.10.7	-	端口未开放	端口未开放
+partner.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+ns5.ctrip.com	101.226.248.130	-	端口未开放	端口未开放
+services.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+student.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+secure.ctrip.com	140.207.228.148	443	Tengine/2.1.2	443:正常访问
+sms.ctrip.com	112.64.124.244	-	端口未开放	端口未开放
+tm.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+vpn2.ctrip.com	112.64.124.249	-	端口未开放	端口未开放
+voip.ctrip.com	180.166.113.121	-	端口未开放	端口未开放
+ws.ctrip.com	210.13.114.125	-	端口未开放	端口未开放
+ws2.ctrip.com	203.156.203.92	-	端口未开放	端口未开放
+can.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+life.ctrip.com	140.206.211.198	80,443	Tengine/2.1.2	80:(404) 未找到
+pad.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+mx1.ctrip.com	112.64.124.75	-	端口未开放	端口未开放
+mx2.ctrip.com	112.64.124.236	-	端口未开放	端口未开放
+mx3.ctrip.com	210.13.114.37	-	端口未开放	端口未开放
+market.ctrip.com	101.226.248.61	-	端口未开放	端口未开放
+art.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+material.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+trade.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+university.ctrip.com	120.204.233.226	-	端口未开放	端口未开放
+dream.ctrip.com	59.80.23.81,59.80.23.78,59.80.23.79	80,443	openresty	80:(502) 错误的网关
+sport.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+lock.ctrip.com	101.226.248.240	-	端口未开放	端口未开放
+risk.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(403) 已禁止
+bag.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+insurance.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+translate.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+credit.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+questionnaire.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+finance.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+promotion.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+263.ctrip.com	210.13.114.3	-	端口未开放	端口未开放
+apidoc.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+australia.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+admin.corp.ctrip.com	101.226.248.13	-	端口未开放	端口未开放
+crawler.ctrip.com	140.207.228.97	80,443	Microsoft-IIS/7.5	80:正常访问
+images3.ctrip.com	119.146.74.35	80,443	JSP3/2.0.14	80:正常访问
+lb1.ctrip.com	210.13.114.2	-	端口未开放	端口未开放
+mail8.ctrip.com	112.64.124.246	80,443	-	80:(403) 已禁止
+mail4.ctrip.com	210.13.114.39	-	端口未开放	端口未开放
+mail5.ctrip.com	218.244.111.206	-	端口未开放	端口未开放
+mail3.ctrip.com	218.244.111.197	-	端口未开放	端口未开放
+mail6.ctrip.com	210.13.114.38	-	端口未开放	端口未开放
+mail7.ctrip.com	203.156.203.87	-	端口未开放	端口未开放
+mx4.ctrip.com	180.166.109.210	-	端口未开放	端口未开放
+mx1.edm.ctrip.com	59.42.254.232	-	端口未开放	端口未开放
+mx5.ctrip.com	180.166.109.216	-	端口未开放	端口未开放
+mx6.ctrip.com	180.166.109.217	-	端口未开放	端口未开放
+ns7.ctrip.com	140.207.228.14	-	端口未开放	端口未开放
+ns6.ctrip.com	101.226.248.131	-	端口未开放	端口未开放
+ns8.ctrip.com	140.207.228.15	-	端口未开放	端口未开放
+pujiang.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+scrm.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+shark.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+sitemap.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+vendor.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+webmail1.ctrip.com	180.166.109.195	-	端口未开放	端口未开放
+yacht.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+zhixing.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+ic.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+ti.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+zc.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+ags.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+bnb.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+bst.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+ctd.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+cts.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+cyx.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+dcs.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+dco.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+dst.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:正常访问
+fnc.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+fjp.ctrip.com	60.28.202.101	-	端口未开放	端口未开放
+gbs.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+gbk.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+ima.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+ibu.ctrip.com	101.226.248.57	-	端口未开放	端口未开放
+mgm.ctrip.com	59.80.23.81,59.80.23.78,59.80.23.79	80,443	openresty	80:(502) 错误的网关
+mkt.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+msn.ctrip.com	101.226.248.1	-	端口未开放	端口未开放
+sso.ctrip.com	140.206.211.198	80,443	Tengine/2.1.2	80:(404) 未找到
+sts.ctrip.com	112.64.124.227	80,443	Microsoft-IIS/7.5	80:正常访问
+tuj.ctrip.com	110.173.1.195	-	端口未开放	端口未开放
+vdi.ctrip.com	180.166.109.195	-	端口未开放	端口未开放
+wpg.ctrip.com	140.206.211.102	80,443	获取失败	80:-
+wng.ctrip.com	140.207.229.37	80	获取失败	80:-
+wxd.ctrip.com	218.91.233.16	-	端口未开放	端口未开放
+lb4.ctrip.com	210.13.114.14	-	端口未开放	端口未开放
+lb3.ctrip.com	210.13.114.13	-	端口未开放	端口未开放
+lb6.ctrip.com	211.95.80.69	-	端口未开放	端口未开放
+lb2.ctrip.com	210.13.114.4	-	端口未开放	端口未开放
+lb8.ctrip.com	210.13.114.10	-	端口未开放	端口未开放
+lb7.ctrip.com	210.13.114.9	-	端口未开放	端口未开放
+lb5.ctrip.com	211.95.80.73	-	端口未开放	端口未开放
+mx8.ctrip.com	112.64.124.231	-	端口未开放	端口未开放
+mx7.ctrip.com	112.64.124.229	-	端口未开放	端口未开放
+mx9.ctrip.com	112.64.124.252	-	端口未开放	端口未开放
+appd.ctrip.com	14.215.100.233,183.56.168.99	80,443	Tengine/2.1.2	80:(404) 未找到
+carm.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(502) 错误的网关
+cdsp.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+citm.ctrip.com	101.226.248.13	-	端口未开放	端口未开放
+cpsp.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+cssp.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+csrc.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+cpns.ctrip.com	101.226.249.236	-	端口未开放	端口未开放
+cvpn.ctrip.com	180.166.109.213	-	端口未开放	端口未开放
+dest.ctrip.com	183.56.168.99,14.215.100.233	80,443	nginx	80:(502) 错误的网关
+hims.ctrip.com	140.207.228.45	80,443	Tengine/2.1.2	80:(404) 未找到
+ivpn.ctrip.com	112.64.124.245	80,443	获取失败	80:-
+mbst.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+mx11.ctrip.com	112.64.124.77	-	端口未开放	端口未开放
+mx12.ctrip.com	112.64.124.78	-	端口未开放	端口未开放
+mx10.ctrip.com	112.64.124.76	-	端口未开放	端口未开放
+noc2.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:正常访问
+upay.ctrip.com	140.206.211.31	80,443	Tengine/2.1.2	80:(404) 未找到
+ad320.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad200.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad201.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad202.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad307.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad302.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad305.ctrip.com	140.207.228.6	80	获取失败	80:-
+airchina.ctrip.com	140.207.228.6	80	获取失败	80:-
+cnair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+ad303.ctrip.com	140.207.228.6	80	获取失败	80:-
+xinhuanet.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad300.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad301.ctrip.com	140.207.228.6	80	获取失败	80:-
+cds.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad203.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad350.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad502.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad500.ctrip.com	140.207.228.6	80	获取失败	80:-
+cctv.ctrip.com	140.207.228.6	80	获取失败	80:-
+deals.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad221.ctrip.com	140.207.228.6	80	获取失败	80:-
+alibb.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad220.ctrip.com	140.207.228.6	80	获取失败	80:-
+gs.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+www.corporatetravel.ctrip.com	140.207.228.48	80,443	获取失败	80:-
+epson.ctrip.com	140.207.228.6	80	获取失败	80:-
+cs-air.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+cdn1.ctrip.com	140.207.228.6	80	获取失败	80:-
+dgtba.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+cctv.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+destinations.ctrip.com	140.207.228.6	80	获取失败	80:-
+alibb.ctrip.com	140.207.228.6	80	获取失败	80:-
+jr.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+ad306.ctrip.com	140.207.228.6	80	获取失败	80:-
+euair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+jiudian.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+alibaba.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+tuan.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+eplan.ctrip.com	140.207.228.6	80	获取失败	80:-
+youlun.ctrip.com	140.207.228.6	80	获取失败	80:-
+scair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+passatvip.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+fesco.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+mfair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+tbooking.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+vip.bmcc.ctrip.com	140.207.228.6	80	获取失败	80:-
+you.ctrip.com	140.207.228.16	80,443	获取失败	80:-
+uaa.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+hotel.ctrip.com	140.207.228.6	80	获取失败	80:-
+taocan.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+ebig5.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+inn.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+hotels.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+g.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+flight.ctrip.com	140.207.228.6	80	获取失败	80:-
+tuan.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+big5.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+gsair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+fesco.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+dp.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+ht.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+eplan.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+ebig5.ctrip.com	140.207.228.6	80	获取失败	80:-
+huodong.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+hoair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+gotone.zmcc.ctrip.com	140.207.228.6	80	获取失败	80:-
+cs-air.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+destguides.ctrip.com	140.207.228.6	80	获取失败	80:-
+huixuan.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+gotone.smcc.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+eb.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+cdn2.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad5.ctrip.com	140.207.228.6	80	获取失败	80:-
+ct.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+eplan.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+wwww.ctrip.com	140.207.228.6	80	获取失败	80:-
+uaa.destguides.ctrip.com	140.207.228.6	80	获取失败	80:-
+taocan.corporatetravel.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+rails.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+train.ctrip.com	140.207.228.6	80	获取失败	80:-
+pda.ctrip.com	140.207.228.6	80	获取失败	80:-
+tejia.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+vacations.corporatetravel.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+qdcnc.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+lvyou.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+top.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+jrair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+u.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+job.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+muair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+czair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+ww.ctrip.com	140.207.228.6	80	获取失败	80:-
+travel.ctrip.com	140.207.228.6	80	获取失败	80:-
+base.ctrip.com	140.207.228.6	80	获取失败	80:-
+parking.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+meeting.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+pnair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+passatvip.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+m-zone.bmcc.ctrip.com	140.207.228.6	80	获取失败	80:-
+open.ctrip.com	140.207.228.6	80	获取失败	80:-
+spdb.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+kyair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+dining.ctrip.com	140.207.228.6	80	获取失败	80:-
+alibaba.ctrip.com	140.207.228.6	80	获取失败	80:-
+ad205.ctrip.com	140.207.228.6	80	获取失败	80:-
+big5.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+knair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+cruise.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+hotels.corporatetravel.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+job.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+mm.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+syt.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+vacations.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+dest.sina.ctrip.com	140.207.228.6	80	获取失败	80:-
+shouji.ctrip.com	118.89.207.157	80,443	获取失败	80:-
+em.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+tvair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+f.ctrip.com	140.207.228.6	80	获取失败	80:-
+www.ctrip.com	118.89.206.133	80,443	获取失败	80:-
+vacations.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+alliance.ctrip.com	140.207.228.6	80	获取失败	80:-
+m.ebooking.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+qijiang.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+gsh.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+qqq.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+you.big5.ctrip.com	140.207.228.6	80	获取失败	80:-
+fmair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+huoche.ctrip.com	140.207.228.6	80	获取失败	80:-
+nsair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+spdb.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+trains.ctrip.com	140.206.211.198	80,443	获取失败	80:-
+uaa.ctrip.com	140.207.228.6	80	获取失败	80:-
+zhair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+wap.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+ebooking.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+hotels.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+jdair.flights.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+tuans.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+vacation.ctrip.com	140.207.228.6	80	获取失败	80:-
+tc.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+g5air.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+sc.xinhuanet.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+trains.big5.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+z.ctrip.com	140.207.228.6	80	获取失败	80:-
+gotone.bmcc.ctrip.com	140.207.228.6	80	获取失败	80:-
+cctv.hotels.ctrip.com	140.207.228.6	80	获取失败	80:-
+cs-air.ctrip.com	140.207.228.6	80	获取失败	80:-
+fesco.ctrip.com	140.207.228.6	80	获取失败	80:-
+jipiao.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+huair.flights.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+eastday.destguides.ctrip.com	140.207.228.6	80	获取失败	80:-
+m.ctrip.com	140.207.228.45	80,443	获取失败	80:-
+v.ctrip.com	140.207.228.6	80	获取失败	80:-
+piao.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+my.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+tfol.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+seccenter.ctrip.com	140.206.211.31	80,443	获取失败	80:-
+uaa.flights.ctrip.com	140.207.228.6	80	获取失败	80:-
+ebooking2.ctrip.com	140.206.211.31	80,443	获取失败	80:-

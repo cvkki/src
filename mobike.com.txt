@@ -1,0 +1,44 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+api.mobike.com	154.8.132.157	443	获取失败	443:-
+m.mobike.com	118.89.5.53,154.8.132.158	443	openresty	443:正常访问
+www.mobike.com	211.159.144.63	80,443	获取失败	80:-
+mail.mobike.com	42.159.163.130,42.159.40.2,42.159.40.66,42.159.163.194	80,443	Microsoft-IIS/10.0	80:(440) Login Timeout
+app.mobike.com	118.89.5.52	443	获取失败	443:-
+static.mobike.com	60.167.222.67,221.228.219.62,180.101.217.254,58.216.107.116	80,443	NWSs	80:(404) 未找到
+apple.mobike.com	211.159.232.231	443	openresty	443:正常访问
+open.mobike.com	118.89.5.52	443	openresty	443:(404) 未找到
+back.mobike.com	10.0.1.2	-	端口未开放	端口未开放
+msg.mobike.com	139.219.12.51	-	端口未开放	端口未开放
+pan.mobike.com	114.255.214.205	-	端口未开放	端口未开放
+security.mobike.com	140.143.181.89	80,443	nginx/1.14.0	80:正常访问
+business.mobike.com	118.89.5.54,154.8.132.153	443	openresty	443:正常访问
+console.mobike.com	10.1.0.36	-	端口未开放	端口未开放
+auth.mobike.com	118.89.5.52	443	获取失败	443:-
+france.mobike.com	140.143.217.228	80,443	openresty	80:正常访问
+gold.mobike.com	211.159.232.209	443	openresty	443:正常访问
+internal.mobike.com	114.255.214.215	-	端口未开放	端口未开放
+lambda.mobike.com	118.89.213.172	443	openresty/1.11.2.5	443:(502) 错误的网关
+orange.mobike.com	211.159.232.236	443	stgw/1.3.9_1.13.5	443:(502) 错误的网关
+h5.mobike.com	118.89.5.53	443	openresty	443:正常访问
+m2.mobike.com	118.89.5.53	443	openresty	443:正常访问
+m3.mobike.com	118.89.5.55,154.8.132.16	443	openresty	443:正常访问
+next.mobike.com	42.159.25.99	-	端口未开放	端口未开放
+event.mobike.com	154.8.132.158	443	openresty	443:(403) 已禁止
+taxi.mobike.com	118.89.5.53	443	openresty	443:正常访问
+craft.mobike.com	211.159.232.199	80,443	openresty	80:正常访问
+giant.mobike.com	211.159.232.178	443	openresty	443:正常访问
+apiv2.mobike.com	118.89.5.52	443	获取失败	443:-
+bike.mobike.com	154.8.132.158	443	openresty	443:正常访问
+mqtt.mobike.com	211.159.232.240	443	获取失败	443:-
+uapi.mobike.com	118.89.5.52	443	获取失败	443:-
+cwx.mobike.com	118.89.5.52	443	获取失败	443:-
+ecs.mobike.com	114.255.214.192	-	端口未开放	端口未开放
+lwx.mobike.com	118.89.5.52	443	获取失败	443:-
+mwx.mobike.com	154.8.132.157	443	获取失败	443:-
+pwx.mobike.com	154.8.132.157	443	获取失败	443:-
+uwx.mobike.com	118.89.5.52	443	获取失败	443:-
+adfs.mobike.com	114.255.214.196	443	Microsoft-HTTPAPI/2.0	443:(404) 未找到
+capi.mobike.com	118.89.5.52	443	获取失败	443:-
+lapi.mobike.com	154.8.132.157	443	获取失败	443:-
+mola.mobike.com	154.8.132.157	443	openresty	443:正常访问
+papi.mobike.com	154.8.132.157	443	获取失败	443:-

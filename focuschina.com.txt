@@ -1,0 +1,12 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+cecd.focuschina.com	222.190.108.221	80,443	nginx	80:正常访问
+jsctf.focuschina.com	222.190.108.221	80,443	获取失败	80:-
+security.focuschina.com	222.190.108.204	80,443	nginx	80:正常访问
+www.focuschina.com	221.6.35.102	80,443	nginx	80:正常访问
+tcd.focuschina.com	222.190.108.221	80,443	获取失败	80:-
+sec.focuschina.com	220.128.78.7	80	获取失败	80:-
+ftp.focuschina.com	221.6.35.102	80,443	获取失败	80:-
+ns1.focuschina.com	58.240.26.21	-	端口未开放	端口未开放
+ns3.focuschina.com	221.130.6.173	-	端口未开放	端口未开放
+ns2.focuschina.com	221.226.184.163	-	端口未开放	端口未开放
+mx1.focuschina.com	218.104.82.229	443	Apache	443:(403) 已禁止

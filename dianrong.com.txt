@@ -1,0 +1,57 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.dianrong.com	180.97.158.118,122.228.238.29	80,443		80:正常访问
+forum.dianrong.com	180.97.158.118,117.21.219.90	80,443		80:正常访问
+m.dianrong.com	120.132.26.101	80,443		80:正常访问
+s.dianrong.com	58.215.145.148	80,443	Tengine	80:(404) 未找到
+mail.dianrong.com	120.132.26.101	80,443	Microsoft-IIS/10.0	80:(440) Login Timeout
+cms.dianrong.com	106.75.211.123	80,443	Tengine	80:(400) 错误的请求
+api.dianrong.com	117.21.219.90,180.97.158.118	80,443		80:正常访问
+static.dianrong.com	122.228.238.24,180.97.158.118	80,443		80:正常访问
+vip.dianrong.com	120.132.26.101	80,443	nginx	80:正常访问
+en.dianrong.com	117.21.219.90,180.97.158.118	80,443		80:正常访问
+image.dianrong.com	58.215.145.187	80,443	Tengine	80:(403) 已禁止
+security.dianrong.com	117.21.219.90,180.97.158.118	80,443		80:正常访问
+dl.dianrong.com	112.124.39.25	80,443	nginx	80:(403) 已禁止
+wiki.dianrong.com	203.156.222.102	80,443	Tengine	80:(400) 错误的请求
+oa.dianrong.com	203.156.222.102	80,443	Tengine	80:(400) 错误的请求
+auth.dianrong.com	180.97.158.118,117.21.219.90	80,443		80:正常访问
+cm.dianrong.com	120.132.26.101	80,443	nginx	80:(400) 错误的请求
+code.dianrong.com	203.156.222.102	80,443	Tengine	80:(403) 已禁止
+files.dianrong.com	180.97.158.118,122.228.238.24	80,443		80:正常访问
+dt.dianrong.com	139.196.71.178	80,443	Tengine/2.2.0	80:尝试自动重定向的次数太多
+im.dianrong.com	120.132.26.101	80,443	nginx	80:正常访问
+mc.dianrong.com	120.132.26.101	80,443	Tengine	80:(400) 错误的请求
+it.dianrong.com	10.18.17.240	-	端口未开放	端口未开放
+one.dianrong.com	120.132.26.101	80,443	nginx	80:(400) 错误的请求
+trust.dianrong.com	180.97.158.118,106.42.25.200	80,443		80:正常访问
+silk.dianrong.com	120.132.26.101	80,443	nginx	80:正常访问
+horizon.dianrong.com	106.42.25.200,180.97.158.118	80,443	-	80:(404) 未找到
+issue.dianrong.com	203.156.222.102	80,443	Tengine	80:(400) 错误的请求
+matrix.dianrong.com	120.132.26.101	80,443	nginx	80:(403) 已禁止
+promotion.dianrong.com	106.42.25.200,180.97.158.118	80,443	-	80:(502) 错误的网关
+api-dev.dianrong.com	203.156.222.102	80,443	获取失败	80:-
+crawler.dianrong.com	139.196.71.178	80,443	Tengine/2.2.0	80:正常访问
+mengzi.dianrong.com	203.156.222.102	80,443	获取失败	80:-
+nexus.dianrong.com	203.156.222.102	80,443	Tengine	80:(403) 已禁止
+openvpn.bjbgp.dianrong.com	77.4.7.92	-	端口未开放	端口未开放
+tracking.dianrong.com	122.228.238.24,180.97.158.118	80,443	-	80:(404) 未找到
+fp.dianrong.com	180.97.158.118,122.228.238.29	80,443		80:正常访问
+sp.dianrong.com	117.21.219.90,180.97.158.118	80,443		80:正常访问
+ui.dianrong.com	180.97.158.118,117.21.219.90	80,443		80:正常访问
+dx.dianrong.com	117.21.219.90,180.97.158.118	80,443	-	80:(502) 错误的网关
+crc.dianrong.com	120.132.24.146	80,443	Tengine	80:(400) 错误的请求
+dai.dianrong.com	117.21.219.90,180.97.158.118	80,443		80:正常访问
+iqc.dianrong.com	139.196.10.166	80	nginx/1.10.3 (Ubuntu)	80:正常访问
+ehr.dianrong.com	106.42.25.200,180.97.158.118	80,443	-	80:尝试自动重定向的次数太多
+nlp.dianrong.com	106.14.39.16	80	nginx/1.4.6 (Ubuntu)	80:正常访问
+npm.dianrong.com	203.156.222.102	80,443	Tengine	80:(403) 已禁止
+rcc.dianrong.com	120.132.25.210	80,443	nginx/1.12.2	80:(403) 已禁止
+scf.dianrong.com	120.132.26.101	80,443	nginx	80:(400) 错误的请求
+sns.dianrong.com	113.107.238.208,180.97.158.118	80,443	-	80:(404) 未找到
+sip.dianrong.com	42.159.34.46	443	RTC/7.0	443:(404) 未找到
+sme.dianrong.com	180.97.158.118,117.21.219.90	80,443		80:正常访问
+adfs.dianrong.com	203.156.222.102	80,443	Tengine	80:(400) 错误的请求
+baas.dianrong.com	58.58.81.254,180.97.158.118	80,443		80:正常访问
+icrc.dianrong.com	120.132.26.101	80,443	nginx	80:(400) 错误的请求
+l.dianrong.com	180.97.158.118,122.228.238.29	80,443	获取失败	80:-
+store.dianrong.com	113.107.238.208,180.97.158.118	80,443	获取失败	80:-

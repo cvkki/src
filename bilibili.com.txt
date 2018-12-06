@@ -1,0 +1,107 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+game.bilibili.com	87.245.210.77,87.245.210.76,87.245.210.11,87.245.210.7,87.245.210.8	80,443	NWS_Oversea_AP	80:正常访问
+app.bilibili.com	148.153.35.66	80,443	nginx	80:正常访问
+activity.bilibili.com	148.153.35.66	80,443	nginx	80:正常访问
+h.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+big.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+live.bilibili.com	148.153.35.66	80,443		80:正常访问
+bml.bilibili.com	148.153.35.66	80,443		80:正常访问
+api.bilibili.com	148.153.35.66	80,443		80:正常访问
+bangumi.bilibili.com	148.153.35.66	80,443		80:正常访问
+member.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+message.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+news.bilibili.com	148.153.35.66	80,443	nginx	80:正常访问
+search.bilibili.com	148.153.35.66	80,443		80:正常访问
+qsmy.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+space.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+vip.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+account.bilibili.com	148.153.35.66	443	Tengine	443:正常访问
+docs.bilibili.com	42.120.0.158	-	端口未开放	端口未开放
+zb.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+d.bilibili.com	148.153.35.66	80,443	Tengine	80:(403) 已禁止
+t.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+mall.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+img.bilibili.com	47.246.2.225,47.246.2.226,47.246.2.228,47.246.2.229,47.246.2.232,47.246.2.230,47.246.2.227,47.246.2.231	80,443	Tengine	80:(502) 错误的网关
+mail.bilibili.com	121.43.184.213	80	nginx	80:正常访问
+passport.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+service.bilibili.com	111.231.124.91	80,443	Tengine	80:正常访问
+show.bilibili.com	47.246.2.228,47.246.2.227,47.246.2.225,47.246.2.229,47.246.2.231,47.246.2.232,47.246.2.230,47.246.2.226	80,443	Tengine	80:正常访问
+pay.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+security.bilibili.com	148.153.35.66	80,443	Tengine/2.2.0	80:正常访问
+bw.bilibili.com	148.153.35.66	80,443		80:正常访问
+club.bilibili.com	148.153.35.66	80,443	Apache-Coyote/1.1	80:正常访问
+chat.bilibili.com	120.92.78.57,120.92.112.150,120.92.158.137,120.92.144.250	80,443		80:正常访问
+cm.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+data.bilibili.com	80.231.126.181,80.231.126.236,80.231.126.183,80.231.126.186,80.231.126.184,80.231.126.182,80.231.126.185	80,443	Tengine	80:(404) 未找到
+info.bilibili.com	87.245.210.8,87.245.210.7,87.245.210.76,87.245.210.11,87.245.210.77	80,443	Tengine	80:(403) 已禁止
+ir.bilibili.com	23.32.248.42,23.32.248.19	80,443		80:正常访问
+link.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+pictures.bilibili.com	87.245.210.11,87.245.210.76,87.245.210.8,87.245.210.77,87.245.210.7	80,443	获取失败	80:-
+secure.bilibili.com	148.153.35.66,107.150.117.242	80,443	Tengine	80:(404) 未找到
+stat.bilibili.com	42.121.54.103	-	端口未开放	端口未开放
+vc.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+draw.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+short.bilibili.com	110.76.40.240	80,443	Tengine	80:(403) 已禁止
+player.bilibili.com	80.231.126.181,80.231.126.185,80.231.126.182,80.231.126.186,80.231.126.184,80.231.126.183,80.231.126.236	80,443	Tengine	80:(403) 已禁止
+campus.bilibili.com	148.153.35.66	80,443	nginx	80:正常访问
+200.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+abc.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+admin.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+adsas.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+apix.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+asadas.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+baidu.bilibili.com	123.125.114.32	80,443	bfe	80:(500) 内部服务器错误
+beta.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+boy.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+boydadas.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+cc.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+comic.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+dasdasd.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+dasdas.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+demo.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+dev.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+edsad.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+elec.bilibili.com	148.153.35.66	80,443	Apache-Coyote/1.1	80:正常访问
+dump.bilibili.com	183.131.11.46	-	端口未开放	端口未开放
+g.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+hghsa.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+hkhyjd.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+image.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+jiaoyou.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+m.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+manga.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+mmm.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+no-cdn.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+pre.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+qssbbs.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+resolve-to.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+sfdghd.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+source.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+sitemap.bilibili.com	58.220.29.49	80	Tengine	80:(502) 错误的网关
+suyijc.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+syjxj.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+test.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+tmp.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+test.live.bilibili.com	183.131.11.57	-	端口未开放	端口未开放
+uploads.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+v.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+wdx.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+wdx2.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+wap.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+xhlt.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+xiao.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+xxx.www.bilibili.com	148.153.35.66	80,443	Tengine	80:(404) 未找到
+hd.bilibili.com	148.153.35.66	80,443		80:正常访问
+tb.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+bbq.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+bp.bilibili.com	107.150.117.242,148.153.35.66	80,443	获取失败	80:-
+mcn.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+moe.bilibili.com	148.153.35.66	80,443	Tengine	80:正常访问
+bvpn.bilibili.com	121.46.231.68,222.73.196.20	80,443	Server	80:正常访问
+prop.bilibili.com	148.153.35.66,107.150.117.242	80,443	Tengine	80:(502) 错误的网关
+comment.bilibili.com	148.153.35.66	80,443	获取失败	80:-
+m.bilibili.com	148.153.35.66	80,443	获取失败	80:-
+www.bilibili.com	148.153.35.66	80,443	获取失败	80:-
+yoo.bilibili.com	148.153.35.66	80,443	获取失败	80:-
+lvyou.bilibili.com	148.153.35.66	80,443	获取失败	80:-
+interface.bilibili.com	148.153.35.66	80,443	获取失败	80:-

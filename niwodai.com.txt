@@ -1,0 +1,35 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+club2.niwodai.com	140.207.213.147	80,443		80:正常访问
+club.niwodai.com	163.171.198.156	80,443		80:正常访问
+static2.niwodai.com	163.171.193.128	80,443		80:正常访问
+www.google.com.hkwww.niwodai.com	74.86.12.172	-	端口未开放	端口未开放
+wap1.niwodai.com	140.206.73.133	80,443		80:正常访问
+apk.niwodai.com	163.171.193.128	80,443		80:正常访问
+api.niwodai.com	222.73.109.222	80,443	-	80:(404) 未找到
+static.niwodai.com	61.221.181.253	80,443		80:正常访问
+open.niwodai.com	61.221.181.253	80,443		80:正常访问
+vip.niwodai.com	112.65.248.148	80,443	-	80:(404) 未找到
+shop.niwodai.com	61.221.181.253	80,443		80:正常访问
+sec.niwodai.com	61.221.181.253	80,443	-	80:(404) 未找到
+at.niwodai.com	203.110.168.4	80,443		80:正常访问
+head.niwodai.com	61.147.111.115	80,443	-	80:(404) 未找到
+smtp.niwodai.com	223.252.214.64,223.252.214.65,223.252.214.74,223.252.214.69	80,443	nginx	80:正常访问
+5m.niwodai.com	61.221.181.253	80,443	openresty	80:正常访问
+5k.niwodai.com	61.221.181.253	80,443		80:正常访问
+5a.niwodai.com	61.221.181.253	80,443		80:正常访问
+action.niwodai.com	163.171.193.128	80,443	-	80:(403) 已禁止
+collector.niwodai.com	114.55.18.14	-	端口未开放	端口未开放
+ticket.niwodai.com	203.110.168.7	80,443	获取失败	80:-
+display.niwodai.com	61.147.111.115	80,443		80:正常访问
+outcome.niwodai.com	163.171.198.156	80,443		80:正常访问
+openvpn.niwodai.com	118.5.49.6	-	端口未开放	端口未开放
+openvpn.bjbgp.niwodai.com	189.163.17.5	-	端口未开放	端口未开放
+wechat.niwodai.com	61.221.181.253	80,443	-	80:(404) 未找到
+weixin.niwodai.com	116.228.51.194	80,443	-	80:(404) 未找到
+wwwww.niwodai.com	61.221.181.253	80,443		80:正常访问
+mk1.niwodai.com	192.168.40.119	-	端口未开放	端口未开放
+wk1.niwodai.com	192.168.40.119	-	端口未开放	端口未开放
+41wu.niwodai.com	222.218.212.140	-	端口未开放	端口未开放
+hdfs.niwodai.com	116.228.51.194	80,443	-	80:(404) 未找到
+klxt.niwodai.com	222.218.212.140	-	端口未开放	端口未开放
+ttbf.niwodai.com	222.218.212.140	-	端口未开放	端口未开放

@@ -1,0 +1,6 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.sposter.net	120.26.162.192	80,443	nginx/1.10.2	80:正常访问
+mall.sposter.net	120.55.249.103	80,443		80:正常访问
+cdn.sposter.net	121.199.7.125	80,443	Apache	80:(404) 未找到
+music.sposter.net	122.115.62.145	80,443	Microsoft-IIS/7.0	80:(500) 内部服务器错误
+goods.sposter.net	112.124.50.175	80,443	openresty/1.13.6.1	80:正常访问

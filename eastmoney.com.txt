@@ -1,0 +1,271 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+3g.eastmoney.com	101.226.184.236,222.73.96.84,222.73.96.85,101.226.184.235	80	Microsoft-IIS/7.5	80:正常访问
+app.jg.eastmoney.com	183.136.162.253	80,443	nginx/1.2.2	80:(403) 已禁止
+auto.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+bank.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+biz.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+blog.eastmoney.com	43.240.129.239	80	Microsoft-IIS/7.5	80:正常访问
+caipiao.eastmoney.com	61.129.248.70	80,443	openresty	80:正常访问
+bk.eastmoney.com	121.52.237.110,121.52.237.111	80	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+autos.eastmoney.com	183.136.168.33	-	端口未开放	端口未开放
+caifumima.eastmoney.com	114.80.234.188	80	Microsoft-IIS/6.0	80:正常访问
+blog2.eastmoney.com	140.207.218.22	-	端口未开放	端口未开放
+blog4.eastmoney.com	140.207.218.22	-	端口未开放	端口未开放
+choice.eastmoney.com	183.136.162.242	80,443	nginx/1.2.8	80:正常访问
+bond.eastmoney.com	117.184.38.65	-	端口未开放	端口未开放
+caifu.eastmoney.com	114.141.156.211	80,443	Microsoft-IIS/7.5	80:正常访问
+caifujie.eastmoney.com	114.80.151.186	-	端口未开放	端口未开放
+caifutong.eastmoney.com	114.80.234.189	-	端口未开放	端口未开放
+control.blog.eastmoney.com	43.240.129.239	80	Microsoft-IIS/7.5	80:正常访问
+choiceclub.jg.eastmoney.com	121.52.237.240	80,443	nginx/1.2.8	80:正常访问
+cps.eastmoney.com	114.80.234.236	80,443	Microsoft-IIS/7.5	80:(404) 未找到
+corp.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+contest.eastmoney.com	14.18.201.48	80,443	Microsoft-IIS/7.5	80:正常访问
+ceshi.eastmoney.com	222.73.55.107	-	端口未开放	端口未开放
+data.eastmoney.com	14.18.201.48	80,443	nginx	80:正常访问
+cmstest.eastmoney.com	222.73.96.21	-	端口未开放	端口未开放
+cp.eastmoney.com	14.18.201.48	80,443	Microsoft-IIS/7.5	80:(404) 未找到
+common.passport.eastmoney.com	114.80.151.174,114.80.151.173	80,443	openresty	80:(403) 已禁止
+acttg.eastmoney.com	139.196.248.182	80,443	nginx/1.0.15	80:正常访问
+enterprise.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+datainterface.eastmoney.com	183.131.228.212	80	Microsoft-IIS/7.5	80:(403) 已禁止
+emhd2.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+emhd.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+fund.eastmoney.com	87.245.210.76,87.245.210.8,87.245.210.77,87.245.210.11,87.245.210.7	80,443	NWS_Qcloud_Oversea_StaticML_L3I1	80:正常访问
+emhd3.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+f10.eastmoney.com	14.18.201.48	80,443	Microsoft-IIS/7.5	80:正常访问
+forex.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+emhd5.eastmoney.com	183.136.168.34	-	端口未开放	端口未开放
+f9.eastmoney.com	222.73.55.162,222.73.55.163	80	Microsoft-IIS/7.5	80:正常访问
+external8.eastmoney.com	120.55.206.214	-	端口未开放	端口未开放
+fund3.eastmoney.com	61.129.249.38	80	NWS_Qcloud_Oversea_Static_Mid	80:正常访问
+finance.eastmoney.com	163.171.130.132	-	端口未开放	端口未开放
+fundbook.eastmoney.com	61.129.248.222	80	Microsoft-IIS/7.5	80:正常访问
+fund2.eastmoney.com	43.240.129.213	80	openresty	80:正常访问
+fundsc.eastmoney.com	61.129.248.220	80,443	Microsoft-IIS/7.5	80:正常访问
+fund4.eastmoney.com	222.73.65.75,222.73.65.74	-	端口未开放	端口未开放
+fund6.eastmoney.com	222.73.65.75,222.73.65.74	-	端口未开放	端口未开放
+fundacc2.eastmoney.com	183.136.163.224	-	端口未开放	端口未开放
+fundcs.eastmoney.com	61.129.129.15	443	Microsoft-IIS/7.5	443:正常访问
+futures.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+fundact.eastmoney.com	112.90.58.190,221.204.60.123,221.204.166.20,58.251.149.247,221.204.166.38,121.29.54.195,221.204.58.110,121.29.54.199,221.204.166.22,221.204.60.63,125.211.204.225,139.215.203.208,218.11.8.104,139.215.203.199,182.118.11.236	-	端口未开放	端口未开放
+fundtest.eastmoney.com	61.129.249.14	80,443	Microsoft-IIS/7.5	80:(404) 未找到
+fyb.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+fundwapapp.eastmoney.com	183.136.163.162	80,443	获取失败	80:-
+global.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+gold.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+group.eastmoney.com	117.184.38.243	80,443	Microsoft-IIS/7.5	80:正常访问
+fundzt.eastmoney.com	112.65.216.152	80	Microsoft-IIS/7.5	80:正常访问
+gubapost5.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+gubapost10.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+gubapost6.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+gubapost2.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+gubapost3.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+guba.eastmoney.com	61.152.229.47	80	openresty	80:正常访问
+gubapost7.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+gubapost9.eastmoney.com	61.129.129.108	80,443	Tengine	80:正常访问
+guba2.eastmoney.com	61.129.129.19	80	Microsoft-IIS/7.5	80:正常访问
+gubaf10.eastmoney.com	61.129.248.171	80	Microsoft-IIS/7.5	80:正常访问
+gubapost.eastmoney.com	61.129.248.171	80	Microsoft-IIS/7.5	80:正常访问
+hd.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+hk.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+guba3.eastmoney.com	43.254.147.127	-	端口未开放	端口未开放
+gubat.eastmoney.com	117.184.45.228	80	openresty	80:正常访问
+gzqh.eastmoney.com	123.129.204.28,123.129.204.12	-	端口未开放	端口未开放
+hqdigi2.eastmoney.com	183.136.163.122	80	Microsoft-IIS/6.0	80:(403) 已禁止
+gubapost1.eastmoney.com	61.129.129.108	80,443	获取失败	80:-
+hqguba1.eastmoney.com	183.136.160.76	80	Microsoft-IIS/7.5	80:(403) 已禁止
+gubapost4.eastmoney.com	61.129.129.108	80,443	获取失败	80:-
+hkba.eastmoney.com	222.73.96.38	-	端口未开放	端口未开放
+hq2.eastmoney.com	121.52.237.146	-	端口未开放	端口未开放
+i.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+gubapost8.eastmoney.com	61.129.129.108	80,443	获取失败	80:-
+m.eastmoney.com	101.226.184.236,222.73.96.84,222.73.96.85,101.226.184.235	80	Microsoft-IIS/7.5	80:(404) 未找到
+v4.eastmoney.com	101.89.224.22	80,443	openresty	80:(502) 错误的网关
+fundf10.eastmoney.com	121.29.54.199,221.204.166.22,221.204.60.63,125.211.204.225,139.215.203.208,218.11.8.104,139.215.203.199,182.118.11.236,112.90.58.190,221.204.60.123,221.204.166.20,58.251.149.247,221.204.166.38,121.29.54.195,221.204.58.110	80,443	Microsoft-IIS/7.5	80:正常访问
+q.eastmoney.com	183.136.160.72	80	Microsoft-IIS/7.5	80:正常访问
+v3.eastmoney.com	43.254.147.123	-	端口未开放	端口未开放
+mail.eastmoney.com	222.73.55.214	80,443	Apache	80:正常访问
+wap.eastmoney.com	222.73.96.84,222.73.96.85,101.226.184.235,101.226.184.236	80	Microsoft-IIS/7.5	80:正常访问
+www.eastmoney.com	163.171.130.132	-	端口未开放	端口未开放
+v.eastmoney.com	112.65.217.16	443	openresty	443:正常访问
+v2.eastmoney.com	112.65.217.16	443	openresty	443:正常访问
+help.eastmoney.com	43.254.147.179	-	端口未开放	端口未开放
+rss.eastmoney.com	61.129.248.30	80,443	Microsoft-IIS/7.5	80:正常访问
+n.eastmoney.com	120.132.14.105	443	获取失败	443:-
+img.eastmoney.com	117.184.38.65	443	nginx	443:正常访问
+passport.eastmoney.com	114.80.151.174,114.80.151.173	80,443	openresty	80:(403) 已禁止
+call.eastmoney.com	222.73.96.40	-	端口未开放	端口未开放
+mobile.eastmoney.com	222.73.96.84,222.73.96.85,101.226.184.235,101.226.184.236	80	Microsoft-IIS/7.5	80:正常访问
+crm.eastmoney.com	180.163.42.47	80,443	获取失败	80:-
+error.eastmoney.com	222.73.96.26	-	端口未开放	端口未开放
+account.eastmoney.com	183.136.168.24	80,443	openresty/1.9.3.1	80:(403) 已禁止
+video.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+phone.eastmoney.com	222.73.55.146	80	Microsoft-IIS/6.0	80:(403) 已禁止
+fundsoft.eastmoney.com	125.211.204.225,139.215.203.208,218.11.8.104,139.215.203.199,182.118.11.236,112.90.58.190,221.204.60.123,221.204.166.20,58.251.149.247,221.204.166.38,121.29.54.195,221.204.58.110,121.29.54.199,221.204.166.22,221.204.60.63	443	NWSs	443:正常访问
+buy.eastmoney.com	222.73.96.40	-	端口未开放	端口未开放
+renwu.eastmoney.com	117.184.38.65	443	nginx	443:正常访问
+push2.eastmoney.com	101.89.224.78	80	-	80:(404) 未找到
+push.eastmoney.com	183.136.168.52,183.136.168.49,183.136.168.50,183.136.168.51	-	端口未开放	端口未开放
+security.eastmoney.com	61.129.249.67	80,443	nginx	80:正常访问
+tools.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+activity.eastmoney.com	61.129.129.29	443	Microsoft-IIS/7.5	443:正常访问
+product.eastmoney.com	222.73.55.66	-	端口未开放	端口未开放
+money.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+show.eastmoney.com	61.152.229.42	80	Microsoft-IIS/7.5	80:正常访问
+about.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+so.eastmoney.com	61.129.129.173	80,443	Microsoft-IIS/7.5	80:正常访问
+push1.eastmoney.com	61.152.229.185	80	-	80:(404) 未找到
+sec.eastmoney.com	183.136.168.45	-	端口未开放	端口未开放
+payment.eastmoney.com	222.73.55.72	-	端口未开放	端口未开放
+pay.eastmoney.com	61.129.129.66,112.65.217.37,117.184.38.101	443	Microsoft-IIS/7.5	443:(403) 已禁止
+jiankong.eastmoney.com	61.129.129.194	80	nginx	80:正常访问
+monitor.eastmoney.com	61.152.229.79	-	端口未开放	端口未开放
+oa.eastmoney.com	61.129.249.210	80	Microsoft-IIS/7.5	80:正常访问
+soft.eastmoney.com	14.18.201.48	80,443	获取失败	80:-
+auth.eastmoney.com	180.163.69.150	80,443	Microsoft-IIS/7.5	80:正常访问
+check.eastmoney.com	61.129.129.11	80,443	openresty	80:正常访问
+config.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+guanjia.eastmoney.com	114.141.156.211	80,443	Microsoft-IIS/7.5	80:正常访问
+fileserver.eastmoney.com	180.163.177.201	80,443	Microsoft-IIS/7.5	80:正常访问
+news.eastmoney.com	112.65.217.2	80,443	获取失败	80:-
+dns2.eastmoney.com	122.224.82.176	-	端口未开放	端口未开放
+dns1.eastmoney.com	222.73.55.219	-	端口未开放	端口未开放
+external.eastmoney.com	183.136.160.46	80	Microsoft-IIS/7.5	80:(403) 已禁止
+im.eastmoney.com	114.80.234.190	80	Microsoft-IIS/7.5	80:正常访问
+kh.eastmoney.com	114.141.154.250	80,443	Microsoft-IIS/7.5	80:正常访问
+live.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+open.eastmoney.com	183.136.163.252	80,443	获取失败	80:-
+marketing.eastmoney.com	61.129.129.154	80,443	openresty	80:正常访问
+media.eastmoney.com	117.184.38.65	443	nginx	443:正常访问
+mo.eastmoney.com	221.130.187.187	-	端口未开放	端口未开放
+stock.eastmoney.com	14.18.201.48	80,443	nginx	80:正常访问
+spider.eastmoney.com	43.240.129.155	80,443	openresty	80:正常访问
+sms.eastmoney.com	222.66.81.67	443	获取失败	443:-
+staff.eastmoney.com	120.55.244.254	-	端口未开放	端口未开放
+young.eastmoney.com	114.141.155.187	80,443	Microsoft-IIS/7.5	80:正常访问
+t2.eastmoney.com	117.184.38.111	-	端口未开放	端口未开放
+info.eastmoney.com	112.65.217.2	80,443	获取失败	80:-
+life.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+wallet.eastmoney.com	61.129.129.118	443	Microsoft-IIS/7.5	443:(403) 已禁止
+webapp.eastmoney.com	180.163.41.43	80	Microsoft-IIS/7.5	80:(403) 已禁止
+school.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+ask.eastmoney.com	61.129.129.10	80,443	Tengine	80:正常访问
+same.eastmoney.com	61.152.229.240	80,443		80:正常访问
+vote.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+suggest.eastmoney.com	61.129.249.116	80,443	Microsoft-IIS/7.5	80:正常访问
+recommend.eastmoney.com	61.129.248.180	80,443	openresty	80:正常访问
+roll.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+trust.eastmoney.com	117.184.38.65	443	nginx	443:正常访问
+insurance.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+listed.eastmoney.com	183.136.162.242	80,443	nginx/1.2.8	80:(500) 内部服务器错误
+status.eastmoney.com	114.80.151.186,114.80.151.169,114.80.151.170,114.80.151.185	-	端口未开放	端口未开放
+cooperation.eastmoney.com	114.80.137.151	80,443	Microsoft-IIS/7.5	80:正常访问
+option.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+quote.eastmoney.com	14.18.201.48	80,443	Tengine	80:正常访问
+topic.eastmoney.com	14.18.201.48	80,443	nginx	80:正常访问
+alert.eastmoney.com	114.80.151.196	-	端口未开放	端口未开放
+fortune.eastmoney.com	61.129.128.53	80,443	获取失败	80:-
+loans.eastmoney.com	61.129.128.221	80,443	nginx	80:尝试自动重定向的次数太多
+baike.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+avatar.eastmoney.com	124.193.226.101,124.193.226.94,124.193.226.100,124.193.226.99,124.193.226.95,124.193.226.98,124.193.226.96,124.193.226.97	-	端口未开放	端口未开放
+bulletin.eastmoney.com	61.152.229.235	80	Microsoft-IIS/7.5	80:正常访问
+coop.eastmoney.com	122.224.82.197	-	端口未开放	端口未开放
+dataapi.eastmoney.com	222.73.55.139	80	-	80:(400) 错误的请求
+devops.eastmoney.com	180.163.42.201	443	获取失败	443:-
+dns8.eastmoney.com	222.73.96.43	-	端口未开放	端口未开放
+hkcs.eastmoney.com	180.163.69.159	-	端口未开放	端口未开放
+img1.blog.eastmoney.com	43.254.147.127	80,443	Tengine	80:(403) 已禁止
+img3.blog.eastmoney.com	43.254.147.127	80,443	Tengine	80:(403) 已禁止
+img2.blog.eastmoney.com	43.254.147.127	80,443	Tengine	80:(403) 已禁止
+jifen.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+jiaoyu.eastmoney.com	61.129.129.7	80	Microsoft-IIS/7.5	80:正常访问
+js2.eastmoney.com	222.73.55.125	-	端口未开放	端口未开放
+luyan.eastmoney.com	222.73.54.220	-	端口未开放	端口未开放
+js1.eastmoney.com	101.89.222.75	443	Microsoft-IIS/7.5	443:(403) 已禁止
+moni.eastmoney.com	61.129.248.152	-	端口未开放	端口未开放
+mtest.eastmoney.com	101.226.184.234	-	端口未开放	端口未开放
+newsinfo.eastmoney.com	61.129.128.76,61.129.249.218	443	Microsoft-IIS/7.5	443:正常访问
+qiche.eastmoney.com	183.136.168.21	80	nginx/1.8.0	80:(403) 已禁止
+poll.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+paytest.eastmoney.com	61.129.129.65	443	Microsoft-IIS/7.5	443:正常访问
+rtmp.eastmoney.com	121.52.237.74,121.52.237.75	-	端口未开放	端口未开放
+passport1.eastmoney.com	114.80.151.165	80	Microsoft-IIS/6.0	80:(403) 已禁止
+speedtest.eastmoney.com	14.18.201.48	80,443	nginx/1.6.3	80:正常访问
+news2.eastmoney.com	61.129.128.53	80,443	获取失败	80:-
+simu.eastmoney.com	125.211.204.225,139.215.203.208,218.11.8.104,139.215.203.199,182.118.11.236,112.90.58.190,221.204.60.123,221.204.166.20,58.251.149.247,221.204.166.38,221.204.58.110,121.29.54.195,221.204.166.22,221.204.60.63,121.29.54.199	443	NWSs	443:正常访问
+tiyan.eastmoney.com	139.224.12.77	80,443	Microsoft-IIS/7.5	80:正常访问
+vcode.eastmoney.com	61.129.129.234	80	Microsoft-IIS/7.5	80:(403) 已禁止
+weixinapi.eastmoney.com	61.152.229.188	-	端口未开放	端口未开放
+www9.eastmoney.com	222.73.55.183	-	端口未开放	端口未开放
+waptest.eastmoney.com	101.226.184.234	80	获取失败	80:-
+smsapi.eastmoney.com	61.129.128.55	443	获取失败	443:-
+wwwtest.eastmoney.com	61.129.129.126	80	获取失败	80:-
+sso2.eastmoney.com	183.136.164.249	80	获取失败	80:-
+zhibo.eastmoney.com	14.18.201.48	80,443	Microsoft-IIS/7.5	80:正常访问
+hy.eastmoney.com	61.129.128.53	80,443	nginx	80:正常访问
+yunwei.eastmoney.com	61.152.229.214	443	获取失败	443:-
+jg.eastmoney.com	183.136.162.253	80,443	nginx/1.2.2	80:(500) 内部服务器错误
+ff.eastmoney.com	61.129.128.43	80,443	Microsoft-IIS/7.5	80:正常访问
+bda.eastmoney.com	43.254.147.139	-	端口未开放	端口未开放
+bgl.eastmoney.com	112.65.217.2	80,443	nginx	80:正常访问
+dmp.eastmoney.com	180.163.42.201	443	获取失败	443:-
+ebs.eastmoney.com	61.152.178.164	-	端口未开放	端口未开放
+emu.eastmoney.com	222.73.65.87	-	端口未开放	端口未开放
+apm.eastmoney.com	180.163.177.221	443	nginx/1.11.5	443:正常访问
+hec.eastmoney.com	61.152.178.165	-	端口未开放	端口未开放
+jy.eastmoney.com	180.163.69.249	443	Microsoft-IIS/7.5	443:正常访问
+jzb.eastmoney.com	180.163.69.215	-	端口未开放	端口未开放
+mms.eastmoney.com	222.73.55.116	-	端口未开放	端口未开放
+omp.eastmoney.com	180.163.42.63	-	端口未开放	端口未开放
+tts.eastmoney.com	14.18.201.48	80,443	nginx/1.9.9	80:正常访问
+yjs.eastmoney.com	14.18.201.48	80,443	Microsoft-IIS/7.5	80:正常访问
+yzm.eastmoney.com	140.207.218.26	-	端口未开放	端口未开放
+sso.eastmoney.com	121.52.237.66	80	获取失败	80:-
+moa.eastmoney.com	61.129.248.73	80,443	获取失败	80:-
+gr2.eastmoney.com	114.80.151.218	-	端口未开放	端口未开放
+js5.eastmoney.com	101.89.222.75	443	Microsoft-IIS/7.5	443:(403) 已禁止
+js6.eastmoney.com	183.136.163.220	-	端口未开放	端口未开放
+bdym.eastmoney.com	180.163.69.79	80,443	Microsoft-IIS/7.5	80:正常访问
+cpdt.eastmoney.com	112.74.137.176	-	端口未开放	端口未开放
+dcfm.eastmoney.com	61.129.128.208	80,443	Microsoft-IIS/9.0	80:正常访问
+djdk.eastmoney.com	43.254.147.185	80	Microsoft-IIS/7.5	80:正常访问
+emh5.eastmoney.com	114.141.155.163	443	Microsoft-IIS/7.5	443:正常访问
+gpkh.eastmoney.com	139.196.248.149	80,443	Microsoft-IIS/7.5	80:正常访问
+hkkh.eastmoney.com	114.141.154.246	80,443	获取失败	80:-
+hzud.eastmoney.com	183.136.162.250	80,443	获取失败	80:-
+hzgm.eastmoney.com	183.136.162.65	80,443	获取失败	80:-
+hzrt.eastmoney.com	121.52.237.243	80,443	获取失败	80:-
+its2.eastmoney.com	123.129.204.227,124.95.138.205	-	端口未开放	端口未开放
+its4.eastmoney.com	123.129.204.239	-	端口未开放	端口未开放
+its3.eastmoney.com	124.95.138.206	-	端口未开放	端口未开放
+its1.eastmoney.com	124.95.138.205,123.129.204.234	-	端口未开放	端口未开放
+jspi.eastmoney.com	112.65.216.130	80	Microsoft-IIS/7.5	80:正常访问
+jyh5.eastmoney.com	180.163.69.151	443	Microsoft-IIS/7.5	443:正常访问
+khh5.eastmoney.com	114.141.154.250	80,443	Microsoft-IIS/7.5	80:正常访问
+khhd.eastmoney.com	180.163.69.106	-	端口未开放	端口未开放
+khyz.eastmoney.com	180.163.69.229	443	获取失败	443:-
+l2qx.eastmoney.com	114.80.234.254	80	nginx/0.8.46	80:(404) 未找到
+mdfm.eastmoney.com	117.184.38.118	80	Microsoft-IIS/7.5	80:(403) 已禁止
+nuff.eastmoney.com	61.129.249.13	80	Microsoft-IIS/7.5	80:(403) 已禁止
+nuyd.eastmoney.com	43.254.147.110	80,443	Microsoft-IIS/7.5	80:(403) 已禁止
+pdfm.eastmoney.com	61.129.249.163	80,443	Microsoft-IIS/7.5	80:(500) 内部服务器错误
+pifm.eastmoney.com	61.129.249.168	80,443	获取失败	80:-
+qhhd.eastmoney.com	114.141.158.225	80,443	Microsoft-IIS/7.5	80:(403) 已禁止
+qhkh.eastmoney.com	61.129.129.10	80,443	Jetty(9.2.9.v20150224)	80:正常访问
+shud.eastmoney.com	61.152.178.6	80,443	获取失败	80:-
+shrt.eastmoney.com	61.129.249.153	80,443	获取失败	80:-
+tjjs.eastmoney.com	43.240.129.157	80,443	nginx	80:正常访问
+tian.eastmoney.com	120.55.244.254	80	Microsoft-IIS/7.5	80:(403) 已禁止
+txcs.eastmoney.com	180.163.42.41	80,443	Microsoft-IIS/7.5	80:(403) 已禁止
+txkh.eastmoney.com	180.168.56.233	-	端口未开放	端口未开放
+txtj.eastmoney.com	180.163.186.114	-	端口未开放	端口未开放
+txjy.eastmoney.com	180.168.56.250	-	端口未开放	端口未开放
+txmd.eastmoney.com	180.163.69.105	-	端口未开放	端口未开放
+tzrl.eastmoney.com	121.52.237.60,121.52.237.61	80	Microsoft-IIS/7.5	80:(403) 已禁止
+wfcn.eastmoney.com	61.129.129.10	80,443	Tengine	80:(404) 未找到
+wgkh.eastmoney.com	180.163.42.42	443	Microsoft-IIS/7.5	443:正常访问
+yqjk.eastmoney.com	61.152.229.241	-	端口未开放	端口未开放
+zqhd.eastmoney.com	139.196.248.149	80,443	Microsoft-IIS/7.5	80:正常访问
+zqtg.eastmoney.com	139.196.248.149	80,443	Microsoft-IIS/7.5	80:正常访问
+funds.eastmoney.com	43.254.146.218	80	获取失败	80:-

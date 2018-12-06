@@ -1,0 +1,2415 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+0.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+1.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+01caijing.baijia.baidu.com	180.97.33.34,180.97.33.41	80	Apache	80:正常访问
+020.baijia.baidu.com	180.97.33.34,180.97.33.41	80	Apache	80:正常访问
+123.baidu.com	180.97.33.107,180.97.33.108	80,443	bfe/1.0.8.18	80:(302) 重定向
+2012.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+2014.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+21cbh.media.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+2fnandu.media.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+3600.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+3g.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+abc.baidu.com	180.97.33.107,180.97.33.108	80,443	bfe/1.0.8.18	80:(302) 重定向
+ab.baidu.com	180.149.132.116,180.149.132.94	80,443	Apache	80:正常访问
+a.baidu.com	220.181.57.146,115.239.210.34	80	ECOM Apache 1.0.13.0	80:正常访问
+cha.baidu.com	14.215.178.159	80,443	nginx	80:(404) 未找到
+d.baidu.com	220.181.57.217,220.181.57.216	80,443	Apache	80:正常访问
+d0.baidu.com	115.239.217.137	80,443	Apache	80:正常访问
+dq.baidu.com	180.97.154.37,58.216.55.37,117.91.181.37,121.227.168.37	80,443	JSP3/2.0.14	80:正常访问
+e.baidu.com	58.222.53.35	80,443	JSP3/2.0.14	80:正常访问
+bc.baidu.com	10.23.250.192	-	端口未开放	端口未开放
+g.baidu.com	180.76.146.58	80,443	BLB/	80:正常访问
+f.baidu.com	180.97.104.235	80,443	Apache-Coyote/1.1	80:正常访问
+bh.baidu.com	10.36.155.42,10.36.160.22,10.38.19.40	-	端口未开放	端口未开放
+i.baidu.com	220.181.57.110	80,443	nginx	80:正常访问
+cc.baidu.com	10.26.7.113,10.36.253.83	-	端口未开放	端口未开放
+l.baidu.com	180.149.144.203	80,443	获取失败	80:-
+er.baidu.com	10.58.182.14	-	端口未开放	端口未开放
+m.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+gps.baidu.com	10.242.116.21	-	端口未开放	端口未开放
+h.baidu.com	10.240.31.12	-	端口未开放	端口未开放
+p.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+jj.baidu.com	10.36.7.47	-	端口未开放	端口未开放
+op.baidu.com	220.181.57.166	80	-	80:(404) 未找到
+lv.baidu.com	115.239.217.166	80,443	apache	80:正常访问
+v.baidu.com	115.239.210.38	80,443	apache	80:正常访问
+u.baidu.com	220.181.7.195	80,443	BWS	80:正常访问
+la.baidu.com	10.83.128.238	-	端口未开放	端口未开放
+vv.baidu.com	180.97.36.22	80,443	Apache	80:正常访问
+w.baidu.com	220.181.57.216,220.181.57.217	80,443	bfe/1.0.8.18	80:正常访问
+o.baidu.com	10.57.13.104	-	端口未开放	端口未开放
+ss.baidu.com	115.239.210.59	443	bfe/1.0.8.18	443:正常访问
+yy.baidu.com	115.239.211.171	80,443	Apache	80:正常访问
+z.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+y.baidu.com	180.76.141.217,180.76.183.17	80,443	nginx	80:正常访问
+t.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+zz.baidu.com	220.181.7.186	80,443	获取失败	80:-
+01.baidu.com	180.101.212.65,115.239.210.116	80,443	nginx	80:正常访问
+www.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:正常访问
+www1.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:(302) 重定向
+ww.baidu.com	220.181.57.216,220.181.57.217	80,443	bfe/1.0.8.18	80:正常访问
+x.baidu.com	180.76.177.109	80	BLB/	80:正常访问
+www5.baidu.com	119.75.218.77,119.75.217.56	80,443	bfe/1.0.8.18	80:正常访问
+www2.baidu.com	220.181.7.195	80,443	BWS	80:正常访问
+wap.baidu.com	220.181.7.233,220.181.7.234	80,443	apache	80:正常访问
+user.baidu.com	10.242.113.33	-	端口未开放	端口未开放
+mall.baidu.com	180.76.175.100	80,443	获取失败	80:-
+help.baidu.com	112.34.111.183,112.34.111.18,112.80.255.43,180.149.144.166,180.97.33.42,112.80.255.39,202.106.2.77,180.149.144.165,202.106.2.78,117.185.16.230,180.97.36.81,117.185.16.213	80,443	Apache	80:正常访问
+mail.baidu.com	220.181.3.87	80,443	BigIP	80:正常访问
+email.baidu.com	220.181.3.87	80,443	BigIP	80:正常访问
+wp.baidu.com	10.26.3.173	-	端口未开放	端口未开放
+city.baidu.com	180.97.33.90	80,443	Apache	80:正常访问
+news.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+api.baidu.com	180.149.131.139,180.149.144.59	80,443	Jetty(8.1.16.v20140903)	80:(405) 不允许的方法
+apis.baidu.com	180.149.144.74	80,443	Apache	80:正常访问
+img.baidu.com	115.239.211.92	80,443	Apache	80:正常访问
+ai.baidu.com	180.97.104.12	80,443	Apache	80:正常访问
+mini.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+app.baidu.com	115.239.217.112	80,443	Apache	80:正常访问
+map.baidu.com	180.97.34.157,180.97.33.128	80,443	apache	80:正常访问
+developer.baidu.com	180.97.33.78	80,443	Apache-Coyote/1.1	80:正常访问
+editor.baidu.com	180.97.33.175	80,443	nginx	80:正常访问
+feed.baidu.com	115.239.217.68,115.239.217.67	80,443	Apache	80:正常访问
+note.baidu.com	180.149.145.241	80,443	Apache	80:正常访问
+union.baidu.com	180.149.132.228	80,443	Unknow	80:正常访问
+rss.baidu.com	115.239.211.32	80,443	Apache-Coyote/1.1	80:正常访问
+as.baidu.com	115.239.217.112	80,443	BWS	80:正常访问
+static.baidu.com	115.239.211.92	80,443	BWS/1.0	80:(505) 不支持 Http 版本
+system.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+tousu.baidu.com	112.34.111.183,112.34.111.18,202.106.2.78,202.106.2.77,117.185.16.230,112.80.255.39,117.185.16.213,180.149.144.166,180.149.144.165,112.80.255.43,180.97.33.42,180.97.36.81	80,443	Apache	80:正常访问
+beta.baidu.com	220.181.57.113	80,443	Apache	80:(404) 未找到
+book.baidu.com	111.13.108.110	80	nginx	80:(403) 已禁止
+version.baidu.com	10.42.4.229,10.46.11.30	-	端口未开放	端口未开放
+demo.baidu.com	10.73.191.38	-	端口未开放	端口未开放
+cat.baidu.com	106.39.162.57	80,443	Apache	80:正常访问
+hot.baidu.com	180.149.144.203	80,443	bfe	80:(500) 内部服务器错误
+ht.baidu.com	14.215.178.34	80,443		80:正常访问
+feedback.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+vs.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+house.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+br.baidu.com	180.149.132.47,111.13.101.208,123.125.114.144,220.181.57.217	80,443	GWS/2.0	80:正常访问
+crm.baidu.com	123.125.115.43,111.13.100.58,180.149.144.54	80,443	Apache-Coyote/1.1	80:正常访问
+bbs.baidu.com	180.97.34.146	80,443	Apache	80:尝试自动重定向的次数太多
+baoku.baidu.com	220.181.163.144	80	Apache	80:正常访问
+mi.baidu.com	180.97.93.43	80,443	Apache	80:正常访问
+tuan.baidu.com	61.135.162.145	-	端口未开放	端口未开放
+hr.baidu.com	180.149.144.205	80,443	ITE	80:正常访问
+movie.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+bae.baidu.com	10.26.7.36,10.36.7.34	-	端口未开放	端口未开放
+mobile.baidu.com	115.239.217.112	80,443	BWS	80:正常访问
+linux.baidu.com	10.99.31.43	-	端口未开放	端口未开放
+forum.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+reports.baidu.com	180.97.33.80	80,443	bfe/5	80:正常访问
+game.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+docs.baidu.com	10.99.57.42	-	端口未开放	端口未开放
+database.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+root.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+my.baidu.com	180.149.144.203	80,443	Apache	80:正常访问
+sea.baidu.com	10.62.141.21	-	端口未开放	端口未开放
+zhaopin.baidu.com	180.97.33.183,180.97.33.181	80,443	Apache	80:正常访问
+offer.baidu.com	202.106.2.51,115.239.211.31,183.232.232.54	80,443	Apache	80:正常访问
+open.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+openapi.baidu.com	180.97.104.231	80,443	Apache	80:正常访问
+ip.baidu.com	10.42.61.42,10.92.143.21,10.42.94.12,10.92.143.22	-	端口未开放	端口未开放
+front.baidu.com	180.149.133.177	80,443	apache	80:正常访问
+ipv6.baidu.com	220.181.57.217,123.125.114.144,111.13.101.208,220.181.57.216	80,443	Apache	80:正常访问
+passport.baidu.com	180.97.104.218,180.97.36.39	80,443	Apache	80:正常访问
+log.baidu.com	10.26.39.14	-	端口未开放	端口未开放
+logs.baidu.com	10.65.43.129	-	端口未开放	端口未开放
+vip.baidu.com	180.97.34.226	80,443	Apache	80:正常访问
+qiao.baidu.com	115.239.210.98	80,443	nginx	80:正常访问
+name.baidu.com	10.95.23.39	-	端口未开放	端口未开放
+js.baidu.com	202.106.2.53	80,443	nginx	80:正常访问
+post.baidu.com	180.97.34.146	80,443	Apache	80:尝试自动重定向的次数太多
+id.baidu.com	14.215.177.34,106.120.159.182,180.149.131.103	80,443	Apache	80:(404) 未找到
+alpha.baidu.com	220.181.57.98	80,443	nginx/1.8.0	80:正常访问
+red.baidu.com	10.26.3.240,10.42.4.86,10.36.4.130,10.91.160.44	-	端口未开放	端口未开放
+online.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+push.baidu.com	123.125.115.34	80,443	BWS/1.0	80:正常访问
+report.baidu.com	10.94.51.24	-	端口未开放	端口未开放
+win.baidu.com	10.65.19.212	-	端口未开放	端口未开放
+message.baidu.com	10.40.8.14	-	端口未开放	端口未开放
+fox.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+ditu.baidu.com	180.97.34.157,180.97.33.128	80,443	apache	80:正常访问
+huodong.baidu.com	121.227.7.35	80,443	JSP3/2.0.14	80:正常访问
+test.baidu.com	180.76.134.214	80	BLB/	80:正常访问
+author.baidu.com	180.97.104.214	80,443	Apache	80:正常访问
+shouji.baidu.com	115.239.217.112	80,443	BWS	80:正常访问
+product.baidu.com	106.39.162.118	80,443	Apache-Coyote/1.1	80:正常访问
+activity.baidu.com	115.239.211.55	80,443	Apache	80:正常访问
+flash.baidu.com	182.61.35.21	80,443	nginx	80:正常访问
+cdn.baidu.com	10.36.3.156	-	端口未开放	端口未开放
+service.baidu.com	112.34.111.183,180.97.33.42,112.80.255.39,180.149.144.166,112.80.255.43,180.149.144.165,202.106.2.77,112.34.111.18,117.185.16.213,180.97.36.81,202.106.2.78,117.185.16.230	80,443	Apache	80:正常访问
+pan.baidu.com	180.149.145.241	80,443	nginx	80:正常访问
+yun.baidu.com	180.149.145.241	80,443	nginx	80:正常访问
+admin.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+hk.baidu.com	220.181.57.217,220.181.57.216	80,443	Apache	80:正常访问
+tw.baidu.com	220.181.57.216,220.181.57.217	80,443	Apache	80:正常访问
+manager.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+music.baidu.com	182.61.35.21	80,443	nginx	80:正常访问
+tieba.baidu.com	180.97.34.146	80,443	Apache	80:尝试自动重定向的次数太多
+webmaster.baidu.com	220.181.7.186	80,443	Apache	80:正常访问
+video.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+in.baidu.com	115.239.217.112	80,443	BWS	80:(404) 未找到
+mp3.baidu.com	182.61.35.21	80,443	nginx	80:正常访问
+share.baidu.com	180.149.131.146	80,443	获取失败	80:-
+360.baidu.com	10.57.8.123	-	端口未开放	端口未开放
+ad.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+adm.baidu.com	180.149.131.210	80,443	nginx	80:正常访问
+renwu.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+portal.baidu.com	172.22.1.82	-	端口未开放	端口未开放
+run.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+sec.baidu.com	202.106.2.63	80,443	Apache	80:正常访问
+play.baidu.com	182.61.35.21	80,443	nginx	80:正常访问
+payment.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+youxi.baidu.com	180.97.33.25	80,443	获取失败	80:-
+pay.baidu.com	106.39.162.55	80,443	bfe	80:(500) 内部服务器错误
+plus.baidu.com	10.212.6.107,10.212.6.106	-	端口未开放	端口未开放
+pm.baidu.com	10.36.7.163,10.42.6.246	-	端口未开放	端口未开放
+anquan.baidu.com	180.97.33.112	80,443	Apache	80:正常访问
+aq.baidu.com	115.239.210.223	80,443	BWS	80:正常访问
+ads.baidu.com	10.42.4.225	-	端口未开放	端口未开放
+gl.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+bank.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+zhidao.baidu.com	180.149.133.165,180.149.131.245	80,443	Apache	80:正常访问
+image.baidu.com	180.97.33.134,115.239.210.36	80,443	Apache	80:正常访问
+git.baidu.com	10.42.4.104	-	端口未开放	端口未开放
+pic.baidu.com	115.239.210.36,180.97.33.134	80,443	Apache	80:正常访问
+svn.baidu.com	10.65.211.174	-	端口未开放	端口未开放
+picture.baidu.com	180.97.33.134,115.239.210.36	80,443	Apache	80:正常访问
+wenku.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+security.baidu.com	10.58.121.74	-	端口未开放	端口未开放
+jiankong.baidu.com	115.239.217.177	80,443		80:正常访问
+wan.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+hi.baidu.com	14.215.177.34,180.149.131.103,106.120.159.182	80,443	Apache	80:正常访问
+safe.baidu.com	180.101.212.32,180.97.36.14	80,443	nginx	80:正常访问
+file.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+money.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+tool.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+doc.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+tools.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+release.baidu.com	180.97.33.96	80,443	nginx	80:正常访问
+asp.baidu.com	115.239.210.34,220.181.57.146	80	ECOM Apache 1.0.13.0	80:正常访问
+client.baidu.com	10.242.112.16	-	端口未开放	端口未开放
+monitor.baidu.com	10.91.161.200	-	端口未开放	端口未开放
+kf.baidu.com	180.149.144.111	-	端口未开放	端口未开放
+abs.baidu.com	180.149.144.4	80,443		80:正常访问
+ac.baidu.com	180.97.104.203	80,443	Apache	80:正常访问
+lib.baidu.com	10.40.20.46	-	端口未开放	端口未开放
+mysql.baidu.com	10.105.97.153	-	端口未开放	端口未开放
+ap.baidu.com	180.149.132.182	80,443	nginx/1.4.4	80:(403) 已禁止
+debug.baidu.com	10.42.103.47	-	端口未开放	端口未开放
+ag.baidu.com	202.108.23.198,202.108.23.199	80	获取失败	80:-
+ar.baidu.com	180.97.36.113	80,443	Apache	80:正常访问
+tpm.baidu.com	10.91.161.200	-	端口未开放	端口未开放
+access.baidu.com	10.94.49.39	-	端口未开放	端口未开放
+accounts.baidu.com	10.11.252.74	-	端口未开放	端口未开放
+ae.baidu.com	180.149.132.47,111.13.101.208,220.181.57.217,123.125.114.144	80,443	BWS/1.0	80:正常访问
+apollo.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+auth.baidu.com	180.149.131.246,115.239.211.47	80,443	nginx	80:(403) 已禁止
+auto.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+b2b.baidu.com	14.215.178.42	80,443	Apache	80:正常访问
+blue.baidu.com	58.222.53.35	80,443	JSP3/2.0.14	80:正常访问
+bnc.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+asm.baidu.com	10.99.87.18	-	端口未开放	端口未开放
+athena.baidu.com	10.91.161.102	-	端口未开放	端口未开放
+at.baidu.com	10.42.122.102	-	端口未开放	端口未开放
+brazil.baidu.com	123.125.114.144,180.149.132.47,111.13.101.208,220.181.57.217	80,443	GWS/2.0	80:正常访问
+antivirus.baidu.com	103.235.46.69	80	Apache	80:正常访问
+cafe.baidu.com	180.97.34.252	80,443	nginx	80:正常访问
+cf.baidu.com	111.206.37.138,220.181.57.72	80,443	Apache	80:正常访问
+backup.baidu.com	10.143.145.28	-	端口未开放	端口未开放
+bd.baidu.com	172.18.100.200	-	端口未开放	端口未开放
+ci.baidu.com	180.97.93.43	80,443	Apache	80:正常访问
+ck.baidu.com	106.120.159.243	80,443	bfe	80:(500) 内部服务器错误
+cm.baidu.com	106.39.162.37	80,443	nginx	80:正常访问
+code.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+cache.baidu.com	220.181.57.215	80	Apache	80:正常访问
+conf.baidu.com	115.239.217.57	80,443	Apache	80:(403) 已禁止
+crs.baidu.com	115.239.210.163	80,443	lighttpd	80:正常访问
+build.baidu.com	10.23.250.58	-	端口未开放	端口未开放
+bugs.baidu.com	10.42.4.177	-	端口未开放	端口未开放
+ca.baidu.com	111.202.115.77	-	端口未开放	端口未开放
+cu.baidu.com	180.97.36.41	80,443	nginx/1.8.0	80:正常访问
+check.baidu.com	10.46.11.136	-	端口未开放	端口未开放
+checkpoint.baidu.com	10.26.252.56	-	端口未开放	端口未开放
+song.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+com.baidu.com	10.26.137.29	-	端口未开放	端口未开放
+con.baidu.com	10.114.40.21	-	端口未开放	端口未开放
+deploy.baidu.com	180.101.212.37	80,443	Apache	80:正常访问
+design.baidu.com	115.239.217.135	80,443	bfe	80:(500) 内部服务器错误
+cs.baidu.com	10.91.160.210	-	端口未开放	端口未开放
+dev.baidu.com	180.97.33.78	80,443	Apache-Coyote/1.1	80:正常访问
+developers.baidu.com	180.97.33.78	80,443	Apache-Coyote/1.1	80:正常访问
+device.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+ct.baidu.com	10.23.248.28	-	端口未开放	端口未开放
+flow.baidu.com	10.46.23.19	-	端口未开放	端口未开放
+zabbix.baidu.com	10.42.3.13	-	端口未开放	端口未开放
+portrait.baidu.com	10.58.177.42	-	端口未开放	端口未开放
+disk.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+dns.baidu.com	202.108.22.220	-	端口未开放	端口未开放
+dm.baidu.com	115.239.211.48	80,443	Apache	80:正常访问
+datastore.baidu.com	10.94.80.152	-	端口未开放	端口未开放
+db.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+dc.baidu.com	10.92.149.22	-	端口未开放	端口未开放
+earth.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+depot.baidu.com	10.212.15.152,10.212.15.213	-	端口未开放	端口未开放
+do.baidu.com	182.61.58.78	80	Apache	80:正常访问
+des.baidu.com	10.81.211.170	-	端口未开放	端口未开放
+enterprise.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+edu.baidu.com	182.61.52.236	80	nginx	80:正常访问
+education.baidu.com	180.97.33.57	80,443	Apache	80:(404) 未找到
+dns1.baidu.com	220.181.38.10	-	端口未开放	端口未开放
+feeds.baidu.com	180.97.36.19	80,443	nginx	80:正常访问
+filestore.baidu.com	112.34.112.76,123.125.115.228,115.239.210.30	80,443	-	80:(404) 未找到
+find.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+eagle.baidu.com	10.202.105.28	-	端口未开放	端口未开放
+fm.baidu.com	180.76.141.217,180.76.183.17	80,443	nginx	80:正常访问
+ecom.baidu.com	172.18.0.180	-	端口未开放	端口未开放
+ee.baidu.com	10.46.133.175	-	端口未开放	端口未开放
+eg.baidu.com	111.13.101.208,220.181.57.217,180.149.132.47,123.125.114.144	-	端口未开放	端口未开放
+gandalf.baidu.com	112.34.112.37,220.181.57.94,123.125.115.91	80,443	bfe	80:(500) 内部服务器错误
+gate.baidu.com	180.97.33.107,180.97.33.108	80,443	bfe/1.0.8.18	80:(302) 重定向
+games.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+engineering.baidu.com	10.100.46.52	-	端口未开放	端口未开放
+gold.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+hm.baidu.com	220.181.7.190	80,443	apache	80:正常访问
+et.baidu.com	10.206.217.30	-	端口未开放	端口未开放
+home.baidu.com	115.239.211.31	80,443	nginx	80:正常访问
+hotel.baidu.com	115.239.217.82	80,443	Apache	80:正常访问
+iis.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+gp.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+exchange.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+ie.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+hollywood.baidu.com	180.97.33.34	80	Apache	80:正常访问
+falcon.baidu.com	10.36.253.135,10.26.26.88	-	端口未开放	端口未开放
+images.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+im.baidu.com	14.215.177.34,180.149.131.103,106.120.159.182	80,443	Apache	80:正常访问
+internet.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+info.baidu.com	115.239.210.223	80,443	BWS	80:正常访问
+ir.baidu.com	205.197.140.169,205.197.140.176	80,443		80:正常访问
+kb.baidu.com	180.149.145.167	80,443	nginx/1.9.3	80:正常访问
+ke.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+files.baidu.com	10.65.43.129	-	端口未开放	端口未开放
+fs.baidu.com	10.42.8.186	-	端口未开放	端口未开放
+ks.baidu.com	118.26.21.72,111.13.108.103	80,443	BWS/1.1	80:正常访问
+jp.baidu.com	119.63.198.132	80,443	nginx/1.12.2	80:正常访问
+ls.baidu.com	14.215.178.168,106.39.162.241	80,443	Apache	80:正常访问
+japan.baidu.com	119.63.198.175	80	Apache/2.4.33 (Unix)	80:正常访问
+global.baidu.com	103.235.46.83	80	Apache	80:正常访问
+go.baidu.com	180.97.33.123	80,443	apache	80:正常访问
+mco.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+gy.baidu.com	10.194.61.22,10.194.61.37	-	端口未开放	端口未开放
+gw1.baidu.com	172.16.1.2	-	端口未开放	端口未开放
+hermes.baidu.com	10.95.117.30	-	端口未开放	端口未开放
+md.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+https.baidu.com	10.100.84.54	-	端口未开放	端口未开放
+lc.baidu.com	180.149.133.221	80,443	Apache	80:正常访问
+maps.baidu.com	180.97.33.128,180.97.34.157	80,443	apache	80:正常访问
+hub.baidu.com	10.57.7.145	-	端口未开放	端口未开放
+media.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+mem.baidu.com	112.80.255.173	80,443	Apache	80:正常访问
+intern.baidu.com	10.48.40.64	-	端口未开放	端口未开放
+io.baidu.com	10.46.104.43	-	端口未开放	端口未开放
+iq.baidu.com	10.81.12.102	-	端口未开放	端口未开放
+lab.baidu.com	220.181.57.55	80	Apache-Coyote/1.1	80:正常访问
+mike.baidu.com	106.39.162.128	80,443	Apache	80:正常访问
+mo.baidu.com	180.149.132.232,220.181.112.197	80,443	BWS	80:正常访问
+mp.baidu.com	180.97.33.25	80,443	Apache	80:(404) 未找到
+mr.baidu.com	180.149.132.232,220.181.112.197	80,443	Apache	80:正常访问
+marketing.baidu.com	111.13.100.193	80	Apache	80:正常访问
+mc.baidu.com	115.239.210.212	80	apache	80:正常访问
+mw.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+kg.baidu.com	10.50.13.175	-	端口未开放	端口未开放
+km.baidu.com	10.42.7.54	-	端口未开放	端口未开放
+kr.baidu.com	10.95.39.53	-	端口未开放	端口未开放
+nb.baidu.com	220.181.57.166	80	-	80:(404) 未找到
+nc.baidu.com	180.97.104.48,112.34.111.20,123.125.115.81	80,443	-	80:(404) 未找到
+labs.baidu.com	10.48.37.38	-	端口未开放	端口未开放
+launch.baidu.com	10.94.66.52	-	端口未开放	端口未开放
+lb.baidu.com	10.202.6.208	-	端口未开放	端口未开放
+lu.baidu.com	115.239.217.166	80,443	apache	80:正常访问
+li.baidu.com	10.91.160.188	-	端口未开放	端口未开放
+log02.baidu.com	10.23.65.13	-	端口未开放	端口未开放
+maa.baidu.com	10.99.27.20	-	端口未开放	端口未开放
+mx.baidu.com	61.135.163.61	443	-	443:(403) 已禁止
+mars.baidu.com	10.91.160.191	-	端口未开放	端口未开放
+update.baidu.com	180.97.104.132	80,443	获取失败	80:-
+ny.baidu.com	111.206.223.24	80,443	nginx	80:正常访问
+mis.baidu.com	10.42.79.56,10.46.150.64	-	端口未开放	端口未开放
+mirror.baidu.com	10.11.250.228	-	端口未开放	端口未开放
+mk.baidu.com	10.42.174.14	-	端口未开放	端口未开放
+ml.baidu.com	10.26.140.39	-	端口未开放	端口未开放
+moon.baidu.com	10.57.44.52	-	端口未开放	端口未开放
+mq.baidu.com	10.92.16.61	-	端口未开放	端口未开放
+or.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+orange.baidu.com	58.215.118.48	80,443	JSP3/2.0.14	80:(404) 未找到
+mt.baidu.com	10.208.6.11	-	端口未开放	端口未开放
+oscar.baidu.com	180.97.33.34	80	Apache	80:正常访问
+partner.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+pa.baidu.com	180.149.131.148	80,443	nginx/1.4.1	80:(404) 未找到
+pda.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+pcs.baidu.com	58.217.200.64	80,443	POMS/CloudUI 1.0	80:(403) 已禁止
+owa.baidu.com	111.202.115.84	80,443	-	80:(400) 错误的请求
+photos.baidu.com	180.97.33.134,115.239.210.36	80,443	Apache	80:正常访问
+neo.baidu.com	10.26.26.220	-	端口未开放	端口未开放
+net.baidu.com	10.242.123.17	-	端口未开放	端口未开放
+pi.baidu.com	180.149.133.165,180.149.131.245	80,443	Apache	80:正常访问
+ng.baidu.com	10.42.6.106,10.57.8.161	-	端口未开放	端口未开放
+node.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+pictures.baidu.com	106.39.162.253	80,443	Apache	80:正常访问
+np.baidu.com	10.23.245.224,10.23.239.95,10.23.239.99	-	端口未开放	端口未开放
+ns1.baidu.com	202.108.22.220	-	端口未开放	端口未开放
+ns2.baidu.com	220.181.37.10	-	端口未开放	端口未开放
+ns3.baidu.com	112.80.248.64	-	端口未开放	端口未开放
+ns4.baidu.com	14.215.178.80	-	端口未开放	端口未开放
+policy.baidu.com	180.101.212.24,183.232.232.53,123.125.115.231	80,443	bfe	80:(500) 内部服务器错误
+ns5.baidu.com	220.181.166.1	-	端口未开放	端口未开放
+privacy.baidu.com	123.125.115.231	80,443	Apache	80:正常访问
+nt.baidu.com	10.99.83.43	-	端口未开放	端口未开放
+po.baidu.com	180.149.132.232,220.181.112.197	80,443	BWS	80:(404) 未找到
+purple.baidu.com	220.181.57.55	80	-	80:(404) 未找到
+ntp.baidu.com	10.48.49.44	-	端口未开放	端口未开放
+portfolio.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+pt.baidu.com	180.149.132.47,111.13.101.208,123.125.114.144,220.181.57.217	80,443	GWS/2.0	80:正常访问
+ocean.baidu.com	10.26.3.48	-	端口未开放	端口未开放
+office.baidu.com	10.99.72.22	-	端口未开放	端口未开放
+rcs.baidu.com	220.181.57.6	80,443		80:正常访问
+openview.baidu.com	10.23.240.246	-	端口未开放	端口未开放
+ops.baidu.com	10.26.3.240,10.91.160.44,10.42.4.86,10.46.7.36,10.36.4.130,10.50.13.87	-	端口未开放	端口未开放
+retail.baidu.com	106.39.162.128	80,443	Apache	80:正常访问
+rmi.baidu.com	180.97.104.181	80,443	-	80:(404) 未找到
+orion.baidu.com	10.26.5.201	-	端口未开放	端口未开放
+sac.baidu.com	220.181.57.166,123.125.115.174,111.13.100.150,123.125.115.209	80	Apache-Coyote/1.1	80:正常访问
+sales.baidu.com	180.97.33.34	80	Apache	80:正常访问
+pe.baidu.com	10.23.65.19	-	端口未开放	端口未开放
+pg.baidu.com	10.48.48.31	-	端口未开放	端口未开放
+pgp.baidu.com	10.94.52.39	-	端口未开放	端口未开放
+phi.baidu.com	10.202.250.30	-	端口未开放	端口未开放
+ph.baidu.com	10.65.3.117	-	端口未开放	端口未开放
+phoenix.baidu.com	10.83.128.22	-	端口未开放	端口未开放
+dip.baidu.com	115.239.210.163,115.239.210.161	80,443	获取失败	80:-
+scanner.baidu.com	220.181.57.191	80,443	openresty/1.11.2.2	80:正常访问
+oc.baidu.com	10.207.6.76	-	端口未开放	端口未开放
+sj.baidu.com	115.239.210.223	80,443	Jetty(7.6.7.v20120910)	80:(404) 未找到
+sl.baidu.com	180.97.104.235	80,443	Web	80:正常访问
+site.baidu.com	180.97.36.72	80,443	Apache	80:正常访问
+research.baidu.com	180.76.149.102	80	nginx/1.10.2	80:正常访问
+pluto.baidu.com	10.99.218.166	-	端口未开放	端口未开放
+sn.baidu.com	115.239.217.135	80,443	nginx/1.8.0	80:正常访问
+pop.baidu.com	10.99.145.36	-	端口未开放	端口未开放
+private.baidu.com	10.58.178.41	-	端口未开放	端口未开放
+project.baidu.com	10.40.61.49	-	端口未开放	端口未开放
+proxy.baidu.com	112.80.248.64	-	端口未开放	端口未开放
+ptr.baidu.com	10.48.50.39	-	端口未开放	端口未开放
+ra.baidu.com	10.32.10.74	-	端口未开放	端口未开放
+registry.baidu.com	10.57.8.230	-	端口未开放	端口未开放
+relay.baidu.com	10.36.253.229	-	端口未开放	端口未开放
+sm.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+router.baidu.com	10.42.7.86,10.65.211.124	-	端口未开放	端口未开放
+sa.baidu.com	10.94.35.13	-	端口未开放	端口未开放
+sc.baidu.com	10.207.6.39	-	端口未开放	端口未开放
+sd.baidu.com	103.235.46.69	80	Apache	80:正常访问
+serv.baidu.com	10.65.25.83	-	端口未开放	端口未开放
+sr.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+sim.baidu.com	10.83.128.155	-	端口未开放	端口未开放
+sms.baidu.com	10.42.4.184	-	端口未开放	端口未开放
+spam.baidu.com	220.181.50.185,111.202.115.85	80	获取失败	80:-
+sniffer.baidu.com	10.26.7.220,10.65.211.87	-	端口未开放	端口未开放
+store.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+speed.baidu.com	10.65.18.22	-	端口未开放	端口未开放
+stock.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+sk.baidu.com	10.26.95.45	-	端口未开放	端口未开放
+support.baidu.com	180.97.104.203	80,443	Apache	80:正常访问
+sv.baidu.com	180.97.36.22	80,443	Apache	80:正常访问
+sy.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+8.baidu.com	115.239.211.33	80,443	Apache	80:正常访问
+ssl.baidu.com	10.58.121.74	-	端口未开放	端口未开放
+sta.baidu.com	10.46.136.15	-	端口未开放	端口未开放
+sun.baidu.com	10.46.11.23	-	端口未开放	端口未开放
+110.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+119.baidu.com	10.46.11.104	-	端口未开放	端口未开放
+4s.baidu.com	220.181.7.203	80,443	nginx	80:正常访问
+5v.baidu.com	111.13.105.28	80,443	bfe	80:(500) 内部服务器错误
+kw.baidu.com	123.125.114.144,111.13.101.208,180.149.132.47,220.181.57.217	80,443	BWS/1.0	80:正常访问
+3b.baidu.com	10.26.10.39	-	端口未开放	端口未开放
+f3.baidu.com	180.97.33.34,180.97.33.41	80	Apache	80:正常访问
+e2.baidu.com	180.76.143.62	80,443	JSP3/2.0.14	80:正常访问
+g2.baidu.com	115.239.210.212	80	apache	80:正常访问
+g3.baidu.com	115.239.210.212	80	apache	80:正常访问
+g4.baidu.com	115.239.210.212	80	apache	80:正常访问
+g1.baidu.com	115.239.210.212	80	apache	80:正常访问
+g5.baidu.com	115.239.210.212	80	apache	80:正常访问
+g6.baidu.com	115.239.210.212	80	apache	80:正常访问
+g7.baidu.com	115.239.210.212	80	apache	80:正常访问
+g8.baidu.com	115.239.210.212	80	apache	80:正常访问
+g9.baidu.com	115.239.210.212	80	apache	80:正常访问
+h2.baidu.com	180.149.133.110	80,443	bfe	80:(500) 内部服务器错误
+g0.baidu.com	58.215.98.35	80,443	Apache	80:正常访问
+i1.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i2.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i3.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i7.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i8.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i4.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+i6.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+i9.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+i5.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+m5.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+m6.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m4.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+m1.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m3.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m7.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+m8.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+h5.baidu.com	119.75.222.180	80,443	Apache	80:正常访问
+m2.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m9.baidu.com	58.217.200.98,58.217.200.97	80,443	apache	80:正常访问
+l3.baidu.com	180.97.36.21	80,443	Apache	80:正常访问
+t3.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t1.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t2.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t5.baidu.com	220.181.57.78	80,443	nginx	80:(403) 已禁止
+q1.baidu.com	111.206.37.78,111.206.37.77	80,443	lighttpd	80:(403) 已禁止
+q8.baidu.com	111.206.37.77,111.206.37.78	80,443	lighttpd	80:(403) 已禁止
+t4.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t8.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+q7.baidu.com	111.206.37.78,111.206.37.77	80,443	lighttpd	80:(403) 已禁止
+q2.baidu.com	111.206.37.77,111.206.37.78	80,443	lighttpd	80:(403) 已禁止
+q5.baidu.com	111.206.37.77,111.206.37.78	80,443	lighttpd	80:(403) 已禁止
+q4.baidu.com	111.206.37.77,111.206.37.78	80,443	lighttpd	80:(403) 已禁止
+q3.baidu.com	111.206.37.78,111.206.37.77	80,443	lighttpd	80:(403) 已禁止
+t9.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t7.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+q6.baidu.com	111.206.37.77,111.206.37.78	80,443	lighttpd	80:(403) 已禁止
+tf.baidu.com	180.97.66.37	80,443	JSP3/2.0.14	80:正常访问
+um.baidu.com	180.149.132.228	80,443	Apache-Coyote/1.1	80:正常访问
+tm.baidu.com	220.181.7.190	80,443	nginx	80:正常访问
+th.baidu.com	180.149.132.47,111.13.101.208,220.181.57.217,123.125.114.144	80,443	BWS/1.0	80:正常访问
+tech.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+vc.baidu.com	61.135.165.169	80,443	Apache	80:正常访问
+vie.baidu.com	182.61.62.50	80,443	BWS/1.0	80:正常访问
+usa.baidu.com	107.180.84.128	80,443	Apache	80:正常访问
+voice.baidu.com	180.97.36.17	80,443	Apache	80:正常访问
+vpn.baidu.com	220.181.50.247	80,443	-	80:(404) 未找到
+wallet.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+r4.baidu.com	10.11.0.14	-	端口未开放	端口未开放
+r6.baidu.com	10.11.0.16	-	端口未开放	端口未开放
+r3.baidu.com	10.11.0.13	-	端口未开放	端口未开放
+r2.baidu.com	10.11.0.12	-	端口未开放	端口未开放
+r8.baidu.com	10.11.0.18	-	端口未开放	端口未开放
+s2.baidu.com	10.46.167.37	-	端口未开放	端口未开放
+r7.baidu.com	10.11.0.17	-	端口未开放	端口未开放
+r9.baidu.com	10.11.0.19	-	端口未开放	端口未开放
+webdev.baidu.com	58.215.118.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+testlab.baidu.com	10.126.81.104	-	端口未开放	端口未开放
+tg.baidu.com	61.135.162.145	-	端口未开放	端口未开放
+titan.baidu.com	10.99.31.41	-	端口未开放	端口未开放
+tiger.baidu.com	10.46.28.36	-	端口未开放	端口未开放
+tk.baidu.com	10.46.129.37	-	端口未开放	端口未开放
+training.baidu.com	10.23.1.162	-	端口未开放	端口未开放
+trinity.baidu.com	10.26.84.26	-	端口未开放	端口未开放
+tx.baidu.com	10.208.6.174,10.208.6.173	-	端口未开放	端口未开放
+xr.baidu.com	180.97.36.17	80,443	Apache	80:正常访问
+xi.baidu.com	180.97.34.175	80,443	nginx/1.6.2	80:正常访问
+next.baidu.com	180.97.34.146	80,443	Apache	80:正常访问
+cpu.baidu.com	180.97.36.41	80,443	nginx/1.8.0	80:正常访问
+updates.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+index.baidu.com	106.39.162.93,111.202.114.69	80,443	Apache	80:正常访问
+zhanzhang.baidu.com	220.181.7.186	80,443	获取失败	80:-
+ups.baidu.com	10.46.104.42	-	端口未开放	端口未开放
+uranus.baidu.com	10.57.8.220	-	端口未开放	端口未开放
+fanyi.baidu.com	106.39.162.57	80,443	Apache	80:正常访问
+wifi.baidu.com	180.97.104.162	80,443	IoTx/1.9.7.1	80:正常访问
+top.baidu.com	180.97.33.107,180.97.33.108	80,443	PS-DSP/1.0	80:正常访问
+ut.baidu.com	10.23.248.87	-	端口未开放	端口未开放
+pai.baidu.com	180.97.33.91	80,443	Apache	80:正常访问
+wangzhan.baidu.com	220.181.7.190	80,443	nginx	80:正常访问
+va.baidu.com	10.94.51.43	-	端口未开放	端口未开放
+cloud.baidu.com	180.97.33.106	80,443	BWS	80:正常访问
+ppt.baidu.com	115.239.210.188	80,443	nginx/1.4.4	80:正常访问
+whois.baidu.com	180.149.144.177	80	nginx	80:(405) 不允许的方法
+bmp.baidu.com	115.239.211.55	80,443	Apache	80:正常访问
+vega.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+desk.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+venus.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+bus.baidu.com	180.97.33.34	80	Apache	80:正常访问
+word.baidu.com	119.75.222.180	80,443	Apache	80:(502) 错误的网关
+job.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+just.baidu.com	180.97.33.34	80	Apache	80:正常访问
+pp.baidu.com	106.39.162.253	80,443	Apache	80:正常访问
+like.baidu.com	180.149.131.146	80,443	获取失败	80:-
+eye.baidu.com	180.76.140.37	80,443	Apache	80:正常访问
+wa.baidu.com	10.207.7.95	-	端口未开放	端口未开放
+life.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+yt.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+webserver.baidu.com	10.26.214.75	-	端口未开放	端口未开放
+history.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+ws.baidu.com	10.94.35.35	-	端口未开放	端口未开放
+zeus.baidu.com	10.46.229.22	-	端口未开放	端口未开放
+webapp.baidu.com	10.95.36.21	-	端口未开放	端口未开放
+ceshi.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+hit.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+dock.baidu.com	10.99.31.40	-	端口未开放	端口未开放
+hack.baidu.com	10.26.5.178	-	端口未开放	端口未开放
+story.baidu.com	121.227.7.35	80,443	JSP3/2.0.14	80:正常访问
+nginx.baidu.com	10.36.5.156	-	端口未开放	端口未开放
+hadoop.baidu.com	10.83.128.26	-	端口未开放	端口未开放
+space.baidu.com	180.149.131.103,14.215.177.34,106.120.159.182	80,443	Apache	80:正常访问
+poc.baidu.com	10.26.7.203	-	端口未开放	端口未开放
+dba.baidu.com	10.92.116.26,10.58.159.36	-	端口未开放	端口未开放
+gx.baidu.com	180.97.104.235	80,443	BWS	80:正常访问
+market.baidu.com	180.97.33.106	80,443	BWS	80:正常访问
+for.baidu.com	10.100.73.37	-	端口未开放	端口未开放
+mx1.baidu.com	220.181.50.185,61.135.165.120	80	获取失败	80:-
+from.baidu.com	10.42.4.86,10.91.160.44,10.26.3.240,10.36.4.130,10.50.13.87,10.46.7.36	-	端口未开放	端口未开放
+excel.baidu.com	10.94.81.168	-	端口未开放	端口未开放
+join.baidu.com	14.215.177.97	80,443	nginx/1.9.4	80:正常访问
+up.baidu.com	10.26.3.49,10.36.3.27	-	端口未开放	端口未开放
+see.baidu.com	10.212.15.162	-	端口未开放	端口未开放
+bar.baidu.com	115.239.217.137	80,443	nginx/1.4.1	80:正常访问
+end.baidu.com	10.99.54.20	-	端口未开放	端口未开放
+ask.baidu.com	10.58.222.200	-	端口未开放	端口未开放
+set.baidu.com	10.32.36.145	-	端口未开放	端口未开放
+plan.baidu.com	10.36.155.43	-	端口未开放	端口未开放
+know.baidu.com	180.97.33.74	80,443	BWS	80:正常访问
+case.baidu.com	10.99.209.45	-	端口未开放	端口未开放
+course.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+child.baidu.com	180.149.131.247,180.149.133.167,220.181.57.232	80,443	Apache	80:正常访问
+study.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+power.baidu.com	180.149.133.165,180.149.131.245	80,443	Apache	80:正常访问
+company.baidu.com	180.97.104.30,180.97.33.124	80,443	nginx	80:正常访问
+mx3.baidu.com	61.135.162.61	-	端口未开放	端口未开放
+mx2.baidu.com	61.135.163.62	-	端口未开放	端口未开放
+thailand.baidu.com	103.235.46.165	80	Apache	80:正常访问
+acc.baidu.com	10.48.46.62	-	端口未开放	端口未开放
+heart.baidu.com	10.57.7.143,10.91.160.63	-	端口未开放	端口未开放
+cto.baidu.com	10.48.56.133	-	端口未开放	端口未开放
+light.baidu.com	180.76.141.65	80	BWS/1.0	80:正常访问
+meet.baidu.com	220.181.50.175	443	-	443:(400) 错误的请求
+scan.baidu.com	10.58.119.76	-	端口未开放	端口未开放
+session.baidu.com	10.207.6.45	-	端口未开放	端口未开放
+way.baidu.com	10.100.72.45	-	端口未开放	端口未开放
+stand.baidu.com	10.36.7.221	-	端口未开放	端口未开放
+law.baidu.com	111.206.37.194,220.181.163.8	80,443	Apache	80:正常访问
+custom.baidu.com	220.181.112.165	-	端口未开放	端口未开放
+cost.baidu.com	10.26.137.29	-	端口未开放	端口未开放
+art.baidu.com	10.42.137.45	-	端口未开放	端口未开放
+doctor.baidu.com	115.239.217.162	80,443	nginx	80:正常访问
+god.baidu.com	10.99.199.32,10.94.43.42	-	端口未开放	端口未开放
+society.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+cover.baidu.com	180.97.104.203	80,443	Apache	80:(404) 未找到
+effect.baidu.com	10.57.13.144	-	端口未开放	端口未开放
+measure.baidu.com	10.42.108.58	-	端口未开放	端口未开放
+watch.baidu.com	180.97.33.57	80,443	Apache	80:(404) 未找到
+trade.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+unit.baidu.com	180.97.104.12	80,443	Apache	80:正常访问
+wear.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+vote.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+common.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+morning.baidu.com	10.94.40.19	-	端口未开放	端口未开放
+origin.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+fit.baidu.com	119.75.222.30	80,443	Apache	80:(502) 错误的网关
+film.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+machine.baidu.com	10.81.32.152	-	端口未开放	端口未开放
+quality.baidu.com	10.100.81.72	-	端口未开放	端口未开放
+settle.baidu.com	10.42.7.116	-	端口未开放	端口未开放
+growth.baidu.com	10.38.145.134	-	端口未开放	端口未开放
+edge.baidu.com	220.181.57.38,106.39.162.232	80,443	nginx/1.12.1	80:正常访问
+oil.baidu.com	180.97.36.91	80,443	Apache	80:正常访问
+knowledge.baidu.com	10.88.46.23,111.206.37.169	-	端口未开放	端口未开放
+depend.baidu.com	10.48.32.136	-	端口未开放	端口未开放
+season.baidu.com	10.99.69.41	-	端口未开放	端口未开放
+scene.baidu.com	10.100.30.74	-	端口未开放	端口未开放
+rock.baidu.com	10.202.105.28	-	端口未开放	端口未开放
+model.baidu.com	10.38.109.33	-	端口未开放	端口未开放
+recommend.baidu.com	10.42.4.147	-	端口未开放	端口未开放
+lady.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+fly.baidu.com	10.99.25.43	-	端口未开放	端口未开放
+bit.baidu.com	180.149.131.178	80,443	Apache/2.2.24 (Unix)	80:正常访问
+bridge.baidu.com	10.42.7.117	-	端口未开放	端口未开放
+bright.baidu.com	10.205.180.28	-	端口未开放	端口未开放
+sample.baidu.com	10.42.7.162	-	端口未开放	端口未开放
+speech.baidu.com	115.239.211.171	80,443	Apache	80:正常访问
+fashion.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+fast.baidu.com	10.48.32.110	-	端口未开放	端口未开放
+loan.baidu.com	180.149.133.177	80,443	nginx/1.8.0	80:正常访问
+curve.baidu.com	115.239.210.54	80,443	nginx	80:正常访问
+trust.baidu.com	115.239.211.47,180.149.131.246	80,443	Apache	80:正常访问
+risk.baidu.com	123.125.115.231	80,443	获取失败	80:-
+brain.baidu.com	180.97.104.12	80,443	Apache	80:(404) 未找到
+star.baidu.com	111.13.105.153,106.39.162.214,202.106.2.14,103.235.47.75	80,443	nginx	80:正常访问
+captain.baidu.com	10.42.4.86,10.26.3.239,10.26.3.240	-	端口未开放	端口未开放
+chain.baidu.com	180.149.133.175	80,443	-	80:(500) 内部服务器错误
+collection.baidu.com	10.128.230.52,10.151.111.36	-	端口未开放	端口未开放
+insurance.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+fresh.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+suggestion.baidu.com	180.97.33.72	80	获取失败	80:-
+factory.baidu.com	111.206.47.154,111.206.47.149	80	获取失败	80:-
+guard.baidu.com	10.42.4.229,10.46.11.30	-	端口未开放	端口未开放
+fate.baidu.com	220.181.57.55	80	nginx	80:正常访问
+pipe.baidu.com	180.97.93.29	80,443	nginx/1.8.1	80:正常访问
+sugar.baidu.com	14.215.178.43,14.215.178.23	80,443	openresty	80:正常访问
+translate.baidu.com	106.39.162.57	80,443	Apache	80:正常访问
+stone.baidu.com	10.99.35.41	-	端口未开放	端口未开放
+sky.baidu.com	10.46.104.43	-	端口未开放	端口未开放
+ear.baidu.com	10.94.51.25	-	端口未开放	端口未开放
+pity.baidu.com	220.181.57.191	80,443	openresty/1.11.2.2	80:正常访问
+cup.baidu.com	10.226.71.37	-	端口未开放	端口未开放
+bow.baidu.com	58.215.118.48	80,443	JSP3/2.0.14	80:正常访问
+wise.baidu.com	10.202.6.122	-	端口未开放	端口未开放
+fun.baidu.com	115.239.210.64,220.181.57.65	80	nginx/1.4.4	80:(503) 服务器不可用
+grain.baidu.com	10.42.4.246	-	端口未开放	端口未开放
+shield.baidu.com	180.97.36.72	80,443	Apache	80:正常访问
+cap.baidu.com	123.125.115.209,220.181.57.166,123.125.115.174,111.13.100.150	80	Apache-Coyote/1.1	80:正常访问
+wisdom.baidu.com	10.91.160.134	-	端口未开放	端口未开放
+storm.baidu.com	10.26.26.238	-	端口未开放	端口未开放
+tip.baidu.com	10.48.40.18	-	端口未开放	端口未开放
+leaf.baidu.com	10.36.4.214	-	端口未开放	端口未开放
+idle.baidu.com	10.26.138.41	-	端口未开放	端口未开放
+blade.baidu.com	10.202.6.186	-	端口未开放	端口未开放
+thunder.baidu.com	10.57.167.58	-	端口未开放	端口未开放
+elastic.baidu.com	111.206.37.160	-	端口未开放	端口未开放
+framework.baidu.com	10.38.109.18	-	端口未开放	端口未开放
+ray.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+credit.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+expert.baidu.com	180.97.33.183,180.97.33.181	80,443	Apache	80:正常访问
+photography.baidu.com	10.95.102.45	-	端口未开放	端口未开放
+mat.baidu.com	10.48.22.12	-	端口未开放	端口未开放
+building.baidu.com	180.76.142.147	80	BWS/1.0	80:正常访问
+learning.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+notebook.baidu.com	10.199.28.35	-	端口未开放	端口未开放
+impulse.baidu.com	10.65.13.103	-	端口未开放	端口未开放
+writing.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+has.baidu.com	10.32.64.201,10.86.53.34	-	端口未开放	端口未开放
+its.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+cars.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+civil.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+sat.baidu.com	10.58.102.37	-	端口未开放	端口未开放
+rules.baidu.com	183.232.232.53,180.101.212.24,123.125.115.231	80,443	Apache	80:正常访问
+ideas.baidu.com	172.18.116.93	-	端口未开放	端口未开放
+jr.baidu.com	106.39.162.91,180.97.36.44	80,443	JSP3/2.0.14	80:正常访问
+shot.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+player.baidu.com	220.181.163.144	80	Apache	80:正常访问
+driver.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+sports.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+bonds.baidu.com	115.239.210.174,180.97.33.136	80,443	Apache	80:正常访问
+platform.baidu.com	10.91.161.75	-	端口未开放	端口未开放
+process.baidu.com	10.42.4.153	-	端口未开放	端口未开放
+friday.baidu.com	10.65.24.130	-	端口未开放	端口未开放
+issue.baidu.com	10.65.211.71	-	端口未开放	端口未开放
+roman.baidu.com	10.36.5.232	-	端口未开放	端口未开放
+congo.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+goal.baidu.com	180.76.153.241	80,443	nginx/1.4.7	80:正常访问
+em.baidu.com	106.39.162.37	80,443	nginx	80:正常访问
+inner.baidu.com	10.65.211.21,10.212.7.17,10.26.7.118,10.208.7.53,10.212.7.16,10.208.7.52	-	端口未开放	端口未开放
+create.baidu.com	106.39.162.214	80,443	nginx	80:正常访问
+mama.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+hudson.baidu.com	10.46.126.23	-	端口未开放	端口未开放
+talent.baidu.com	180.149.144.205	80,443	ITE	80:正常访问
+measures.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+traffic.baidu.com	10.242.15.216	-	端口未开放	端口未开放
+opera.baidu.com	10.40.8.31	-	端口未开放	端口未开放
+models.baidu.com	10.13.100.40	-	端口未开放	端口未开放
+target.baidu.com	10.94.49.37	-	端口未开放	端口未开放
+watson.baidu.com	10.211.6.64	-	端口未开放	端口未开放
+item.baidu.com	10.211.6.78	-	端口未开放	端口未开放
+element.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+display.baidu.com	10.46.112.16	-	端口未开放	端口未开放
+atlantic.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+prime.baidu.com	10.99.54.21	-	端口未开放	端口未开放
+holmes.baidu.com	10.91.160.66	-	端口未开放	端口未开放
+focus.baidu.com	10.50.13.243,10.57.13.25	-	端口未开放	端口未开放
+scholarship.baidu.com	202.106.2.53	80,443	nginx/1.14.0	80:正常访问
+bubble.baidu.com	106.39.162.55	80,443	bfe	80:(500) 内部服务器错误
+cater.baidu.com	180.97.34.157,180.97.33.128	80,443	apache	80:正常访问
+football.baidu.com	10.36.7.221,10.81.211.74	-	端口未开放	端口未开放
+graph.baidu.com	180.97.36.17	80,443	apache	80:正常访问
+innovation.baidu.com	180.76.147.153	80	nginx	80:正常访问
+gravity.baidu.com	10.206.7.100	-	端口未开放	端口未开放
+render.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:(404) 未找到
+norm.baidu.com	10.100.48.56	-	端口未开放	端口未开放
+predict.baidu.com	10.73.218.24	-	端口未开放	端口未开放
+react.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+vehicle.baidu.com	180.97.33.125	80,443	nginx/1.2.4	80:正常访问
+verify.baidu.com	220.181.111.155	80	Apache	80:正常访问
+candidate.baidu.com	202.106.2.54,106.39.162.252,117.185.17.97	80,443		80:正常访问
+bench.baidu.com	10.81.11.135	-	端口未开放	端口未开放
+pat.baidu.com	10.99.16.57	-	端口未开放	端口未开放
+alert.baidu.com	115.239.217.57	80,443	beegoServer:1.4.2	80:(404) 未找到
+promote.baidu.com	123.125.115.104,111.13.100.167	80,443	nginx	80:正常访问
+counter.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:(302) 重定向
+campus.baidu.com	180.76.155.81	80	nginx	80:正常访问
+jet.baidu.com	183.232.231.17,183.232.231.18	80	apache	80:(404) 未找到
+entry.baidu.com	180.97.33.108,180.97.33.107	80,443	Apache	80:正常访问
+composer.baidu.com	10.26.26.226,10.26.26.227	-	端口未开放	端口未开放
+evaluation.baidu.com	10.46.131.137	-	端口未开放	端口未开放
+commander.baidu.com	10.36.5.170,10.65.211.38	-	端口未开放	端口未开放
+chart.baidu.com	220.181.7.203	80,443	nginx	80:正常访问
+radar.baidu.com	220.181.57.105	80,443		80:正常访问
+insight.baidu.com	106.39.162.158,111.202.114.141	80,443	Apache	80:正常访问
+di.baidu.com	106.39.162.212	80,443	Apache	80:正常访问
+trends.baidu.com	180.97.104.12	80,443	HPHP	80:正常访问
+trading.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+legend.baidu.com	10.42.4.86,10.26.3.240,10.26.3.239	-	端口未开放	端口未开放
+label.baidu.com	10.42.4.63	-	端口未开放	端口未开放
+giant.baidu.com	10.16.82.58	-	端口未开放	端口未开放
+pip.baidu.com	10.48.195.48	-	端口未开放	端口未开放
+sampling.baidu.com	10.40.71.205	-	端口未开放	端口未开放
+conversion.baidu.com	10.91.161.117	-	端口未开放	端口未开放
+melody.baidu.com	10.36.7.197,10.26.7.79	-	端口未开放	端口未开放
+shu.baidu.com	10.195.6.219	-	端口未开放	端口未开放
+allen.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+boss.baidu.com	10.26.7.246,10.36.7.192	-	端口未开放	端口未开放
+1111.baidu.com	180.97.93.38	80,443	Apache	80:正常访问
+188.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+aiche.baidu.com	180.97.33.181,180.97.33.183	80,443	Apache	80:正常访问
+aidu.baidu.com	112.34.111.183,180.149.144.165	80,443	Apache	80:(404) 未找到
+adata.baidu.com	10.36.253.93	-	端口未开放	端口未开放
+aijia.baidu.com	180.149.133.177	80,443	Apache	80:正常访问
+alarm.baidu.com	115.239.217.57	80,443	beegoServer:1.4.2	80:(404) 未找到
+album.baidu.com	106.39.162.253	80,443	Apache	80:正常访问
+api.m.baidu.com	180.97.33.107,180.97.33.108	80,443	PS-DSP/1.0	80:正常访问
+api.media.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+agents.baidu.com	10.36.7.104,10.50.14.199	-	端口未开放	端口未开放
+awww.baidu.com	119.75.218.11	80,443	bfe/1.0.8.18	80:正常访问
+alexa.baidu.com	10.46.139.63	-	端口未开放	端口未开放
+allinone.baidu.com	10.48.31.86	-	端口未开放	端口未开放
+baike.baidu.com	180.149.131.247,220.181.57.232,180.149.133.167	80,443	Apache	80:正常访问
+antiddos.baidu.com	10.57.225.53	-	端口未开放	端口未开放
+antispam.baidu.com	10.42.158.57,10.42.157.58	-	端口未开放	端口未开放
+bama.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:(302) 重定向
+baiyi.baidu.com	220.181.111.127,180.149.131.176	80,443	Unknow	80:正常访问
+bangbang.baidu.com	220.181.57.55	80	-	80:(404) 未找到
+banner.baidu.com	180.97.36.41	80,443	Apache-Coyote/1.1	80:(404) 未找到
+bangzhu.baidu.com	112.34.111.183,112.34.111.18,112.80.255.43,202.106.2.78,180.149.144.166,180.149.144.165,180.97.36.81,117.185.16.230,180.97.33.42,112.80.255.39,202.106.2.77,117.185.16.213	80,443	Apache	80:正常访问
+baoxian.baidu.com	180.97.93.51	80,443	Apache	80:正常访问
+bbs.pc.baidu.com	180.97.66.48	80,443	Apache	80:(403) 已禁止
+apitest.baidu.com	10.99.29.34	-	端口未开放	端口未开放
+appdata.baidu.com	10.57.7.22	-	端口未开放	端口未开放
+apptest.baidu.com	10.99.39.38	-	端口未开放	端口未开放
+baobao.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+assets.baidu.com	10.214.34.19	-	端口未开放	端口未开放
+audit.baidu.com	10.42.3.128	-	端口未开放	端口未开放
+bdtg.baidu.com	115.239.217.135	80,443	Apache	80:正常访问
+avatar.baidu.com	10.26.137.29	-	端口未开放	端口未开放
+bike.baidu.com	180.149.133.167,220.181.57.232,180.149.131.247	80,443	Apache	80:正常访问
+baili.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+bailiwanggou.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+beian.baidu.com	220.181.172.30	80	BWS	80:正常访问
+banjia.baidu.com	10.23.244.216	-	端口未开放	端口未开放
+bestchange.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+bigdata.baidu.com	10.91.161.88	-	端口未开放	端口未开放
+blcx.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+brand.baidu.com	111.13.100.98,117.185.16.100	80,443	Apache	80:正常访问
+browser.baidu.com	103.235.46.26	-	端口未开放	端口未开放
+callback.baidu.com	220.181.57.166	80	nginx/1.2.4	80:正常访问
+caigou.baidu.com	115.239.211.32,153.37.235.60,183.232.232.58	80,443	Apache-Coyote/1.1	80:正常访问
+caifu.baidu.com	180.97.36.44	80,443	nginx/1.8.0	80:正常访问
+caiwu.baidu.com	115.239.210.171	80,443	BWS	80:正常访问
+cang.baidu.com	180.149.145.250	80,443	Apache	80:正常访问
+carnavi.baidu.com	115.239.211.138	80,443	Apache	80:正常访问
+cartoon.baidu.com	180.97.104.214	80,443	Apache	80:正常访问
+caijing.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+cdss.baidu.com	180.101.212.65,115.239.210.116	80,443	nginx	80:正常访问
+ceping.baidu.com	10.73.191.15	-	端口未开放	端口未开放
+chexian.baidu.com	202.108.23.198,202.108.23.199	80	Apache	80:正常访问
+chuangyi.baidu.com	115.239.217.162	80,443	nginx/1.8.0	80:正常访问
+chunyun.baidu.com	14.215.177.49	80,443	nginx/1.4.4	80:正常访问
+cpro.baidu.com	180.97.36.19	80,443	nginx	80:正常访问
+chou.baidu.com	10.26.209.25	-	端口未开放	端口未开放
+cloudtest.baidu.com	10.105.97.49	-	端口未开放	端口未开放
+cms.m.baidu.com	10.94.29.22	-	端口未开放	端口未开放
+comic.baidu.com	10.65.45.219	-	端口未开放	端口未开放
+cpadmin.baidu.com	10.46.206.53	-	端口未开放	端口未开放
+crawler.baidu.com	10.83.128.203	-	端口未开放	端口未开放
+dangjian.baidu.com	180.76.133.88	80,443	nginx/1.10.0	80:正常访问
+daohang.baidu.com	202.106.2.64	80,443	获取失败	80:-
+dating.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+daxue.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+daping.baidu.com	106.39.162.212	80,443	Apache	80:正常访问
+cs.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+dianping.baidu.com	180.97.104.164	80,443	nginx	80:正常访问
+dianying.baidu.com	180.97.34.248	80,443	nginx	80:正常访问
+darwin.baidu.com	10.95.44.43	-	端口未开放	端口未开放
+dashboard.baidu.com	10.42.132.62,10.26.21.23	-	端口未开放	端口未开放
+dayu.baidu.com	10.99.27.31	-	端口未开放	端口未开放
+dcdn.baidu.com	10.207.6.117	-	端口未开放	端口未开放
+ddos.baidu.com	10.57.225.53	-	端口未开放	端口未开放
+diary.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+dingdan.baidu.com	220.181.57.110	80,443	nginx	80:正常访问
+dfapi.baidu.com	10.42.7.111,10.36.3.57	-	端口未开放	端口未开放
+diya.baidu.com	180.149.133.177	80,443	Apache	80:正常访问
+dhhz.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+dhub.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+ding.baidu.com	10.42.3.14	-	端口未开放	端口未开放
+dnshk.baidu.com	10.242.15.68	-	端口未开放	端口未开放
+dushu.baidu.com	180.97.104.214	80,443	Apache	80:正常访问
+dongman.baidu.com	10.65.45.219	-	端口未开放	端口未开放
+dota.baidu.com	10.26.25.224	-	端口未开放	端口未开放
+druid.baidu.com	10.195.7.33	-	端口未开放	端口未开放
+dump.baidu.com	10.242.15.28	-	端口未开放	端口未开放
+f10.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+f11.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+f12.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+fang.baidu.com	180.97.33.181,180.97.33.183	80,443	Apache	80:正常访问
+fangwu.baidu.com	106.39.162.229,202.106.2.34,111.13.105.167	80,443	Unknow	80:正常访问
+erp1.baidu.com	10.199.39.35	-	端口未开放	端口未开放
+font.baidu.com	220.181.57.166	80	Apache	80:正常访问
+fuli.baidu.com	220.181.163.144	80	Apache	80:正常访问
+fenxiang.baidu.com	180.149.145.241	80,443	nginx	80:尝试自动重定向的次数太多
+fankui.baidu.com	10.48.38.33	-	端口未开放	端口未开放
+fuwu.baidu.com	115.239.210.223	80,443	Apache-Coyote/1.1	80:正常访问
+fenci.baidu.com	10.95.180.13	-	端口未开放	端口未开放
+g12.baidu.com	115.239.210.212	80	apache	80:正常访问
+g10.baidu.com	115.239.210.212	80	apache	80:正常访问
+g14.baidu.com	115.239.210.212	80	apache	80:正常访问
+g13.baidu.com	115.239.210.212	80	apache	80:正常访问
+g15.baidu.com	115.239.210.212	80	apache	80:正常访问
+freevpn.baidu.com	172.19.47.45	-	端口未开放	端口未开放
+gongyi.baidu.com	106.39.162.252,202.106.2.54,117.185.17.97	80,443	Apache-Coyote/1.1	80:正常访问
+gonglue.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+galaxy.baidu.com	10.81.11.241	-	端口未开放	端口未开放
+guanwang.baidu.com	115.239.211.47,180.149.131.246	80,443	Apache	80:正常访问
+guahao.baidu.com	106.39.162.39	80,443	bfe	80:(500) 内部服务器错误
+gateway2.baidu.com	172.16.0.1	-	端口未开放	端口未开放
+gitlab.baidu.com	10.44.64.103	-	端口未开放	端口未开放
+gongju.baidu.com	10.36.87.37	-	端口未开放	端口未开放
+guanggao.baidu.com	10.23.3.99	-	端口未开放	端口未开放
+gupiao.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+gushi.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+gw2.baidu.com	172.16.0.1	-	端口未开放	端口未开放
+hao123.baidu.com	180.97.36.72	80,443	Apache	80:正常访问
+haoma.baidu.com	180.101.212.32,180.97.36.14	80,443	nginx	80:正常访问
+halo.baidu.com	10.48.40.22	-	端口未开放	端口未开放
+hezuo.baidu.com	10.91.160.235	-	端口未开放	端口未开放
+honghu.baidu.com	180.97.33.77,180.101.212.52	80,443	BWS	80:(404) 未找到
+hongbao.baidu.com	220.181.57.110	80,443	nginx	80:正常访问
+hongyan.baidu.com	112.34.112.34,111.206.37.44,111.13.100.207	80,443	Apache-Coyote/1.1	80:正常访问
+hoteltest.baidu.com	115.239.217.82	80,443	Apache	80:正常访问
+htadmin.baidu.com	180.149.132.31	80,443	Apache-Coyote/1.1	80:正常访问
+huayu.baidu.com	119.97.149.144	80,443	nginx	80:正常访问
+huaiyun.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+hybrid.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+idol.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+ihome.baidu.com	220.181.163.54	80	Apache	80:正常访问
+iknow.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+imgnews.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+iqiyi.baidu.com	111.206.37.158	80,443	bfe	80:(500) 内部服务器错误
+itest.baidu.com	180.76.134.214	80	BLB/	80:正常访问
+icafe.baidu.com	10.65.211.71	-	端口未开放	端口未开放
+idata.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+jiandan.baidu.com	180.97.36.17	80,443	Apache	80:正常访问
+imax.baidu.com	10.40.31.12	-	端口未开放	端口未开放
+imessage.baidu.com	10.50.13.99	-	端口未开放	端口未开放
+imdb.baidu.com	10.58.45.38	-	端口未开放	端口未开放
+img100.baidu.com	10.99.33.21	-	端口未开放	端口未开放
+jiankang.baidu.com	202.106.2.50	80,443	Apache	80:正常访问
+internal.passport.baidu.com	10.38.28.34,10.38.27.54,10.26.193.45,10.26.193.25,10.26.193.35,10.38.27.34,10.38.28.14,10.26.193.13	-	端口未开放	端口未开放
+jianli.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+jianzhan.baidu.com	180.97.104.216	80,443	nginx	80:正常访问
+jiaotong.baidu.com	180.97.33.90	80,443	Apache	80:正常访问
+jiaoyu.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+ishare.baidu.com	10.65.34.173	-	端口未开放	端口未开放
+itil.baidu.com	10.42.5.62	-	端口未开放	端口未开放
+jifen.baidu.com	112.34.111.172,106.39.162.71,111.202.114.62	80,443	获取失败	80:-
+jingyi.baidu.com	183.232.232.50	80,443	Apache-Coyote/1.1	80:(405) 不允许的方法
+jenkins.baidu.com	10.48.31.145	-	端口未开放	端口未开放
+jingyan.baidu.com	220.181.164.104,106.39.162.97	80,443	Apache	80:正常访问
+jinrong.baidu.com	106.39.162.91,180.97.36.44	80,443	JSP3/2.0.14	80:正常访问
+jindouyun.baidu.com	10.57.8.66	-	端口未开放	端口未开放
+jingle.baidu.com	10.206.7.174,10.42.6.233,10.36.4.154,10.211.6.54	-	端口未开放	端口未开放
+jingpin.baidu.com	10.94.26.55	-	端口未开放	端口未开放
+jinlin.baidu.com	10.26.96.44	-	端口未开放	端口未开放
+jira.baidu.com	10.65.45.121,10.26.138.15	-	端口未开放	端口未开放
+jwww.baidu.com	220.181.112.195	80,443	bfe/1.0.8.18	80:正常访问
+joker.baidu.com	10.83.128.202	-	端口未开放	端口未开放
+kaoshi.baidu.com	14.215.177.118	80,443	Apache	80:正常访问
+kecheng.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+kehu.baidu.com	115.239.210.43,220.181.7.195	80,443	BWS	80:正常访问
+kexin.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+kankan.baidu.com	180.76.101.191	80	BLB/	80:正常访问
+kanshu.baidu.com	180.76.112.181	80	JSP3/2.0.14	80:正常访问
+kuai.baidu.com	180.97.104.160	80,443	Apache	80:(404) 未找到
+koubei.baidu.com	180.97.104.164	80,443	nginx	80:正常访问
+laonian.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:(302) 重定向
+kefu.baidu.com	10.94.40.22	-	端口未开放	端口未开放
+lian.baidu.com	180.149.131.73	80,443	Apache	80:正常访问
+libs.baidu.com	182.61.62.50	80,443	Apache	80:(403) 已禁止
+lingshou.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+licai.baidu.com	180.149.133.221	80,443	Apache	80:正常访问
+lingxi.baidu.com	111.206.37.93,220.181.57.83	80,443	Apache-Coyote/1.1	80:正常访问
+lianmeng.baidu.com	180.149.133.177	80,443	Apache	80:正常访问
+lingyi.baidu.com	115.239.210.116,180.101.212.65	80,443	nginx	80:正常访问
+kj1207100001.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+liulanqi.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+lixian.baidu.com	220.181.163.144	80	Apache	80:正常访问
+liuxue.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+koala.baidu.com	10.94.52.22	-	端口未开放	端口未开放
+kxsg.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+kylin.baidu.com	10.50.86.18	-	端口未开放	端口未开放
+lottery.baidu.com	220.181.57.55	80	Apache-Coyote/1.1	80:(404) 未找到
+lego.baidu.com	10.26.3.187	-	端口未开放	端口未开放
+luntan.baidu.com	180.76.155.81	80	nginx	80:正常访问
+lunwen.baidu.com	180.97.33.108,180.97.33.107	80,443	BWS/1.1	80:正常访问
+lushi.baidu.com	220.181.163.8,111.206.37.194	80,443	Apache	80:正常访问
+lipin.baidu.com	180.97.33.121	80,443	Apache	80:正常访问
+logo.baidu.com	180.76.168.75	80	BWS/1.0	80:正常访问
+list1.baidu.com	10.19.252.177	-	端口未开放	端口未开放
+m.v.baidu.com	180.149.144.1	80,443	Apache	80:正常访问
+maker.baidu.com	180.76.129.7	80	BLB/	80:正常访问
+mapi.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+mbapi.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:(404) 未找到
+manhua.baidu.com	10.65.45.219	-	端口未开放	端口未开放
+mcdn.baidu.com	180.97.66.43	80	JSP3/2.0.14	80:(403) 已禁止
+maven.baidu.com	10.48.57.24	-	端口未开放	端口未开放
+maya.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+mdev.baidu.com	10.208.7.160	-	端口未开放	端口未开放
+meitu.baidu.com	10.40.44.19	-	端口未开放	端口未开放
+memcache.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+minisite.baidu.com	115.239.210.77	80	Apache	80:正常访问
+mmall.baidu.com	180.97.104.214	80,443	Apache	80:正常访问
+mobileapp.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+mobileadmin.baidu.com	112.34.112.36,220.181.57.79,111.206.37.47	80,443	Apache-Coyote/1.1	80:正常访问
+moke.baidu.com	180.149.132.114	80,443	nginx/1.11.10	80:正常访问
+mooc.baidu.com	220.181.7.203	80,443	nginx	80:正常访问
+mingtai.baidu.com	10.195.79.23	-	端口未开放	端口未开放
+mpay.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+mirrors.baidu.com	10.26.153.41	-	端口未开放	端口未开放
+mt2.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mojing.baidu.com	100.64.1.211,100.64.1.213	-	端口未开放	端口未开放
+momo.baidu.com	10.95.105.127	-	端口未开放	端口未开放
+mongo.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+muying.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:(500) 内部服务器错误
+mongodb.baidu.com	10.26.26.238	-	端口未开放	端口未开放
+monitors.baidu.com	10.65.43.129	-	端口未开放	端口未开放
+mx22.baidu.com	220.181.50.185	80	获取失败	80:-
+mx23.baidu.com	220.181.50.185	80	获取失败	80:-
+myshifen.baidu.com	180.97.104.203	80,443	Apache	80:正常访问
+mx21.baidu.com	220.181.3.85	80	获取失败	80:-
+muse.baidu.com	10.38.145.59	-	端口未开放	端口未开放
+mx227.baidu.com	180.149.143.42	-	端口未开放	端口未开放
+mx4.baidu.com	61.135.162.62	-	端口未开放	端口未开放
+mx6.baidu.com	202.108.22.171	-	端口未开放	端口未开放
+nagios.baidu.com	10.26.109.19	-	端口未开放	端口未开放
+opendata.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+nexus.baidu.com	10.40.8.67	-	端口未开放	端口未开放
+padv.baidu.com	115.239.217.22	80,443	Apache-Coyote/1.1	80:正常访问
+p2p.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+ns6.baidu.com	220.181.166.2	-	端口未开放	端口未开放
+ns7.baidu.com	180.76.76.92	-	端口未开放	端口未开放
+panshi.baidu.com	106.39.162.132,14.215.177.245,180.149.132.251	80,443	nginx/1.8.0	80:正常访问
+ns8.baidu.com	111.206.37.164	-	端口未开放	端口未开放
+ns9.baidu.com	180.76.1.26	-	端口未开放	端口未开放
+noah.baidu.com	10.26.7.113,10.36.253.83	-	端口未开放	端口未开放
+piao.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+piaowu.baidu.com	180.97.36.40,180.97.93.44	80,443	Web	80:正常访问
+pingtai.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+pinpai.baidu.com	180.97.104.235	80,443	Web	80:正常访问
+pinyin.baidu.com	106.39.162.71	80,443	Apache	80:正常访问
+pinggu.baidu.com	61.135.162.247	80	Apache	80:正常访问
+parse.baidu.com	10.46.126.36	-	端口未开放	端口未开放
+paytest.baidu.com	10.208.6.173	-	端口未开放	端口未开放
+pinche.baidu.com	10.26.164.15	-	端口未开放	端口未开放
+piwik.baidu.com	10.95.28.33	-	端口未开放	端口未开放
+qian.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+qiandao.baidu.com	106.120.159.237	80,443	Apache-Coyote/1.1	80:正常访问
+qianhui.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+plat.baidu.com	10.105.97.104	-	端口未开放	端口未开放
+qianxi.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+qiche.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+profile.baidu.com	10.58.177.42	-	端口未开放	端口未开放
+preview.baidu.com	10.50.14.162	-	端口未开放	端口未开放
+pypi.baidu.com	10.26.153.41	-	端口未开放	端口未开放
+qiyi.baidu.com	101.227.22.160,101.227.22.161,101.227.22.162,101.227.22.159	80,443	QWS	80:正常访问
+qiye.baidu.com	180.97.33.124,180.97.104.30	80,443	nginx	80:正常访问
+quan.baidu.com	220.181.57.55	80	获取失败	80:-
+quanjing.baidu.com	180.97.33.91	80,443	apache	80:正常访问
+qihang.baidu.com	10.48.51.37	-	端口未开放	端口未开放
+renzheng.baidu.com	58.211.137.1	80,443	yunjiasu-nginx	80:正常访问
+renqi.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+robot.baidu.com	180.149.131.196	80,443	nginx/1.11.2	80:正常访问
+ruiyan.baidu.com	111.202.114.52,180.97.104.165,112.34.111.172	80,443	Apache	80:正常访问
+redis.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+sandbox.baidu.com	111.13.100.151	80,443	BaseHTTP/0.6 Python/3.6.5	80:(501) 未实现
+resume.baidu.com	10.58.98.34	-	端口未开放	端口未开放
+scholar.baidu.com	180.97.33.107,180.97.33.108	80,443	BWS/1.1	80:正常访问
+seller.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+saas.baidu.com	10.26.26.238	-	端口未开放	端口未开放
+sapi.baidu.com	10.95.102.18	-	端口未开放	端口未开放
+shangjia.baidu.com	111.206.37.51,112.34.111.57,220.181.57.89	80,443	bfe	80:(500) 内部服务器错误
+shangpin.baidu.com	180.97.33.34	80	apache	80:正常访问
+shantou.baidu.com	123.125.115.84	80,443	Unknown	80:正常访问
+shipin.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+shiping.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+seer.baidu.com	10.46.34.37	-	端口未开放	端口未开放
+sf123.baidu.com	10.26.3.123	-	端口未开放	端口未开放
+shuo.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+shucheng.baidu.com	111.13.108.103,118.26.21.72	80,443	BWS/1.1	80:正常访问
+shurufa.baidu.com	106.39.162.71	80,443	Apache	80:正常访问
+siping.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+shouyou.baidu.com	180.76.175.183	80	BLB/	80:正常访问
+shifang.baidu.com	10.46.7.36,10.36.4.130,10.91.160.44,10.26.3.240,10.42.4.86,10.50.13.87	-	端口未开放	端口未开放
+sp1.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:正常访问
+sp3.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:正常访问
+sms1.baidu.com	172.16.3.200	-	端口未开放	端口未开放
+sms2.baidu.com	172.18.229.253	-	端口未开放	端口未开放
+snorby.baidu.com	10.107.49.52	-	端口未开放	端口未开放
+sonar.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+t10.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t11.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+t12.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+test.app.baidu.com	115.239.217.112	80,443	BWS	80:(400) 错误的请求
+test.m.baidu.com	123.125.115.190	80,443	bfe	80:(500) 内部服务器错误
+tiku.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+timg.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+tiyu.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+thai.baidu.com	123.125.114.144,180.149.132.47,220.181.57.217,111.13.101.208	80,443	BWS/1.0	80:正常访问
+test.music.baidu.com	10.94.37.21	-	端口未开放	端口未开放
+token.baidu.com	115.239.210.223	80,443	nginx	80:正常访问
+test.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+test123.baidu.com	10.10.10.10	-	端口未开放	端口未开放
+test8.baidu.com	10.83.128.204,10.83.128.205	-	端口未开放	端口未开放
+toolbar.baidu.com	115.239.217.137	80,443	nginx/1.4.1	80:正常访问
+testcas.baidu.com	10.81.11.156	-	端口未开放	端口未开放
+spark.baidu.com	103.235.46.26	80	获取失败	80:-
+tongxue.baidu.com	180.149.144.205	80,443	ITE	80:正常访问
+toutiao.baidu.com	180.97.33.232	80,443	Apache	80:正常访问
+tixing.baidu.com	10.215.7.192	-	端口未开放	端口未开放
+tucao.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+tuiguang.baidu.com	115.239.210.223	80,443	Apache-Coyote/1.1	80:正常访问
+tl.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+tupian.baidu.com	180.97.33.134,115.239.210.36	80,443	Apache	80:正常访问
+twww.baidu.com	61.135.185.32	80,443	bfe/1.0.8.18	80:正常访问
+top10.baidu.com	10.65.19.76	-	端口未开放	端口未开放
+torrent.baidu.com	10.50.116.35,10.50.55.55,10.50.36.32,10.50.117.36,10.50.49.55,10.50.50.71,10.42.177.41,10.50.116.39,10.42.182.61,10.50.54.37,10.50.125.73,10.50.49.71,10.42.54.61,10.42.179.41,10.212.151.38	-	端口未开放	端口未开放
+tuijian.baidu.com	106.39.162.113	80,443	Apache	80:正常访问
+ueditor.baidu.com	150.138.249.213,150.138.249.207,150.138.249.204,150.138.249.203,150.138.249.33,150.138.249.212,150.138.249.211,150.138.249.205,150.138.249.209,150.138.249.206	80,443	openresty	80:正常访问
+v123.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+turbo.baidu.com	10.46.122.32	-	端口未开放	端口未开放
+tutu.baidu.com	10.40.44.19	-	端口未开放	端口未开放
+tushu.baidu.com	10.65.211.233,10.26.7.14	-	端口未开放	端口未开放
+vcode.baidu.com	112.34.112.127	80,443	bfe	80:(500) 内部服务器错误
+vedio.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+vidoe.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+vmall.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+up.app.baidu.com	220.181.57.249	80	nginx/1.2.4	80:正常访问
+wanba.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+wangpan.baidu.com	180.149.145.241	80,443	nginx	80:正常访问
+wapp.baidu.com	180.97.34.146	80,443	Apache	80:正常访问
+wangmeng.baidu.com	115.239.210.100,115.239.210.106	80,443	Apache	80:正常访问
+waimai.baidu.com	182.61.22.11,182.61.34.221,182.61.40.94,182.61.26.32	80,443	WFE	80:正常访问
+webchat.baidu.com	180.149.131.103	80,443	webserver	80:正常访问
+utest.baidu.com	10.32.36.202,10.32.25.85	-	端口未开放	端口未开放
+v100.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+wendao.baidu.com	180.149.133.165,180.149.131.245	80,443	Apache	80:正常访问
+wendang.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+vapi.baidu.com	10.212.15.60,10.40.8.60	-	端口未开放	端口未开放
+weishi.baidu.com	180.97.33.112	80,443	Apache	80:正常访问
+wenxue.baidu.com	111.13.108.110	80	nginx	80:(403) 已禁止
+visa.baidu.com	10.207.7.95	-	端口未开放	端口未开放
+wsserver.baidu.com	180.101.212.52,180.97.33.77	80,443	BWS	80:(404) 未找到
+wuliu.baidu.com	182.61.22.11,182.61.26.32,182.61.40.94,182.61.34.221	80,443	WFE	80:正常访问
+www12.baidu.com	115.239.210.26,115.239.210.27	80,443	bfe/1.0.8.18	80:正常访问
+www7.baidu.com	119.75.218.77,119.75.217.56	80,443	bfe/1.0.8.18	80:正常访问
+www6.baidu.com	61.135.169.105,61.135.169.125	80,443	bfe/1.0.8.18	80:正常访问
+webb.baidu.com	10.100.68.46	-	端口未开放	端口未开放
+weike.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+www9.baidu.com	61.135.169.105,61.135.169.125	443	bfe/1.0.8.18	443:正常访问
+www10.baidu.com	220.181.111.148,220.181.112.143	-	端口未开放	端口未开放
+www8.baidu.com	220.181.111.148,220.181.112.143	-	端口未开放	端口未开放
+xian.baidu.com	180.97.33.34	80	Apache	80:正常访问
+xiangce.baidu.com	106.39.162.253	80,443	Apache	80:正常访问
+xiaomi.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+xiaoshuo.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+xiaoyouxi.baidu.com	115.239.217.31	80,443	BWS/1.0	80:正常访问
+xiaoyou.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+xifan.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+xinren.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+xinyu.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+xinyongka.baidu.com	180.97.36.93	80,443	nginx/1.8.0	80:正常访问
+xiyou.baidu.com	180.149.131.245,180.149.133.165	80,443	Apache	80:正常访问
+xiaoxiong.baidu.com	10.46.132.74	-	端口未开放	端口未开放
+xlab.baidu.com	220.181.57.195,111.206.37.249	80	nginx/1.4.4	80:正常访问
+xuanke.baidu.com	106.39.162.128	80,443	Apache	80:正常访问
+xunke.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+xuexi.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+yanzheng.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+yingshi.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+yidong.baidu.com	119.75.221.10	80,443	获取失败	80:-
+youyi.baidu.com	180.97.104.78,180.149.131.109	80,443	Apache	80:正常访问
+yuedu.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+yuzhou.baidu.com	115.239.217.112	80,443	BWS	80:(404) 未找到
+yuyin.baidu.com	115.239.211.171	80,443	Apache	80:正常访问
+yuqing.baidu.com	220.181.163.54,180.149.131.88	80	Apache	80:正常访问
+yanqing.baidu.com	10.65.45.219	-	端口未开放	端口未开放
+zhan.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+zhidemai.baidu.com	220.181.57.55	80	获取失败	80:-
+zhibo.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+zhishiku.baidu.com	180.149.145.167	80,443	nginx/1.9.3	80:正常访问
+zhifu.baidu.com	106.39.162.86	80,443	Apache	80:正常访问
+zhishu.baidu.com	111.202.114.69,106.39.162.93	80,443	Apache	80:正常访问
+zhishi.baidu.com	180.149.133.165,180.149.131.245	80,443	BWS	80:正常访问
+zhizhu.baidu.com	180.149.145.167	80,443	Apache	80:(403) 已禁止
+zhuan.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+yttest.baidu.com	10.36.253.221	-	端口未开放	端口未开放
+yuan.baidu.com	10.81.32.152	-	端口未开放	端口未开放
+yuanfang.baidu.com	10.91.161.202	-	端口未开放	端口未开放
+yumingedu.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+ziyuan.baidu.com	180.97.104.236	80,443	获取失败	80:-
+zhannei.baidu.com	220.181.111.151	80	Apache	80:正常访问
+zongheng.baidu.com	180.76.112.181	80	JSP3/2.0.14	80:正常访问
+zuan.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+zhiban.baidu.com	10.36.5.30,10.207.7.141,10.42.8.71,10.212.15.141	-	端口未开放	端口未开放
+zizhu.baidu.com	10.26.5.35	-	端口未开放	端口未开放
+bx.baidu.com	180.149.145.167	80,443	Apache	80:(403) 已禁止
+cb.baidu.com	180.97.33.96	80,443	nginx	80:正常访问
+bk.baidu.com	180.149.133.167,180.149.131.247,220.181.57.232	80,443	Apache	80:正常访问
+ce.baidu.com	106.39.162.232	80,443	nginx	80:正常访问
+dh.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+dn.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:正常访问
+du.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+dv.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+bp.baidu.com	10.46.129.37	-	端口未开放	端口未开放
+df.baidu.com	10.36.4.130	-	端口未开放	端口未开放
+fb.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+cj.baidu.com	180.97.33.136,115.239.210.174	80,443	Apache	80:正常访问
+fc.baidu.com	220.181.57.236	80,443	Apache	80:(403) 已禁止
+dp.baidu.com	10.99.54.20	-	端口未开放	端口未开放
+fz.baidu.com	61.135.185.20,115.239.210.116,112.34.112.147,111.13.100.135,180.101.212.65,153.37.235.93	80,443	nginx	80:正常访问
+ds.baidu.com	10.211.131.17	-	端口未开放	端口未开放
+gk.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+hb.baidu.com	180.97.33.29	80,443	Apache	80:正常访问
+dw.baidu.com	10.81.3.33	-	端口未开放	端口未开放
+hd.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+dy.baidu.com	10.212.6.239	-	端口未开放	端口未开放
+ek.baidu.com	10.91.161.49	-	端口未开放	端口未开放
+ep.baidu.com	10.65.211.57	-	端口未开放	端口未开放
+iv.baidu.com	180.97.36.21	80,443	Apache	80:正常访问
+jn.baidu.com	180.97.104.235	80,443	Apache	80:正常访问
+hz.baidu.com	115.239.210.48	80	apache	80:正常访问
+ju.baidu.com	115.239.210.91,180.149.144.154,180.149.132.108	80,443	Apache	80:(403) 已禁止
+fe.baidu.com	10.100.46.203	-	端口未开放	端口未开放
+fq.baidu.com	10.83.128.103	-	端口未开放	端口未开放
+kk.baidu.com	119.75.222.131	80,443	nginx	80:正常访问
+gb.baidu.com	10.94.39.59	-	端口未开放	端口未开放
+kl.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+ko.baidu.com	180.97.104.164	80,443	nginx	80:正常访问
+hf.baidu.com	10.99.49.60	-	端口未开放	端口未开放
+lm.baidu.com	180.97.33.151,180.101.212.63	80,443	Apache	80:正常访问
+hx.baidu.com	10.42.6.62,10.46.8.243	-	端口未开放	端口未开放
+mf.baidu.com	180.97.33.157	80,443	bfe	80:(500) 内部服务器错误
+mb.baidu.com	115.239.217.138,115.239.210.225	80,443	Apache	80:正常访问
+qb.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+jl.baidu.com	10.26.96.44	-	端口未开放	端口未开放
+jq.baidu.com	10.42.6.79,10.91.165.11	-	端口未开放	端口未开放
+ka.baidu.com	10.81.211.194,10.42.3.102	-	端口未开放	端口未开放
+kj.baidu.com	10.48.48.31	-	端口未开放	端口未开放
+lj.baidu.com	10.202.6.134	-	端口未开放	端口未开放
+lx.baidu.com	10.212.6.188	-	端口未开放	端口未开放
+qw.baidu.com	115.239.217.161,180.97.36.12	80,443	PS-DSP/1.0	80:正常访问
+rj.baidu.com	180.97.33.121	80,443	Apache	80:正常访问
+pv.baidu.com	10.210.193.19	-	端口未开放	端口未开放
+qc.baidu.com	10.94.80.197	-	端口未开放	端口未开放
+qh.baidu.com	10.46.139.100	-	端口未开放	端口未开放
+su.baidu.com	58.211.137.1	80,443	yunjiasu-nginx	80:正常访问
+qk.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+qm.baidu.com	180.97.104.86	-	端口未开放	端口未开放
+tu.baidu.com	180.97.33.134,115.239.210.36	80,443	Apache	80:正常访问
+ub.baidu.com	111.206.37.102	80,443	kong/0.10.3	80:(404) 未找到
+qr.baidu.com	10.207.7.202	-	端口未开放	端口未开放
+qs.baidu.com	10.105.97.106	-	端口未开放	端口未开放
+vr.baidu.com	115.239.217.137	80,443	nginx/1.4.1	80:正常访问
+vx.baidu.com	115.239.210.38	80,443	Apache	80:正常访问
+qt.baidu.com	10.199.7.14	-	端口未开放	端口未开放
+wk.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+wj.baidu.com	180.97.93.33	80,443	bfe	80:(500) 内部服务器错误
+wm.baidu.com	115.239.210.106,115.239.210.100	80,443	Unknow	80:正常访问
+wo.baidu.com	180.149.144.203	80,443	nginx/1.4.1	80:正常访问
+rt.baidu.com	10.26.3.49,10.36.3.27	-	端口未开放	端口未开放
+sp.baidu.com	10.143.188.18	-	端口未开放	端口未开放
+tb.baidu.com	10.143.152.18	-	端口未开放	端口未开放
+uf.baidu.com	10.65.3.131	-	端口未开放	端口未开放
+xf.baidu.com	115.239.210.77	80	Apache	80:正常访问
+xy.baidu.com	123.125.115.231	80,443	Apache	80:正常访问
+yb.baidu.com	115.239.210.48	80	apache	80:正常访问
+wd.baidu.com	10.57.13.230	-	端口未开放	端口未开放
+yc.baidu.com	180.97.93.28	80,443	Apache	80:正常访问
+yh.baidu.com	220.181.57.47	80,443	Apache-Coyote/1.1	80:(404) 未找到
+wq.baidu.com	10.209.108.14	-	端口未开放	端口未开放
+yi.baidu.com	106.39.162.39	80,443	bfe	80:(500) 内部服务器错误
+wt.baidu.com	10.94.40.19	-	端口未开放	端口未开放
+yd.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+yq.baidu.com	220.181.57.166	80	获取失败	80:-
+yl.baidu.com	202.106.2.50	80,443	Apache	80:正常访问
+yk.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+zf.baidu.com	180.97.36.93	80,443	Apache	80:正常访问
+zn.baidu.com	220.181.7.186	80,443	Apache	80:正常访问
+zr.baidu.com	111.206.37.138,220.181.57.72	80,443	Apache	80:正常访问
+zp.baidu.com	119.75.222.131	80,443	Apache	80:正常访问
+zy.baidu.com	180.97.104.236	80,443	获取失败	80:-
+zc.baidu.com	115.239.211.33	80,443	Apache	80:正常访问
+xh.baidu.com	10.208.7.65	-	端口未开放	端口未开放
+zk.baidu.com	10.92.45.15,10.92.44.48,10.44.169.47,10.81.1.193,10.44.169.39	-	端口未开放	端口未开放
+ada.baidu.com	115.239.217.175,180.149.132.130	80,443	Apache	80:正常访问
+zx.baidu.com	10.42.172.41	-	端口未开放	端口未开放
+afd.baidu.com	180.97.33.138	80,443	Apache	80:正常访问
+adi.baidu.com	10.42.152.62	-	端口未开放	端口未开放
+adn.baidu.com	10.95.112.133	-	端口未开放	端口未开放
+adp.baidu.com	10.48.17.152	-	端口未开放	端口未开放
+adq.baidu.com	10.46.11.156	-	端口未开放	端口未开放
+adv.baidu.com	10.99.57.42	-	端口未开放	端口未开放
+adu.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+aib.baidu.com	180.149.131.162	80,443	Apache-Coyote/1.1	80:正常访问
+aep.baidu.com	10.207.6.186	-	端口未开放	端口未开放
+ala.baidu.com	180.97.34.146	80,443	Apache	80:正常访问
+ahu.baidu.com	10.46.136.60,10.42.177.49,10.44.62.48,10.38.83.31,10.46.126.40,10.81.50.138,10.38.80.51	-	端口未开放	端口未开放
+aic.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+ald.baidu.com	10.94.46.55	-	端口未开放	端口未开放
+amc.baidu.com	10.48.58.47	-	端口未开放	端口未开放
+amd.baidu.com	10.65.3.121	-	端口未开放	端口未开放
+ame.baidu.com	10.26.3.240,10.50.13.87,10.46.7.36,10.42.4.86,10.36.4.130,10.91.160.44	-	端口未开放	端口未开放
+ams.baidu.com	10.65.3.155	-	端口未开放	端口未开放
+ani.baidu.com	180.76.131.120	-	端口未开放	端口未开放
+amp.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+aqb.baidu.com	58.211.137.244	80,443	yunjiasu-nginx	80:正常访问
+aos.baidu.com	10.23.254.79	-	端口未开放	端口未开放
+arp.baidu.com	180.149.144.40	80,443	nginx/1.4.1	80:正常访问
+aop.baidu.com	10.26.3.240,10.26.3.239,10.42.4.86	-	端口未开放	端口未开放
+apf.baidu.com	10.94.49.33	-	端口未开放	端口未开放
+bab.baidu.com	180.97.34.238	80,443	nginx	80:正常访问
+aps.baidu.com	10.46.248.42	-	端口未开放	端口未开放
+ark.baidu.com	10.99.31.41	-	端口未开放	端口未开放
+aso.baidu.com	10.214.33.55	-	端口未开放	端口未开放
+atn.baidu.com	10.58.146.59	-	端口未开放	端口未开放
+atp.baidu.com	10.99.17.14	-	端口未开放	端口未开放
+aue.baidu.com	10.213.159.40	-	端口未开放	端口未开放
+bce.baidu.com	220.181.163.10,111.13.100.1,123.125.114.7,61.135.162.1	80,443	BWS	80:正常访问
+bav.baidu.com	103.235.46.69	80	Apache	80:正常访问
+bdl.baidu.com	180.76.149.102	80	nginx/1.10.2	80:正常访问
+azp.baidu.com	10.94.21.53	-	端口未开放	端口未开放
+bac.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+bai.baidu.com	10.46.11.186	-	端口未开放	端口未开放
+bdp.baidu.com	163.177.151.231,111.13.101.109,115.239.211.53	80,443	Apache	80:正常访问
+bes.baidu.com	220.181.57.166	80	Unknow	80:正常访问
+bat.baidu.com	10.224.122.45	-	端口未开放	端口未开放
+bbl.baidu.com	10.48.47.33	-	端口未开放	端口未开放
+bci.baidu.com	10.95.38.57	-	端口未开放	端口未开放
+bcd.baidu.com	10.26.26.201	-	端口未开放	端口未开放
+bdf.baidu.com	10.40.59.45	-	端口未开放	端口未开放
+bdi.baidu.com	10.57.13.55	-	端口未开放	端口未开放
+bdm.baidu.com	10.208.7.253	-	端口未开放	端口未开放
+bim.baidu.com	150.138.249.213,150.138.249.204,150.138.249.206,150.138.249.209,150.138.249.207,150.138.249.205,150.138.249.33,150.138.249.211,150.138.249.212,150.138.249.203	80,443	openresty	80:正常访问
+bds.baidu.com	10.26.71.36	-	端口未开放	端口未开放
+bec.baidu.com	10.42.96.17	-	端口未开放	端口未开放
+bee.baidu.com	10.111.80.223	-	端口未开放	端口未开放
+bfe.baidu.com	10.36.253.240,10.26.26.245	-	端口未开放	端口未开放
+bfw.baidu.com	10.65.211.210	-	端口未开放	端口未开放
+bgp.baidu.com	10.242.122.20	-	端口未开放	端口未开放
+bgw.baidu.com	10.92.149.21	-	端口未开放	端口未开放
+bng.baidu.com	180.149.133.221,220.181.163.197	80,443	Apache	80:正常访问
+bio.baidu.com	10.36.7.104,10.50.14.199	-	端口未开放	端口未开放
+bip.baidu.com	10.36.48.24	-	端口未开放	端口未开放
+bis.baidu.com	10.240.139.52	-	端口未开放	端口未开放
+bls.baidu.com	10.242.15.9	-	端口未开放	端口未开放
+bmc.baidu.com	10.211.67.54	-	端口未开放	端口未开放
+bmi.baidu.com	10.40.48.21	-	端口未开放	端口未开放
+bml.baidu.com	10.76.129.34	-	端口未开放	端口未开放
+bsi.baidu.com	180.149.132.189	80,443	nginx	80:正常访问
+bns.baidu.com	10.26.7.113,10.36.253.83	-	端口未开放	端口未开放
+bsb.baidu.com	202.106.2.69,115.239.211.87	80,443	nginx/1.11.2	80:正常访问
+bop.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+bos.baidu.com	10.94.16.29,10.94.22.50	-	端口未开放	端口未开放
+bot.baidu.com	10.26.26.32,10.81.51.235	-	端口未开放	端口未开放
+bpc.baidu.com	10.46.8.246	-	端口未开放	端口未开放
+byp.baidu.com	14.215.178.34	80,443	nginx	80:正常访问
+cbg.baidu.com	106.39.162.55	80,443	bfe	80:(500) 内部服务器错误
+byd.baidu.com	180.149.133.177	80,443	apache	80:正常访问
+cas.baidu.com	115.239.210.43	80,443	BWS	80:正常访问
+bpp.baidu.com	10.95.23.32	-	端口未开放	端口未开放
+bps.baidu.com	10.23.246.138	-	端口未开放	端口未开放
+cct.baidu.com	111.202.114.88	80,443	nginx	80:正常访问
+bzs.baidu.com	180.149.132.224	80,443	nginx/1.8.0	80:正常访问
+chf.baidu.com	111.206.223.174	80,443	bfe	80:(500) 内部服务器错误
+cep.baidu.com	180.149.131.210	80,443	nginx	80:正常访问
+cir.baidu.com	106.120.159.209	80,443	-	80:(404) 未找到
+cid.baidu.com	115.239.210.43	80,443	BWS	80:正常访问
+bsa.baidu.com	10.208.7.253	-	端口未开放	端口未开放
+bsc.baidu.com	10.42.7.122	-	端口未开放	端口未开放
+ckv.baidu.com	58.222.53.35	80,443	JSP3/2.0.14	80:正常访问
+bst.baidu.com	10.212.112.51	-	端口未开放	端口未开放
+btd.baidu.com	10.94.51.24	-	端口未开放	端口未开放
+che.baidu.com	183.232.231.89	80	Apache	80:正常访问
+btp.baidu.com	10.46.135.26	-	端口未开放	端口未开放
+bts.baidu.com	10.26.26.78	-	端口未开放	端口未开放
+bvc.baidu.com	10.60.38.19	-	端口未开放	端口未开放
+bws.baidu.com	10.220.140.59	-	端口未开放	端口未开放
+byq.baidu.com	10.58.48.41	-	端口未开放	端口未开放
+csm.baidu.com	180.149.144.203	80,443	获取失败	80:-
+cdc.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+cds.baidu.com	10.226.81.12	-	端口未开放	端口未开放
+cdp.baidu.com	10.40.23.62	-	端口未开放	端口未开放
+cis.baidu.com	172.22.1.22	-	端口未开放	端口未开放
+ckg.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+csr.baidu.com	180.76.178.149	80	Apache	80:正常访问
+cmc.baidu.com	10.36.7.221	-	端口未开放	端口未开放
+cmp.baidu.com	10.242.76.34	-	端口未开放	端口未开放
+dbd.baidu.com	115.239.211.31	80,443	Apache	80:正常访问
+dap.baidu.com	180.149.144.54,111.13.100.58,123.125.115.43	80,443	Web	80:正常访问
+cop.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+dbk.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+cov.baidu.com	10.91.161.53	-	端口未开放	端口未开放
+csp.baidu.com	10.83.128.237	-	端口未开放	端口未开放
+cst.baidu.com	10.23.232.96	-	端口未开放	端口未开放
+ctf.baidu.com	10.94.29.57	-	端口未开放	端口未开放
+ctp.baidu.com	10.16.81.248	-	端口未开放	端口未开放
+cvc.baidu.com	10.91.161.117	-	端口未开放	端口未开放
+cvn.baidu.com	10.42.7.201	-	端口未开放	端口未开放
+dmp.baidu.com	111.202.114.88	80,443	nginx	80:正常访问
+cys.baidu.com	10.58.107.17	-	端口未开放	端口未开放
+dac.baidu.com	10.92.149.24	-	端口未开放	端口未开放
+dam.baidu.com	10.40.8.63	-	端口未开放	端口未开放
+das.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+dbi.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+dcs.baidu.com	10.52.102.56	-	端口未开放	端口未开放
+ddm.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+deb.baidu.com	10.32.10.94	-	端口未开放	端口未开放
+dun.baidu.com	14.215.178.96	80,443	openresty/1.11.2.2	80:正常访问
+dfp.baidu.com	10.92.86.43	-	端口未开放	端口未开放
+dfw.baidu.com	10.76.16.11	-	端口未开放	端口未开放
+dhc.baidu.com	10.48.37.36	-	端口未开放	端口未开放
+dwz.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+dxb.baidu.com	111.206.37.102	80,443	-	80:(403) 已禁止
+dxp.baidu.com	106.39.162.87	80,443	-	80:(404) 未找到
+dzl.baidu.com	180.149.144.203	80,443	Apache	80:正常访问
+dis.baidu.com	10.46.11.155	-	端口未开放	端口未开放
+diy.baidu.com	10.103.95.34	-	端口未开放	端口未开放
+dmt.baidu.com	10.91.160.209	-	端口未开放	端口未开放
+edm.baidu.com	180.97.36.41	80,443	Web	80:正常访问
+dna.baidu.com	10.213.121.18	-	端口未开放	端口未开放
+efe.baidu.com	220.181.7.203	80,443	nginx	80:正常访问
+eiv.baidu.com	115.239.211.92	80,443	BWS/1.0	80:正常访问
+dqm.baidu.com	10.99.36.61	-	端口未开放	端口未开放
+dss.baidu.com	10.65.211.95	-	端口未开放	端口未开放
+dtv.baidu.com	10.91.160.44,10.46.7.36,10.26.3.240,10.42.4.86,10.36.4.130,10.50.13.87	-	端口未开放	端口未开放
+dvc.baidu.com	10.212.15.65	-	端口未开放	端口未开放
+eas.baidu.com	10.207.7.92	-	端口未开放	端口未开放
+ecs.baidu.com	10.42.4.86,10.91.160.44,10.46.7.36,10.50.13.87,10.26.3.240,10.36.4.130	-	端口未开放	端口未开放
+edg.baidu.com	10.83.128.43	-	端口未开放	端口未开放
+edp.baidu.com	10.58.97.53	-	端口未开放	端口未开放
+efc.baidu.com	10.99.57.42	-	端口未开放	端口未开放
+eff.baidu.com	10.99.53.43	-	端口未开放	端口未开放
+elk.baidu.com	10.42.3.212	-	端口未开放	端口未开放
+emc.baidu.com	10.100.78.51	-	端口未开放	端口未开放
+emq.baidu.com	10.95.107.97	-	端口未开放	端口未开放
+emr.baidu.com	10.220.140.59	-	端口未开放	端口未开放
+emp.baidu.com	10.81.211.188	-	端口未开放	端口未开放
+ems.baidu.com	10.38.75.31	-	端口未开放	端口未开放
+evc.baidu.com	119.75.222.131	80,443	Apache	80:(404) 未找到
+eqc.baidu.com	10.99.53.20	-	端口未开放	端口未开放
+etf.baidu.com	106.39.162.54	80,443	Apache	80:正常访问
+eux.baidu.com	185.199.110.153,185.199.108.153,185.199.109.153,185.199.111.153	80,443	GitHub.com	80:正常访问
+ews.baidu.com	111.202.115.84	80,443	-	80:(400) 错误的请求
+ext.baidu.com	180.97.104.214	80,443	BWS	80:(404) 未找到
+esb.baidu.com	10.36.7.56,10.26.7.218	-	端口未开放	端口未开放
+esp.baidu.com	10.65.21.177	-	端口未开放	端口未开放
+ess.baidu.com	10.208.7.217,10.42.8.121,10.212.15.90	-	端口未开放	端口未开放
+fav.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+etl.baidu.com	10.26.7.11,10.36.7.14	-	端口未开放	端口未开放
+etp.baidu.com	10.38.109.33	-	端口未开放	端口未开放
+fcs.baidu.com	106.39.162.254	80,443	web	80:正常访问
+fep.baidu.com	115.239.217.135	80,443	nginx/1.8.0	80:正常访问
+fad.baidu.com	10.42.3.129	-	端口未开放	端口未开放
+fae.baidu.com	10.99.45.21	-	端口未开放	端口未开放
+fex.baidu.com	150.138.249.203,150.138.249.33,150.138.249.213,150.138.249.205,150.138.249.206,150.138.249.207,150.138.249.204,150.138.249.212,150.138.249.209,150.138.249.211	80	openresty	80:正常访问
+fff.baidu.com	180.97.104.14	443	获取失败	443:-
+fbi.baidu.com	10.194.186.20	-	端口未开放	端口未开放
+fis.baidu.com	150.138.249.213,150.138.249.212,150.138.249.33,150.138.249.204,150.138.249.211,150.138.249.209,150.138.249.203,150.138.249.207,150.138.249.206,150.138.249.205	80,443	openresty	80:正常访问
+flp.baidu.com	115.239.210.109	80,443	BWS	80:(500) 内部服务器错误
+fet.baidu.com	10.81.12.102	-	端口未开放	端口未开放
+fin.baidu.com	10.48.31.126	-	端口未开放	端口未开放
+fts.baidu.com	10.36.253.94	-	端口未开放	端口未开放
+gfh.baidu.com	115.239.217.179	80,443	Apache	80:正常访问
+gbm.baidu.com	10.208.86.25	-	端口未开放	端口未开放
+gbs.baidu.com	10.26.209.25	-	端口未开放	端口未开放
+gem.baidu.com	10.36.7.54	-	端口未开放	端口未开放
+gse.baidu.com	180.97.33.57	80,443	Apache	80:(403) 已禁止
+ghp.baidu.com	10.240.73.47	-	端口未开放	端口未开放
+glb.baidu.com	10.208.251.21	-	端口未开放	端口未开放
+gmv.baidu.com	10.46.7.209	-	端口未开放	端口未开放
+gpu.baidu.com	10.92.101.18	-	端口未开放	端口未开放
+gpt.baidu.com	10.42.6.57	-	端口未开放	端口未开放
+hdj.baidu.com	180.149.131.148	80,443	nginx/1.4.1	80:(404) 未找到
+hcl.baidu.com	115.239.217.167	80,443	BWS/1.0	80:正常访问
+gtc.baidu.com	10.36.4.79,10.81.211.115	-	端口未开放	端口未开放
+gue.baidu.com	10.242.15.28	-	端口未开放	端口未开放
+hpd.baidu.com	180.101.212.33	80,443	nginx/1.8.0	80:正常访问
+hqc.baidu.com	220.181.57.55	80	Apache/2.2.24 (Unix) PHP/5.2.17	80:正常访问
+hto.baidu.com	123.125.114.187,180.149.132.31	80,443	Apache	80:正常访问
+hui.baidu.com	220.181.57.55	80	获取失败	80:-
+hao.baidu.com	10.42.161.60	-	端口未开放	端口未开放
+hbd.baidu.com	10.85.37.30	-	端口未开放	端口未开放
+hci.baidu.com	10.100.78.52	-	端口未开放	端口未开放
+hdk.baidu.com	10.202.53.34	-	端口未开放	端口未开放
+hdp.baidu.com	10.57.13.185,10.65.3.101	-	端口未开放	端口未开放
+hgs.baidu.com	10.48.56.233	-	端口未开放	端口未开放
+idl.baidu.com	115.239.217.205	80,443	nginx/1.10.2	80:正常访问
+hms.baidu.com	10.26.3.49,10.36.3.27	-	端口未开放	端口未开放
+idu.baidu.com	180.76.163.215	80	nginx/1.12.2	80:正常访问
+htc.baidu.com	10.94.63.55	-	端口未开放	端口未开放
+hue.baidu.com	10.83.128.52	-	端口未开放	端口未开放
+ika.baidu.com	220.181.163.87	80,443	Apache-Coyote/1.1	80:正常访问
+hwj.baidu.com	10.226.67.11	-	端口未开放	端口未开放
+ife.baidu.com	106.12.157.189	80	BWS/1.0	80:正常访问
+iam.baidu.com	10.44.55.50	-	端口未开放	端口未开放
+iap.baidu.com	10.48.48.62	-	端口未开放	端口未开放
+ime.baidu.com	106.39.162.71	80,443	Apache	80:正常访问
+ibi.baidu.com	10.36.7.229	-	端口未开放	端口未开放
+ibs.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+ici.baidu.com	10.48.33.83	-	端口未开放	端口未开放
+idb.baidu.com	10.50.107.60	-	端口未开放	端口未开放
+idm.baidu.com	10.207.7.147	-	端口未开放	端口未开放
+iov.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+ido.baidu.com	10.94.62.53	-	端口未开放	端口未开放
+iot.baidu.com	180.76.150.173	80,443	BWS	80:正常访问
+idw.baidu.com	10.91.161.51	-	端口未开放	端口未开放
+idp.baidu.com	10.50.14.102,10.36.4.249	-	端口未开放	端口未开放
+ifr.baidu.com	10.38.31.57	-	端口未开放	端口未开放
+ifx.baidu.com	10.48.18.141	-	端口未开放	端口未开放
+igo.baidu.com	10.26.3.88	-	端口未开放	端口未开放
+ivr.baidu.com	180.97.93.58	80,443	nginx/1.4.1	80:正常访问
+iwm.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+iim.baidu.com	10.36.253.158	-	端口未开放	端口未开放
+iit.baidu.com	172.22.1.78	-	端口未开放	端口未开放
+ikg.baidu.com	10.99.33.21	-	端口未开放	端口未开放
+iks.baidu.com	10.57.124.20	-	端口未开放	端口未开放
+imc.baidu.com	10.211.6.27	-	端口未开放	端口未开放
+jia.baidu.com	180.97.33.181,180.97.33.183	80,443	Apache	80:(404) 未找到
+imp.baidu.com	10.32.16.20	-	端口未开放	端口未开放
+jin.baidu.com	180.97.36.44,106.39.162.91	80,443	nginx/1.8.0	80:正常访问
+ims.baidu.com	10.42.186.12	-	端口未开放	端口未开放
+ins.baidu.com	10.73.184.26	-	端口未开放	端口未开放
+iop.baidu.com	10.81.211.179	-	端口未开放	端口未开放
+ipl.baidu.com	10.242.15.236	-	端口未开放	端口未开放
+itc.baidu.com	10.242.15.73	-	端口未开放	端口未开放
+itp.baidu.com	10.100.65.52	-	端口未开放	端口未开放
+jvr.baidu.com	180.149.145.248	80,443	bfe	80:(500) 内部服务器错误
+iuc.baidu.com	10.42.106.20	-	端口未开放	端口未开放
+iws.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+jcm.baidu.com	10.42.7.109	-	端口未开放	端口未开放
+joc.baidu.com	10.26.25.186	-	端口未开放	端口未开放
+kge.baidu.com	10.214.56.61	-	端口未开放	端口未开放
+kgi.baidu.com	10.36.253.193	-	端口未开放	端口未开放
+kgp.baidu.com	10.16.81.251	-	端口未开放	端口未开放
+kgs.baidu.com	10.57.79.71	-	端口未开放	端口未开放
+kmp.baidu.com	10.50.90.34	-	端口未开放	端口未开放
+kpm.baidu.com	10.42.154.32	-	端口未开放	端口未开放
+ksn.baidu.com	10.81.40.205	-	端口未开放	端口未开放
+ksp.baidu.com	10.91.161.184	-	端口未开放	端口未开放
+kst.baidu.com	10.100.47.127	-	端口未开放	端口未开放
+llx.baidu.com	58.211.137.1	80,443	yunjiasu-nginx	80:(404) 未找到
+lmc.baidu.com	180.149.132.31,123.125.114.187	80,443	Apache-Coyote/1.1	80:正常访问
+lmp.baidu.com	180.97.33.24,111.206.37.67	80,443	bfe	80:(500) 内部服务器错误
+lbs.baidu.com	10.36.7.221,10.81.211.74	-	端口未开放	端口未开放
+lcs.baidu.com	10.91.160.44,10.26.3.240,10.42.4.86,10.208.6.173,10.36.4.130	-	端口未开放	端口未开放
+ldm.baidu.com	10.42.131.16	-	端口未开放	端口未开放
+lxb.baidu.com	111.206.37.218	80,443	Apache-Coyote/1.1	80:正常访问
+lmo.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+mbd.baidu.com	180.97.104.214	80,443	apache	80:正常访问
+mck.baidu.com	119.75.222.131	80,443	nginx	80:正常访问
+mcn.baidu.com	180.97.36.22	80,443	Apache	80:正常访问
+lts.baidu.com	10.94.52.39	-	端口未开放	端口未开放
+mel.baidu.com	180.149.131.220,14.215.177.127	80,443	nginx/1.12.0	80:(405) 不允许的方法
+mie.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+mbt.baidu.com	10.94.49.39	-	端口未开放	端口未开放
+mcc.baidu.com	10.46.21.56	-	端口未开放	端口未开放
+mdb.baidu.com	10.36.253.83,10.26.7.113	-	端口未开放	端口未开放
+mdc.baidu.com	10.58.115.15	-	端口未开放	端口未开放
+mdp.baidu.com	10.94.36.12	-	端口未开放	端口未开放
+moa.baidu.com	183.232.232.54,202.106.2.51,115.239.211.31	80,443	ITE	80:正常访问
+mop.baidu.com	220.181.57.190	80,443	-	80:(503) 服务器不可用
+mdv.baidu.com	10.48.195.48	-	端口未开放	端口未开放
+mse.baidu.com	115.239.211.137	80,443	lighttpd	80:(404) 未找到
+msc.baidu.com	106.39.162.42	80,443	Apache	80:(405) 不允许的方法
+mpc.baidu.com	220.181.7.181	80,443	nginx/1.10.3	80:正常访问
+msp.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:(400) 错误的请求
+mep.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+mtn.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:正常访问
+mtc.baidu.com	220.181.7.181	80,443	Apache	80:正常访问
+mff.baidu.com	10.91.161.165	-	端口未开放	端口未开放
+mfs.baidu.com	10.44.86.20	-	端口未开放	端口未开放
+mgc.baidu.com	10.23.240.111	-	端口未开放	端口未开放
+mtj.baidu.com	106.39.162.44	80,443	nginx/1.12.1	80:正常访问
+myh.baidu.com	123.125.114.187,180.149.132.31	80,443	bfe	80:(500) 内部服务器错误
+mip.baidu.com	10.100.81.51	-	端口未开放	端口未开放
+mux.baidu.com	180.76.179.76	80	nginx/1.12.2	80:正常访问
+nba.baidu.com	180.97.34.146	80,443	Apache	80:正常访问
+mzp.baidu.com	119.75.222.131	80,443	Apache	80:正常访问
+mkt.baidu.com	10.36.4.130,10.26.3.240,10.46.7.36,10.50.13.87,10.42.4.86,10.91.160.44	-	端口未开放	端口未开放
+mlp.baidu.com	10.26.109.43	-	端口未开放	端口未开放
+mod.baidu.com	10.94.69.36	-	端口未开放	端口未开放
+moc.baidu.com	10.65.211.164	-	端口未开放	端口未开放
+mot.baidu.com	10.48.50.39	-	端口未开放	端口未开放
+mon.baidu.com	10.65.211.16	-	端口未开放	端口未开放
+mpp.baidu.com	10.50.77.39,10.48.77.35	-	端口未开放	端口未开放
+mqb.baidu.com	10.26.26.116	-	端口未开放	端口未开放
+mrc.baidu.com	10.87.126.42	-	端口未开放	端口未开放
+msa.baidu.com	10.26.7.88	-	端口未开放	端口未开放
+mst.baidu.com	10.94.173.50	-	端口未开放	端口未开放
+mus.baidu.com	10.81.211.198	-	端口未开放	端口未开放
+mvp.baidu.com	10.94.51.42	-	端口未开放	端口未开放
+myu.baidu.com	10.48.248.27	-	端口未开放	端口未开放
+nop.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+nup.baidu.com	180.149.132.232,220.181.112.197	80,443	Apache	80:正常访问
+ndm.baidu.com	10.36.253.188	-	端口未开放	端口未开放
+nfa.baidu.com	10.81.14.227	-	端口未开放	端口未开放
+nfe.baidu.com	10.199.171.51	-	端口未开放	端口未开放
+oak.baidu.com	119.75.222.180	80,443	Apache	80:(502) 错误的网关
+nfs.baidu.com	10.215.79.55	-	端口未开放	端口未开放
+nlp.baidu.com	10.208.91.54,112.80.255.119	-	端口未开放	端口未开放
+nlu.baidu.com	10.42.51.31	-	端口未开放	端口未开放
+nmq.baidu.com	10.36.77.15	-	端口未开放	端口未开放
+npm.baidu.com	10.100.75.26	-	端口未开放	端口未开放
+oms.baidu.com	106.39.162.228	80,443	nginx	80:正常访问
+nsi.baidu.com	10.32.19.76	-	端口未开放	端口未开放
+ota.baidu.com	112.34.111.172,112.80.248.250,180.97.104.211	80,443	Apache	80:正常访问
+oap.baidu.com	10.42.4.151	-	端口未开放	端口未开放
+ocp.baidu.com	10.26.7.80,10.36.7.68	-	端口未开放	端口未开放
+ocs.baidu.com	10.57.13.112	-	端口未开放	端口未开放
+odp.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+ott.baidu.com	202.106.2.49,106.39.162.249,112.34.111.244	80,443	nginx/1.12.0	80:正常访问
+oem.baidu.com	10.94.21.21	-	端口未开放	端口未开放
+oep.baidu.com	10.42.4.236	-	端口未开放	端口未开放
+otv.baidu.com	112.34.111.244,202.106.2.49,106.39.162.249	80,443	bfe	80:(500) 内部服务器错误
+ofc.baidu.com	10.91.160.83	-	端口未开放	端口未开放
+oip.baidu.com	10.36.7.68,10.26.7.80	-	端口未开放	端口未开放
+odw.baidu.com	10.50.14.199,10.36.7.104	-	端口未开放	端口未开放
+omc.baidu.com	10.91.160.63,10.57.7.143	-	端口未开放	端口未开放
+omp.baidu.com	10.42.4.86,10.50.13.87,10.91.160.44,10.26.3.240,10.46.7.36,10.36.4.130	-	端口未开放	端口未开放
+oom.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+opa.baidu.com	10.26.3.240,10.50.13.87,10.42.4.86,10.91.160.44,10.46.7.36,10.36.4.130	-	端口未开放	端口未开放
+pgc.baidu.com	180.97.33.91,115.239.210.232	80,443	nginx/1.8.0	80:(404) 未找到
+org.baidu.com	10.42.4.12	-	端口未开放	端口未开放
+orp.baidu.com	10.26.7.80,10.36.7.68	-	端口未开放	端口未开放
+ors.baidu.com	10.46.123.32	-	端口未开放	端口未开放
+osp.baidu.com	10.42.3.243	-	端口未开放	端口未开放
+pim.baidu.com	115.239.217.178	80,443	apache	80:正常访问
+otj.baidu.com	10.95.24.44	-	端口未开放	端口未开放
+otp.baidu.com	10.91.160.44,10.36.4.130,10.36.4.131	-	端口未开放	端口未开放
+oto.baidu.com	10.65.211.165	-	端口未开放	端口未开放
+ots.baidu.com	10.94.53.35	-	端口未开放	端口未开放
+owl.baidu.com	10.94.43.18	-	端口未开放	端口未开放
+oxp.baidu.com	10.207.6.78	-	端口未开放	端口未开放
+pdb.baidu.com	10.44.65.24	-	端口未开放	端口未开放
+pdw.baidu.com	10.48.57.144	-	端口未开放	端口未开放
+pna.baidu.com	220.181.57.55	80	Web	80:(404) 未找到
+pfm.baidu.com	10.48.32.70	-	端口未开放	端口未开放
+pfs.baidu.com	10.226.70.21	-	端口未开放	端口未开放
+pos.baidu.com	180.97.33.96	80,443	nginx	80:正常访问
+pha.baidu.com	10.81.47.217	-	端口未开放	端口未开放
+pie.baidu.com	10.50.13.201	-	端口未开放	端口未开放
+psa.baidu.com	115.239.210.34,220.181.57.146	80	ECOM Apache 1.0.13.0	80:正常访问
+pmc.baidu.com	10.100.27.52	-	端口未开放	端口未开放
+pmd.baidu.com	10.100.81.51	-	端口未开放	端口未开放
+poi.baidu.com	10.202.6.213	-	端口未开放	端口未开放
+pwa.baidu.com	220.181.163.46	80,443	nginx	80:正常访问
+prm.baidu.com	10.44.64.34	-	端口未开放	端口未开放
+psd.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+pvm.baidu.com	10.42.31.41	-	端口未开放	端口未开放
+qca.baidu.com	10.202.21.38	-	端口未开放	端口未开放
+qec.baidu.com	10.94.215.115	-	端口未开放	端口未开放
+qfe.baidu.com	10.48.20.146	-	端口未开放	端口未开放
+qip.baidu.com	10.26.7.33,10.36.7.31	-	端口未开放	端口未开放
+qll.baidu.com	10.26.7.33,10.36.7.31	-	端口未开放	端口未开放
+qlp.baidu.com	10.48.41.39	-	端口未开放	端口未开放
+qos.baidu.com	10.242.15.69	-	端口未开放	端口未开放
+qyy.baidu.com	180.149.131.88,220.181.163.54	80	Apache	80:(404) 未找到
+qtz.baidu.com	10.215.74.52	-	端口未开放	端口未开放
+ren.baidu.com	115.239.211.92	80,443	BWS/1.0	80:正常访问
+rcc.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+rdf.baidu.com	10.81.3.33	-	端口未开放	端口未开放
+rdp.baidu.com	10.46.11.19	-	端口未开放	端口未开放
+rds.baidu.com	10.26.88.12	-	端口未开放	端口未开放
+rec.baidu.com	10.42.7.169,10.26.3.75	-	端口未开放	端口未开放
+roo.baidu.com	112.80.248.251,180.97.104.211,112.34.111.172	80,443	Apache	80:正常访问
+rig.baidu.com	10.48.45.43	-	端口未开放	端口未开放
+rim.baidu.com	10.99.84.37	-	端口未开放	端口未开放
+rqs.baidu.com	180.97.33.57	80,443	Apache	80:(404) 未找到
+rtk.baidu.com	220.181.57.152,111.13.100.90,61.135.185.52	80,443	-	80:(403) 已禁止
+rsa.baidu.com	183.232.232.54,202.106.2.51,115.239.211.31	80,443	ITE	80:(404) 未找到
+rmq.baidu.com	10.36.4.83	-	端口未开放	端口未开放
+rms.baidu.com	10.57.13.63,10.65.211.49	-	端口未开放	端口未开放
+sao.baidu.com	106.39.162.221	80,443	nginx/1.12.0	80:正常访问
+sbq.baidu.com	115.239.217.137	80,443	nginx/1.4.1	80:(502) 错误的网关
+sfc.baidu.com	180.97.93.38	80,443	Apache	80:(404) 未找到
+scq.baidu.com	220.181.57.55	80	Apache/2.2.24 (Unix) PHP/5.2.17	80:正常访问
+sem.baidu.com	58.211.137.1	80,443	yunjiasu-nginx	80:正常访问
+sdp.baidu.com	106.120.159.226	80,443	nginx	80:正常访问
+sjh.baidu.com	14.215.178.34	80,443	nginx	80:正常访问
+rpm.baidu.com	10.26.3.114	-	端口未开放	端口未开放
+rps.baidu.com	10.42.186.12	-	端口未开放	端口未开放
+slp.baidu.com	180.97.33.34,180.97.33.41,115.239.210.77	80	Apache	80:正常访问
+rtg.baidu.com	10.90.67.22	-	端口未开放	端口未开放
+sip.baidu.com	220.181.50.172	443	RTC/6.0	443:(404) 未找到
+spk.baidu.com	115.239.217.115	80,443	nginx/1.8.0	80:正常访问
+sak.baidu.com	10.210.54.44	-	端口未开放	端口未开放
+srf.baidu.com	106.39.162.49	80,443	Apache	80:正常访问
+ssp.baidu.com	180.149.131.210	80,443	nginx	80:正常访问
+scm.baidu.com	10.42.8.234	-	端口未开放	端口未开放
+scp.baidu.com	10.99.86.52	-	端口未开放	端口未开放
+sdn.baidu.com	10.42.208.11	-	端口未开放	端口未开放
+stt.baidu.com	115.239.217.115	80,443	nginx/1.8.0	80:正常访问
+stu.baidu.com	115.239.210.36,180.97.33.134	80,443	Apache	80:正常访问
+sep.baidu.com	10.48.46.43	-	端口未开放	端口未开放
+sdc.baidu.com	10.48.21.83	-	端口未开放	端口未开放
+sfe.baidu.com	10.100.81.51	-	端口未开放	端口未开放
+stv.baidu.com	115.239.210.48	80	apache	80:正常访问
+sux.baidu.com	180.76.179.76	80	nginx/1.12.2	80:正常访问
+sla.baidu.com	10.40.44.43	-	端口未开放	端口未开放
+smp.baidu.com	10.99.72.23	-	端口未开放	端口未开放
+sng.baidu.com	10.94.221.20	-	端口未开放	端口未开放
+tag.baidu.com	14.215.177.87	80,443	nginx	80:正常访问
+soc.baidu.com	10.215.7.49	-	端口未开放	端口未开放
+tbm.baidu.com	180.97.34.232	80,443	Apache	80:正常访问
+sop.baidu.com	10.57.8.26,10.42.4.219	-	端口未开放	端口未开放
+spm.baidu.com	10.50.192.25,10.36.253.241	-	端口未开放	端口未开放
+sra.baidu.com	10.46.138.52	-	端口未开放	端口未开放
+sre.baidu.com	10.36.7.22	-	端口未开放	端口未开放
+srp.baidu.com	10.36.253.204	-	端口未开放	端口未开放
+sss.baidu.com	10.141.80.96	-	端口未开放	端口未开放
+stb.baidu.com	10.99.32.56	-	端口未开放	端口未开放
+sts.baidu.com	10.94.49.38	-	端口未开放	端口未开放
+svx.baidu.com	10.50.13.163	-	端口未开放	端口未开放
+tpp.baidu.com	106.39.162.193	80,443	nginx/1.9.7	80:(403) 已禁止
+tsn.baidu.com	115.239.217.204	80,443	nginx/1.8.0	80:正常访问
+tar.baidu.com	10.48.50.39	-	端口未开放	端口未开放
+tas.baidu.com	10.16.81.145	-	端口未开放	端口未开放
+tts.baidu.com	115.239.211.61	80,443	nginx/1.8.0	80:正常访问
+tco.baidu.com	10.141.80.111	-	端口未开放	端口未开放
+tcp.baidu.com	10.48.49.43	-	端口未开放	端口未开放
+tdm.baidu.com	10.26.26.115	-	端口未开放	端口未开放
+uaq.baidu.com	111.13.105.180,106.39.162.246,202.106.2.47,111.13.105.184,106.39.162.243	80,443	BWS	80:正常访问
+tgm.baidu.com	10.212.7.92	-	端口未开放	端口未开放
+udc.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+uds.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+ued.baidu.com	180.76.179.76	80	nginx/1.12.2	80:正常访问
+ueo.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+ufo.baidu.com	180.149.131.175,123.125.115.182	80,443	Apache	80:正常访问
+tob.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+trs.baidu.com	10.48.30.222	-	端口未开放	端口未开放
+tsp.baidu.com	10.81.11.241	-	端口未开放	端口未开放
+uas.baidu.com	10.52.36.58,10.36.68.24	-	端口未开放	端口未开放
+uap.baidu.com	10.26.5.162	-	端口未开放	端口未开放
+ubi.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+ubf.baidu.com	10.48.49.61	-	端口未开放	端口未开放
+ubl.baidu.com	10.242.15.67	-	端口未开放	端口未开放
+ubm.baidu.com	10.89.131.48	-	端口未开放	端口未开放
+ubs.baidu.com	10.99.27.31	-	端口未开放	端口未开放
+ucg.baidu.com	10.65.211.117	-	端口未开放	端口未开放
+ucp.baidu.com	10.85.39.29	-	端口未开放	端口未开放
+uda.baidu.com	10.81.40.203	-	端口未开放	端口未开放
+udi.baidu.com	10.83.128.206,10.65.3.146	-	端口未开放	端口未开放
+udp.baidu.com	10.46.8.76	-	端口未开放	端口未开放
+udw.baidu.com	10.211.6.46	-	端口未开放	端口未开放
+uep.baidu.com	10.242.116.21	-	端口未开放	端口未开放
+uer.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+uim.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+uxc.baidu.com	180.76.179.76	80	nginx/1.12.2	80:正常访问
+ukb.baidu.com	10.212.91.54	-	端口未开放	端口未开放
+vap.baidu.com	115.239.217.135	80,443	BWS	80:正常访问
+vei.baidu.com	182.61.62.50	80,443	BWS/1.0	80:正常访问
+upa.baidu.com	10.210.37.54	-	端口未开放	端口未开放
+upd.baidu.com	10.95.106.144	-	端口未开放	端口未开放
+vde.baidu.com	115.239.210.226	80,443	Apache	80:正常访问
+upt.baidu.com	10.99.31.14	-	端口未开放	端口未开放
+url.baidu.com	10.99.57.42	-	端口未开放	端口未开放
+usi.baidu.com	10.128.145.20	-	端口未开放	端口未开放
+utp.baidu.com	10.95.30.17	-	端口未开放	端口未开放
+uui.baidu.com	10.23.241.236	-	端口未开放	端口未开放
+uus.baidu.com	10.99.60.61	-	端口未开放	端口未开放
+vis.baidu.com	220.181.7.203	80,443	nginx	80:正常访问
+viz.baidu.com	220.181.7.203	80,443		80:正常访问
+vod.baidu.com	220.181.163.144	80	Apache	80:正常访问
+vop.baidu.com	115.239.217.183	80,443	nginx/1.8.0	80:(404) 未找到
+vdp.baidu.com	10.42.6.181,10.57.13.28	-	端口未开放	端口未开放
+vcs.baidu.com	61.135.165.170	-	端口未开放	端口未开放
+vse.baidu.com	115.239.217.115	80,443	nginx/1.8.0	80:正常访问
+vsp.baidu.com	180.97.34.238	80,443	nginx	80:正常访问
+wbk.baidu.com	180.149.132.207,220.181.57.232	80,443	Apache	80:正常访问
+vqc.baidu.com	10.202.7.122,10.194.6.70	-	端口未开放	端口未开放
+wkm.baidu.com	180.101.212.35	80,443	Apache	80:(404) 未找到
+wms.baidu.com	182.61.34.221,182.61.22.11,182.61.40.94,182.61.26.32	80,443	WFE	80:正常访问
+wbi.baidu.com	10.65.3.157	-	端口未开放	端口未开放
+wdm.baidu.com	10.57.13.230	-	端口未开放	端口未开放
+wmp.baidu.com	10.36.5.159	-	端口未开放	端口未开放
+wow.baidu.com	10.42.3.141	-	端口未开放	端口未开放
+wsa.baidu.com	10.40.69.119	-	端口未开放	端口未开放
+wsj.baidu.com	10.26.25.253	-	端口未开放	端口未开放
+wtd.baidu.com	10.94.40.19	-	端口未开放	端口未开放
+wtt.baidu.com	10.94.40.19	-	端口未开放	端口未开放
+xdc.baidu.com	180.149.131.33	80	nginx/1.4.1	80:(403) 已禁止
+xdn.baidu.com	58.211.137.1	80,443	yunjiasu-nginx	80:(409) 冲突
+xfy.baidu.com	106.120.159.232	80,443	Apache	80:正常访问
+xda.baidu.com	182.61.51.148,180.76.137.203	80	nginx/1.8.0	80:正常访问
+xin.baidu.com	180.97.104.30,180.97.33.124	80,443	nginx	80:正常访问
+xiu.baidu.com	180.97.33.25	80,443	nginx	80:正常访问
+xdb.baidu.com	10.58.159.36,10.92.116.26	-	端口未开放	端口未开放
+xmf.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+xue.baidu.com	119.75.222.131	80,443	获取失败	80:-
+xyx.baidu.com	115.239.217.31	80,443	BWS/1.0	80:正常访问
+xzh.baidu.com	115.239.217.67,115.239.217.68	80,443	Apache	80:正常访问
+xpi.baidu.com	180.97.33.113,153.37.235.52	-	端口未开放	端口未开放
+yss.baidu.com	180.97.104.158,111.206.37.226,111.13.101.168,180.149.145.204,14.215.177.188,112.80.248.183,117.185.17.49	80,443	nginx	80:正常访问
+yqh.baidu.com	180.149.133.177	80,443	apache	80:正常访问
+xts.baidu.com	10.94.52.39	-	端口未开放	端口未开放
+zan.baidu.com	202.106.2.53	80,443	Apache-Coyote/1.1	80:正常访问
+zdm.baidu.com	220.181.57.55	80	获取失败	80:-
+yim.baidu.com	10.26.3.223	-	端口未开放	端口未开放
+yum.baidu.com	10.26.153.41	-	端口未开放	端口未开放
+zjs.baidu.com	180.76.164.236	80	BLB/	80:正常访问
+01.web.baidu.com	10.48.30.87	-	端口未开放	端口未开放
+863.baidu.com	10.67.29.55	-	端口未开放	端口未开放
+911.baidu.com	10.92.154.58	-	端口未开放	端口未开放
+d4m.baidu.com	220.181.57.55	80	-	80:(404) 未找到
+ci3.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+g17.baidu.com	115.239.210.212	80	apache	80:正常访问
+g16.baidu.com	115.239.210.212	80	apache	80:正常访问
+g18.baidu.com	115.239.210.212	80	apache	80:正常访问
+g19.baidu.com	115.239.210.212	80	apache	80:正常访问
+g20.baidu.com	115.239.210.212	80	apache	80:正常访问
+gt1.baidu.com	115.239.210.124	443	bfe/1.0.8.18	443:正常访问
+gt2.baidu.com	115.239.210.127	443	bfe/1.0.8.18	443:正常访问
+i12.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+i11.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+i10.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+ie0.baidu.com	10.10.252.0	-	端口未开放	端口未开放
+m12.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m11.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+m13.baidu.com	115.239.217.68,115.239.217.67	80,443	apache	80:正常访问
+m10.baidu.com	115.239.217.67,115.239.217.68	80,443	apache	80:正常访问
+mt1.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt4.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt8.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt5.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt3.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt6.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt9.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt7.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mx9.baidu.com	220.181.5.195	-	端口未开放	端口未开放
+sp2.baidu.com	180.97.33.107,180.97.33.108	80,443	bfe/1.0.8.18	80:正常访问
+sp0.baidu.com	180.97.33.108,180.97.33.107	80,443	bfe/1.0.8.18	80:正常访问
+ss7.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+ss9.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+ss8.baidu.com	58.216.55.48	80,443	JSP3/2.0.14	80:(403) 已禁止
+rs2.baidu.com	10.11.63.32	-	端口未开放	端口未开放
+rs4.baidu.com	10.11.250.92	-	端口未开放	端口未开放
+rs0.baidu.com	10.11.63.30	-	端口未开放	端口未开放
+ss1.baidu.com	121.227.7.33	443	获取失败	443:-
+ss2.baidu.com	121.227.7.33	443	获取失败	443:-
+ss3.baidu.com	121.227.7.33	443	获取失败	443:-
+ss0.baidu.com	121.227.7.33	443	获取失败	443:-
+xy3.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+2048.baidu.com	10.42.147.23	-	端口未开放	端口未开放
+acct.baidu.com	10.141.80.143	-	端口未开放	端口未开放
+acmc.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+adrd.baidu.com	111.206.37.105	80,443	Apache	80:正常访问
+adoc.baidu.com	10.94.81.168	-	端口未开放	端口未开放
+aevc.baidu.com	119.75.222.131	80,443	nginx	80:正常访问
+adrc.baidu.com	10.46.8.11,10.42.3.130	-	端口未开放	端口未开放
+adtp.baidu.com	10.94.18.44	-	端口未开放	端口未开放
+aida.baidu.com	180.149.144.155	80,443	bfe	80:(500) 内部服务器错误
+aiid.baidu.com	180.76.179.76	80	nginx/1.12.2	80:正常访问
+airp.baidu.com	180.149.145.248	80,443	Apache-Coyote/1.1	80:(404) 未找到
+amis.baidu.com	10.26.3.240,10.26.3.239,10.42.4.86	-	端口未开放	端口未开放
+anti.baidu.com	10.46.95.57	-	端口未开放	端口未开放
+appc.baidu.com	115.239.217.112	80,443	BWS	80:正常访问
+appw.baidu.com	115.239.217.112	80,443	apache	80:正常访问
+apbi.baidu.com	10.207.7.15	-	端口未开放	端口未开放
+ares.baidu.com	10.208.7.183	-	端口未开放	端口未开放
+asec.baidu.com	180.149.131.223	80,443	Apache	80:正常访问
+asea.baidu.com	10.42.132.62,10.26.21.23	-	端口未开放	端口未开放
+basa.baidu.com	10.81.8.180	-	端口未开放	端口未开放
+bask.baidu.com	10.26.7.113,10.36.253.83	-	端口未开放	端口未开放
+bcss.baidu.com	183.232.232.58,115.239.211.32,153.37.235.60	80,443	获取失败	80:-
+bbzd.baidu.com	180.149.133.165,180.149.131.245	80,443	Apache	80:正常访问
+bdns.baidu.com	180.97.104.163,115.239.217.176	80,443	nginx/1.4.4	80:(404) 未找到
+bcms.baidu.com	123.125.115.97,180.149.131.21	-	端口未开放	端口未开放
+bdvc.baidu.com	111.202.115.88	80	Apache	80:(500) 内部服务器错误
+bdav.baidu.com	10.207.7.95	-	端口未开放	端口未开放
+besq.baidu.com	180.149.132.112	80,443	Apache-Coyote/1.1	80:(403) 已禁止
+bdmt.baidu.com	10.206.7.30	-	端口未开放	端口未开放
+bdmp.baidu.com	10.36.7.101	-	端口未开放	端口未开放
+bdop.baidu.com	10.36.253.72	-	端口未开放	端口未开放
+bdrp.baidu.com	10.202.6.87	-	端口未开放	端口未开放
+bgpa.baidu.com	182.61.128.11	80,443	bfe/1.0.8.18	80:(302) 重定向
+bgpb.baidu.com	182.61.128.12	80,443	bfe/1.0.8.18	80:(302) 重定向
+bicc.baidu.com	180.101.212.17,180.101.212.18	80,443		80:正常访问
+bios.baidu.com	10.207.6.47	-	端口未开放	端口未开放
+biss.baidu.com	10.73.191.24	-	端口未开放	端口未开放
+bkrz.baidu.com	220.181.57.55	80	-	80:(404) 未找到
+bkso.baidu.com	180.149.131.247,220.181.57.232,180.149.133.167	80,443	Apache	80:正常访问
+bk16.baidu.com	10.11.133.10	-	端口未开放	端口未开放
+bk18.baidu.com	10.11.133.11	-	端口未开放	端口未开放
+bk20.baidu.com	10.11.133.12	-	端口未开放	端口未开放
+bk21.baidu.com	10.11.133.13	-	端口未开放	端口未开放
+bk01.baidu.com	192.168.5.18	-	端口未开放	端口未开放
+bmdc.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+bnms.baidu.com	123.125.112.44,220.181.57.13,119.75.219.90	-	端口未开放	端口未开放
+boas.baidu.com	10.207.6.78	-	端口未开放	端口未开放
+boba.baidu.com	10.91.160.66	-	端口未开放	端口未开放
+bocs.baidu.com	10.57.13.112	-	端口未开放	端口未开放
+bops.baidu.com	10.36.253.72	-	端口未开放	端口未开放
+bpkg.baidu.com	10.46.173.29	-	端口未开放	端口未开放
+bpps.baidu.com	10.48.48.20	-	端口未开放	端口未开放
+bsrc.baidu.com	202.106.2.63	80,443	Apache	80:正常访问
+bstd.baidu.com	10.81.211.74	-	端口未开放	端口未开放
+carp.baidu.com	14.215.177.160	80,443	nginx	80:正常访问
+cbbs.baidu.com	202.106.2.53	80,443	Apache-Coyote/1.1	80:正常访问
+cbjs.baidu.com	121.227.7.49	80,443	JSP3/2.0.14	80:正常访问
+cacs.baidu.com	10.151.111.35,10.128.230.51	-	端口未开放	端口未开放
+caas.baidu.com	10.57.105.19	-	端口未开放	端口未开放
+ccdb.baidu.com	10.215.117.11	-	端口未开放	端口未开放
+cevc.baidu.com	123.125.112.107	80	nginx	80:(404) 未找到
+chip.baidu.com	10.50.13.148	-	端口未开放	端口未开放
+cjie.baidu.com	115.239.210.67	80,443	bfe	80:正常访问
+cibc.baidu.com	10.99.68.22	-	端口未开放	端口未开放
+ckzt.baidu.com	119.75.222.131	80,443	nginx	80:(500) 内部服务器错误
+ckqa.baidu.com	10.94.22.34	-	端口未开放	端口未开放
+cmpt.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+cona.baidu.com	180.97.36.41	80,443	nginx/1.8.0	80:(404) 未找到
+cprd.baidu.com	10.46.95.58	-	端口未开放	端口未开放
+crab.baidu.com	106.39.162.43	80,443	Apache	80:正常访问
+daka.baidu.com	10.38.45.55	-	端口未开放	端口未开放
+daqi.baidu.com	10.94.24.19	-	端口未开放	端口未开放
+dbrd.baidu.com	10.46.84.23	-	端口未开放	端口未开放
+dcom.baidu.com	10.94.33.15	-	端口未开放	端口未开放
+dedc.baidu.com	180.97.104.181	80,443	Apache	80:(404) 未找到
+dev2.baidu.com	180.149.144.61	80,443	nginx/1.6.2	80:正常访问
+dlsw.baidu.com	180.97.34.250	-	端口未开放	端口未开放
+drfn.baidu.com	10.202.6.149,10.202.6.147	-	端口未开放	端口未开放
+drpa.baidu.com	10.57.7.143,10.91.160.63	-	端口未开放	端口未开放
+drpt.baidu.com	10.57.7.143,10.91.160.63	-	端口未开放	端口未开放
+drps.baidu.com	10.91.160.63,10.57.7.143	-	端口未开放	端口未开放
+duad.baidu.com	180.97.33.177,115.239.211.176	80,443	nginx	80:正常访问
+duer.baidu.com	115.239.217.94	80,443	nginx/1.4.4	80:正常访问
+dtop.baidu.com	10.23.240.246	-	端口未开放	端口未开放
+dumi.baidu.com	115.239.217.94	80,443	nginx/1.4.4	80:正常访问
+duxj.baidu.com	180.149.133.177	80,443	apache	80:正常访问
+dutu.baidu.com	10.48.31.125	-	端口未开放	端口未开放
+dwww.baidu.com	112.34.112.41	80,443	bfe/1.0.8.18	80:正常访问
+dx03.baidu.com	10.9.252.43	-	端口未开放	端口未开放
+dx02.baidu.com	10.9.252.42	-	端口未开放	端口未开放
+dydc.baidu.com	10.46.123.55	-	端口未开放	端口未开放
+ecmx.baidu.com	180.149.142.214,220.181.172.34	80,443	BceBos	80:(403) 已禁止
+ec11.baidu.com	10.11.6.20	-	端口未开放	端口未开放
+ec12.baidu.com	10.11.6.21	-	端口未开放	端口未开放
+ec13.baidu.com	10.11.6.22	-	端口未开放	端口未开放
+ec06.baidu.com	10.11.252.191	-	端口未开放	端口未开放
+ec01.baidu.com	10.11.252.204	-	端口未开放	端口未开放
+ec03.baidu.com	10.11.252.89	-	端口未开放	端口未开放
+ec05.baidu.com	10.11.252.189	-	端口未开放	端口未开放
+eden.baidu.com	10.38.33.60	-	端口未开放	端口未开放
+elbc.baidu.com	180.97.33.128	80,443	Apache	80:正常访问
+enan.baidu.com	182.61.62.64,119.75.222.225,182.61.240.16	80,443	Apache	80:正常访问
+ents.baidu.com	106.39.162.232	80,443	nginx/1.6.0	80:正常访问
+emsg.baidu.com	10.40.8.14	-	端口未开放	端口未开放
+eopa.baidu.com	115.239.211.55	80,443	Apache	80:正常访问
+eops.baidu.com	115.239.211.55,202.106.2.65,111.13.101.178	80,443	Apache	80:正常访问
+epan.baidu.com	220.181.7.175	80,443	nginx	80:正常访问
+eros.baidu.com	180.76.143.229	80	Apache	80:正常访问
+erwa.baidu.com	10.46.134.151	-	端口未开放	端口未开放
+erya.baidu.com	10.42.3.206	-	端口未开放	端口未开放
+falv.baidu.com	111.206.37.194,220.181.163.8	80,443	Apache	80:正常访问
+fats.baidu.com	10.48.154.51	-	端口未开放	端口未开放
+faxe.baidu.com	10.99.62.34	-	端口未开放	端口未开放
+fccp.baidu.com	220.181.57.166	80	-	80:(404) 未找到
+fbqa.baidu.com	10.99.31.22	-	端口未开放	端口未开放
+fcrm.baidu.com	106.120.159.230	80,443	Apache	80:正常访问
+fbva.baidu.com	10.94.36.24	-	端口未开放	端口未开放
+fbuq.baidu.com	10.95.115.61	-	端口未开放	端口未开放
+fcsp.baidu.com	106.120.159.246	80,443	web	80:正常访问
+fcop.baidu.com	10.58.161.57	-	端口未开放	端口未开放
+fcts.baidu.com	10.95.112.203	-	端口未开放	端口未开放
+fczb.baidu.com	10.26.127.40	-	端口未开放	端口未开放
+fina.baidu.com	10.48.52.13	-	端口未开放	端口未开放
+fmis.baidu.com	180.149.133.177	80,443	Apache	80:正常访问
+fsds.baidu.com	180.97.104.162	80,443	IoTx	80:(404) 未找到
+gaea.baidu.com	10.65.34.123	-	端口未开放	端口未开放
+gaia.baidu.com	10.86.36.51	-	端口未开放	端口未开放
+gccp.baidu.com	180.149.132.109	80,443	Web	80:正常访问
+gdsp.baidu.com	103.235.47.71	80	nginx	80:(404) 未找到
+gems.baidu.com	10.42.5.46,10.81.211.126,10.36.4.65	-	端口未开放	端口未开放
+gene.baidu.com	10.208.62.14	-	端口未开放	端口未开放
+gips.baidu.com	10.90.79.45	-	端口未开放	端口未开放
+glab.baidu.com	10.91.160.57	-	端口未开放	端口未开放
+glog.baidu.com	10.46.136.15	-	端口未开放	端口未开放
+gmll.baidu.com	10.242.15.21	-	端口未开放	端口未开放
+gpom.baidu.com	10.94.40.51	-	端口未开放	端口未开放
+gsp3.baidu.com	180.97.93.48	80,443	Apache	80:正常访问
+gsp0.baidu.com	180.97.93.48	80,443	Apache	80:正常访问
+gsp1.baidu.com	180.97.93.48	80,443	Apache	80:正常访问
+gsp2.baidu.com	180.97.93.48	80,443	Apache	80:正常访问
+gss0.baidu.com	58.215.118.31	80,443	JSP3/2.0.14	80:(403) 已禁止
+gss1.baidu.com	58.215.118.31	80,443	JSP3/2.0.14	80:(403) 已禁止
+gss2.baidu.com	58.215.118.31	80,443	JSP3/2.0.14	80:(403) 已禁止
+gss3.baidu.com	58.215.118.31	80,443	JSP3/2.0.14	80:(403) 已禁止
+habo.baidu.com	10.36.3.245	-	端口未开放	端口未开放
+hcie.baidu.com	10.94.51.36	-	端口未开放	端口未开放
+hetu.baidu.com	10.91.161.75	-	端口未开放	端口未开放
+hhvm.baidu.com	10.213.194.21	-	端口未开放	端口未开放
+hjzy.baidu.com	182.61.62.50	80,443	Apache	80:正常访问
+hina.baidu.com	10.105.97.32	-	端口未开放	端口未开放
+hiqa.baidu.com	10.91.160.140	-	端口未开放	端口未开放
+hkmx.baidu.com	180.76.1.189	-	端口未开放	端口未开放
+hmma.baidu.com	220.181.163.3	80,443	lighttpd	80:(500) 内部服务器错误
+hwww.baidu.com	115.239.210.28	80,443	bfe/1.0.8.18	80:正常访问
+hzzk.baidu.com	10.212.15.156	-	端口未开放	端口未开放
+iaas.baidu.com	10.42.8.185	-	端口未开放	端口未开放
+iadc.baidu.com	10.95.130.123	-	端口未开放	端口未开放
+iapm.baidu.com	10.95.112.126	-	端口未开放	端口未开放
+ibae.baidu.com	10.26.7.36,10.36.7.34	-	端口未开放	端口未开放
+ibac.baidu.com	10.94.80.144	-	端口未开放	端口未开放
+icop.baidu.com	115.239.217.162	80,443	nginx/1.8.0	80:正常访问
+icrm.baidu.com	220.181.163.48,180.149.132.215	80,443	Apache-Coyote/1.1	80:正常访问
+icsx.baidu.com	115.239.210.29,180.97.93.47	80,443		80:正常访问
+ibox.baidu.com	10.32.253.239	-	端口未开放	端口未开放
+ibot.baidu.com	10.141.80.19	-	端口未开放	端口未开放
+ibpm.baidu.com	10.36.4.103,10.50.15.250	-	端口未开放	端口未开放
+idev.baidu.com	10.46.11.150	-	端口未开放	端口未开放
+idmp.baidu.com	10.32.11.229	-	端口未开放	端口未开放
+idoc.baidu.com	10.36.3.50	-	端口未开放	端口未开放
+idna.baidu.com	10.13.252.188	-	端口未开放	端口未开放
+idss.baidu.com	10.57.21.32	-	端口未开放	端口未开放
+idux.baidu.com	10.100.47.145	-	端口未开放	端口未开放
+ieva.baidu.com	10.48.17.152	-	端口未开放	端口未开放
+ikan.baidu.com	220.181.163.144	80	Apache	80:正常访问
+ijob.baidu.com	10.48.30.110	-	端口未开放	端口未开放
+imms.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+ilog.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+imdp.baidu.com	10.42.6.34	-	端口未开放	端口未开放
+imdc.baidu.com	10.46.211.55	-	端口未开放	端口未开放
+imdm.baidu.com	10.42.4.219,10.57.8.26	-	端口未开放	端口未开放
+imis.baidu.com	10.23.249.116	-	端口未开放	端口未开放
+imop.baidu.com	10.58.161.57	-	端口未开放	端口未开放
+impl.baidu.com	10.94.66.51	-	端口未开放	端口未开放
+imsr.baidu.com	10.46.11.143	-	端口未开放	端口未开放
+ippt.baidu.com	115.239.210.188	80,443	nginx/1.4.4	80:正常访问
+irim.baidu.com	10.65.211.149	-	端口未开放	端口未开放
+isem.baidu.com	10.48.30.82	-	端口未开放	端口未开放
+iubi.baidu.com	58.217.200.49,112.80.248.36,36.152.44.61	80,443		80:正常访问
+istp.baidu.com	10.46.212.31	-	端口未开放	端口未开放
+isis.baidu.com	10.215.7.119	-	端口未开放	端口未开放
+itgc.baidu.com	10.23.245.19	-	端口未开放	端口未开放
+iufo.baidu.com	10.91.160.44,10.36.4.130,10.50.13.87,10.46.7.36,10.42.4.86,10.26.3.240	-	端口未开放	端口未开放
+jeep.baidu.com	10.92.33.29	-	端口未开放	端口未开放
+jimu.baidu.com	111.206.37.22	80,443	Apache	80:正常访问
+jing.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:正常访问
+jpad.baidu.com	106.39.162.222	80,443	-	80:(403) 已禁止
+jrws.baidu.com	180.97.33.139	80,443		80:正常访问
+juhe.baidu.com	180.97.36.41	80,443	nginx/1.8.0	80:(404) 未找到
+jubo.baidu.com	10.91.160.66	-	端口未开放	端口未开放
+kapr.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+kepu.baidu.com	10.99.199.82	-	端口未开放	端口未开放
+kgdc.baidu.com	10.48.41.54	-	端口未开放	端口未开放
+kgva.baidu.com	10.94.26.55	-	端口未开放	端口未开放
+kgqc.baidu.com	10.206.7.234	-	端口未开放	端口未开放
+kity.baidu.com	119.75.222.180	80,443	Apache	80:(502) 错误的网关
+kstj.baidu.com	180.97.104.146	80,443	Apache	80:正常访问
+ksop.baidu.com	10.52.38.12	-	端口未开放	端口未开放
+ksqa.baidu.com	10.95.34.20	-	端口未开放	端口未开放
+lark.baidu.com	180.149.133.177	80,443	Apache	80:正常访问
+lime.baidu.com	115.239.210.229	-	端口未开放	端口未开放
+lion.baidu.com	10.242.112.16	-	端口未开放	端口未开放
+lwww.baidu.com	14.215.177.40	80,443	bfe/1.0.8.18	80:正常访问
+madv.baidu.com	180.149.131.176,220.181.111.127	80,443	Apache	80:(404) 未找到
+mapv.baidu.com	180.97.33.90	80,443	apache	80:正常访问
+mada.baidu.com	10.46.176.178	-	端口未开放	端口未开放
+magi.baidu.com	10.216.122.41	-	端口未开放	端口未开放
+manb.baidu.com	10.36.7.221,10.81.211.74	-	端口未开放	端口未开放
+mapx.baidu.com	10.195.6.184	-	端口未开放	端口未开放
+mbub.baidu.com	10.46.190.37	-	端口未开放	端口未开放
+mcdt.baidu.com	10.50.99.11	-	端口未开放	端口未开放
+mbjs.baidu.com	103.235.46.145	80,443	获取失败	80:-
+mevc.baidu.com	119.75.222.131	80,443	nginx	80:正常访问
+mcrm.baidu.com	10.42.4.86,10.36.4.130,10.50.13.87,10.26.3.240,10.91.160.44	-	端口未开放	端口未开放
+mdns.baidu.com	10.57.156.61	-	端口未开放	端口未开放
+ment.baidu.com	10.26.3.225	-	端口未开放	端口未开放
+meva.baidu.com	10.99.89.58	-	端口未开放	端口未开放
+mfix.baidu.com	10.99.18.15	-	端口未开放	端口未开放
+mime.baidu.com	180.97.93.43,180.97.36.13,115.239.217.131	80,443	Apache	80:正常访问
+miji.baidu.com	180.101.212.35	80,443	Apache	80:正常访问
+miop.baidu.com	10.65.211.95	-	端口未开放	端口未开放
+mico.baidu.com	10.107.128.33	-	端口未开放	端口未开放
+miee.baidu.com	10.50.14.165,10.26.5.60	-	端口未开放	端口未开放
+mjqa.baidu.com	10.242.112.16	-	端口未开放	端口未开放
+mmqa.baidu.com	10.242.89.36	-	端口未开放	端口未开放
+motu.baidu.com	180.97.36.20	80,443	Apache	80:正常访问
+mota.baidu.com	220.181.57.55	80	Apache/2.2.24 (Unix) PHP/5.3.8	80:正常访问
+moat.baidu.com	10.99.17.62	-	端口未开放	端口未开放
+mt15.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt12.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt17.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt14.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt19.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt16.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt18.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt20.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt13.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mt10.baidu.com	106.39.162.239,180.149.131.170	80,443	获取失败	80:-
+mt11.baidu.com	180.149.131.170,106.39.162.239	80,443	获取失败	80:-
+mssp.baidu.com	180.149.131.210	80,443	nginx	80:正常访问
+msdk.baidu.com	10.36.4.130,10.42.4.86,10.91.160.44,10.50.13.87,10.26.3.240,10.46.7.36	-	端口未开放	端口未开放
+mtap.baidu.com	10.36.7.221,10.81.211.74	-	端口未开放	端口未开放
+mute.baidu.com	183.232.232.60,111.13.100.190,202.106.2.61,180.97.104.60,220.181.57.61,112.80.255.153	80,443		80:正常访问
+mvip.baidu.com	220.181.57.110	80,443	nginx	80:正常访问
+mx15.baidu.com	220.181.50.182	-	端口未开放	端口未开放
+mx20.baidu.com	111.202.115.85	80	获取失败	80:-
+mx18.baidu.com	61.135.165.102	-	端口未开放	端口未开放
+mx14.baidu.com	220.181.50.181	-	端口未开放	端口未开放
+mx17.baidu.com	61.135.165.115	-	端口未开放	端口未开放
+mx10.baidu.com	111.202.115.75	-	端口未开放	端口未开放
+mx12.baidu.com	220.181.3.75	-	端口未开放	端口未开放
+mx11.baidu.com	111.202.115.74	-	端口未开放	端口未开放
+mx13.baidu.com	220.181.3.74	-	端口未开放	端口未开放
+mx56.baidu.com	61.135.168.56	-	端口未开放	端口未开放
+mx51.baidu.com	61.135.168.51	-	端口未开放	端口未开放
+mx53.baidu.com	61.135.168.53	-	端口未开放	端口未开放
+mx54.baidu.com	61.135.168.54	-	端口未开放	端口未开放
+mx55.baidu.com	61.135.168.55	-	端口未开放	端口未开放
+mx52.baidu.com	61.135.168.52	-	端口未开放	端口未开放
+mx57.baidu.com	61.135.168.57	-	端口未开放	端口未开放
+mx77.baidu.com	115.239.212.147	-	端口未开放	端口未开放
+mx75.baidu.com	115.239.212.211	-	端口未开放	端口未开放
+mx85.baidu.com	58.217.202.28	-	端口未开放	端口未开放
+mx74.baidu.com	115.239.212.210	-	端口未开放	端口未开放
+mx70.baidu.com	115.239.212.83	-	端口未开放	端口未开放
+mx61.baidu.com	115.239.212.18	-	端口未开放	端口未开放
+mx89.baidu.com	58.217.202.32	-	端口未开放	端口未开放
+mx83.baidu.com	58.217.202.26	-	端口未开放	端口未开放
+mx60.baidu.com	61.135.168.60	-	端口未开放	端口未开放
+mx73.baidu.com	115.239.212.209	-	端口未开放	端口未开放
+mx66.baidu.com	115.239.212.79	-	端口未开放	端口未开放
+mx68.baidu.com	115.239.212.81	-	端口未开放	端口未开放
+mx72.baidu.com	115.239.212.208	-	端口未开放	端口未开放
+mx82.baidu.com	58.217.202.25	-	端口未开放	端口未开放
+mx65.baidu.com	115.239.212.22	-	端口未开放	端口未开放
+mx88.baidu.com	58.217.202.31	-	端口未开放	端口未开放
+mx78.baidu.com	115.239.212.148	-	端口未开放	端口未开放
+mx76.baidu.com	115.239.212.146	-	端口未开放	端口未开放
+mx59.baidu.com	61.135.168.59	-	端口未开放	端口未开放
+mx79.baidu.com	115.239.212.149	-	端口未开放	端口未开放
+mx69.baidu.com	115.239.212.82	-	端口未开放	端口未开放
+mx64.baidu.com	115.239.212.21	-	端口未开放	端口未开放
+mx63.baidu.com	115.239.212.20	-	端口未开放	端口未开放
+mx71.baidu.com	115.239.212.207	-	端口未开放	端口未开放
+mx84.baidu.com	58.217.202.27	-	端口未开放	端口未开放
+mx87.baidu.com	58.217.202.30	-	端口未开放	端口未开放
+mx86.baidu.com	58.217.202.29	-	端口未开放	端口未开放
+mx80.baidu.com	115.239.212.150	-	端口未开放	端口未开放
+mx94.baidu.com	58.217.202.155	-	端口未开放	端口未开放
+mx91.baidu.com	58.217.202.152	-	端口未开放	端口未开放
+mx96.baidu.com	58.217.202.157	-	端口未开放	端口未开放
+mx98.baidu.com	58.217.202.159	-	端口未开放	端口未开放
+mx97.baidu.com	58.217.202.158	-	端口未开放	端口未开放
+mx95.baidu.com	58.217.202.156	-	端口未开放	端口未开放
+mx90.baidu.com	58.217.202.33	-	端口未开放	端口未开放
+mx93.baidu.com	58.217.202.154	-	端口未开放	端口未开放
+mx99.baidu.com	58.217.202.160	-	端口未开放	端口未开放
+mx92.baidu.com	58.217.202.153	-	端口未开放	端口未开放
+mx50.baidu.com	180.76.13.18	80	获取失败	80:-
+nani.baidu.com	180.97.34.146	80,443	Apache	80:尝试自动重定向的次数太多
+naop.baidu.com	10.42.4.86,10.26.3.240,10.26.3.239	-	端口未开放	端口未开放
+nats.baidu.com	10.212.7.219,10.212.7.220	-	端口未开放	端口未开放
+ndsp.baidu.com	106.39.162.96	80,443	nginx	80:(404) 未找到
+nlbc.baidu.com	180.97.33.128	80,443	Apache	80:正常访问
+nmci.baidu.com	10.48.54.23	-	端口未开放	端口未开放
+nmpc.baidu.com	10.94.53.38,10.94.54.51	-	端口未开放	端口未开放
+nmss.baidu.com	10.95.42.59	-	端口未开放	端口未开放
+nova.baidu.com	10.26.26.89	-	端口未开放	端口未开放
+noya.baidu.com	10.99.89.23	-	端口未开放	端口未开放
+nsci.baidu.com	10.215.7.45	-	端口未开放	端口未开放
+nssp.baidu.com	10.42.4.86,10.26.3.239,10.26.3.240	-	端口未开放	端口未开放
+nsqa.baidu.com	10.94.52.44	-	端口未开放	端口未开放
+nwww.baidu.com	180.97.33.68	80,443	bfe/1.0.8.18	80:正常访问
+oasp.baidu.com	115.239.211.31,183.232.232.54,202.106.2.51	80,443		80:正常访问
+oaas.baidu.com	10.65.45.98	-	端口未开放	端口未开放
+oaip.baidu.com	172.22.5.34	-	端口未开放	端口未开放
+ocpc.baidu.com	115.239.217.135	80,443	nginx/1.9.4	80:正常访问
+ocap.baidu.com	10.50.13.108	-	端口未开放	端口未开放
+oloc.baidu.com	180.149.132.219	80,443		80:正常访问
+olap.baidu.com	10.40.32.33	-	端口未开放	端口未开放
+omp2.baidu.com	10.91.160.44,10.46.7.36,10.50.13.87,10.42.4.86,10.36.4.130,10.26.3.240	-	端口未开放	端口未开放
+opcm.baidu.com	10.40.32.30	-	端口未开放	端口未开放
+opdp.baidu.com	10.23.245.49	-	端口未开放	端口未开放
+oped.baidu.com	10.65.211.16	-	端口未开放	端口未开放
+opqa.baidu.com	10.36.7.221,10.81.211.74	-	端口未开放	端口未开放
+orpc.baidu.com	180.97.36.19	80,443	nginx	80:正常访问
+orcp.baidu.com	10.91.160.190	-	端口未开放	端口未开放
+ossp.baidu.com	10.42.4.236	-	端口未开放	端口未开放
+pady.baidu.com	123.125.115.84	80,443	-	80:(400) 错误的请求
+palo.baidu.com	10.23.248.82	-	端口未开放	端口未开放
+paas.baidu.com	10.50.15.34	-	端口未开放	端口未开放
+pcdn.baidu.com	180.97.34.202	80,443	Apache	80:正常访问
+pcor.baidu.com	180.97.93.36,180.97.34.63	80,443	nginx/1.8.0	80:(403) 已禁止
+pimc.baidu.com	180.97.34.161,115.239.217.158,180.101.212.46	-	端口未开放	端口未开放
+pimu.baidu.com	180.101.212.59	-	端口未开放	端口未开放
+prev.baidu.com	180.97.104.216	80,443	bfe	80:(500) 内部服务器错误
+pspo.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+psrc.baidu.com	180.149.144.25	80,443	Apache	80:(502) 错误的网关
+pred.baidu.com	10.94.16.29	-	端口未开放	端口未开放
+prim.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+prom.baidu.com	10.73.192.28	-	端口未开放	端口未开放
+prod.baidu.com	10.65.25.83	-	端口未开放	端口未开放
+psce.baidu.com	10.99.124.53	-	端口未开放	端口未开放
+psdy.baidu.com	10.86.78.25	-	端口未开放	端口未开放
+psqs.baidu.com	10.95.112.120	-	端口未开放	端口未开放
+pssh.baidu.com	10.26.7.113,10.36.253.83	-	端口未开放	端口未开放
+pups.baidu.com	180.97.104.218,180.97.36.39	80,443	Apache	80:正常访问
+ptec.baidu.com	10.48.50.120	-	端口未开放	端口未开放
+pycm.baidu.com	10.50.65.18	-	端口未开放	端口未开放
+qapm.baidu.com	14.215.177.83,180.97.104.17,117.185.16.228,180.149.131.200,112.80.255.172,183.232.231.63,103.235.46.42,111.206.37.149,163.177.151.235	80,443	Apache	80:(403) 已禁止
+qapi.baidu.com	10.91.160.157	-	端口未开放	端口未开放
+qatc.baidu.com	10.26.137.29	-	端口未开放	端口未开放
+qdev.baidu.com	10.94.53.16	-	端口未开放	端口未开放
+qmbd.baidu.com	180.97.104.86	-	端口未开放	端口未开放
+qmel.baidu.com	14.215.177.235,180.149.132.69	-	端口未开放	端口未开放
+quku.baidu.com	10.81.187.24	-	端口未开放	端口未开放
+qwrz.baidu.com	14.215.177.87	80,443	Apache	80:正常访问
+qvse.baidu.com	115.239.210.87	-	端口未开放	端口未开放
+qylc.baidu.com	10.126.81.90	-	端口未开放	端口未开放
+rasp.baidu.com	220.181.57.191	80,443	openresty/1.11.2.2	80:正常访问
+rcpt.baidu.com	10.207.6.242,10.50.13.252	-	端口未开放	端口未开放
+rdms.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+rebo.baidu.com	10.91.160.66	-	端口未开放	端口未开放
+retu.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+rgsw.baidu.com	180.97.219.68,49.79.232.152	80,443	获取失败	80:-
+rmtc.baidu.com	10.99.218.166	-	端口未开放	端口未开放
+rota.baidu.com	10.36.4.129	-	端口未开放	端口未开放
+rpc2.baidu.com	10.81.187.130	-	端口未开放	端口未开放
+rpc1.baidu.com	10.81.187.130	-	端口未开放	端口未开放
+rpmp.baidu.com	10.207.78.26	-	端口未开放	端口未开放
+rpop.baidu.com	10.42.3.42	-	端口未开放	端口未开放
+rpqa.baidu.com	10.46.7.193	-	端口未开放	端口未开放
+ruhe.baidu.com	10.42.4.63	-	端口未开放	端口未开放
+sala.baidu.com	14.215.177.221	80,443	Apache	80:正常访问
+sadu.baidu.com	103.235.46.69	80	Apache	80:正常访问
+scec.baidu.com	180.97.33.203	80,443	-	80:(404) 未找到
+sdsp.baidu.com	180.97.33.174	80,443	nginx	80:(404) 未找到
+secr.baidu.com	180.97.36.17	80,443	Apache	80:正常访问
+sfci.baidu.com	10.50.105.32	-	端口未开放	端口未开放
+shol.baidu.com	180.97.33.107,180.97.33.108	80,443	bfe/1.0.8.18	80:(302) 重定向
+simp.baidu.com	10.119.157.15	-	端口未开放	端口未开放
+sms8.baidu.com	172.18.0.143	-	端口未开放	端口未开放
+sms9.baidu.com	172.18.0.144	-	端口未开放	端口未开放
+sms5.baidu.com	172.18.0.140	-	端口未开放	端口未开放
+sms6.baidu.com	172.18.0.141	-	端口未开放	端口未开放
+sms3.baidu.com	172.18.0.101	-	端口未开放	端口未开放
+sms4.baidu.com	172.18.0.46	-	端口未开放	端口未开放
+sms7.baidu.com	172.18.0.142	-	端口未开放	端口未开放
+sofa.baidu.com	10.119.157.15	-	端口未开放	端口未开放
+soid.baidu.com	10.50.82.58	-	端口未开放	端口未开放
+ssim.baidu.com	61.135.185.51	80,443	bfe	80:(500) 内部服务器错误
+stbd.baidu.com	112.34.111.35	80,443	bfe	80:(500) 内部服务器错误
+suez.baidu.com	106.39.162.41	80,443	nginx	80:正常访问
+surl.baidu.com	180.97.33.111,123.125.115.132	80,443		80:正常访问
+stqa.baidu.com	10.95.112.234	-	端口未开放	端口未开放
+swww.baidu.com	111.13.100.91,111.13.100.92	80,443	bfe/1.0.8.18	80:正常访问
+tbox.baidu.com	220.181.57.240	80,443	nginx	80:(404) 未找到
+tbwm.baidu.com	180.97.36.19	80,443	nginx	80:正常访问
+taas.baidu.com	10.94.51.22	-	端口未开放	端口未开放
+tbfe.baidu.com	10.91.161.105	-	端口未开放	端口未开放
+tcmp.baidu.com	10.99.71.64	-	端口未开放	端口未开放
+topo.baidu.com	220.181.57.90	80,443	Apache	80:正常访问
+toos.baidu.com	10.65.3.87	-	端口未开放	端口未开放
+tupu.baidu.com	180.97.33.57	80,443	Apache	80:正常访问
+tupv.baidu.com	119.75.222.131	80,443	bfe	80:(500) 内部服务器错误
+uaop.baidu.com	10.91.161.235	-	端口未开放	端口未开放
+unwx.baidu.com	111.13.100.221,123.125.115.133,180.149.132.228	80,443	nginx/1.12.0	80:正常访问
+usmx.baidu.com	10.239.246.3	-	端口未开放	端口未开放
+usp1.baidu.com	103.235.47.13	443	获取失败	443:-
+vcrm.baidu.com	220.181.57.166	80	Apache-Coyote/1.1	80:正常访问
+vcse.baidu.com	61.135.165.170	-	端口未开放	端口未开放
+viva.baidu.com	10.207.7.203	-	端口未开放	端口未开放
+voc2.baidu.com	111.206.37.230	80,443	Apache-Coyote/1.1	80:正常访问
+vrad.baidu.com	180.76.152.76	80,443	nginx/1.10.3 (Ubuntu)	80:正常访问
+vsce.baidu.com	10.36.88.251	-	端口未开放	端口未开放
+vsop.baidu.com	10.26.5.186	-	端口未开放	端口未开放
+watt.baidu.com	10.42.6.247	-	端口未开放	端口未开放
+wedo.baidu.com	220.181.57.55	80	Apache-Coyote/1.1	80:正常访问
+wkai.baidu.com	180.97.66.49	80,443	JSP3/2.0.14	80:(403) 已禁止
+wkgk.baidu.com	180.97.66.48	80,443	JSP3/2.0.14	80:(404) 未找到
+wubi.baidu.com	112.34.111.172,111.202.114.63,180.97.104.211	80,443	nginx/1.4.4	80:正常访问
+xbug.baidu.com	10.99.85.51	-	端口未开放	端口未开放
+xenv.baidu.com	180.101.212.37	80,443	Apache	80:正常访问
+xmpp.baidu.com	61.135.165.169	80,443	Apache	80:正常访问
+xota.baidu.com	180.149.132.111	80,443	-	80:(404) 未找到
+xray.baidu.com	180.97.33.185	80,443	Apache	80:正常访问
+xset.baidu.com	112.34.111.253	80,443	nginx/1.14.0	80:(405) 不允许的方法
+xstp.baidu.com	10.26.5.60,10.50.14.165	-	端口未开放	端口未开放
+yitu.baidu.com	106.39.162.39	80,443	bfe	80:(500) 内部服务器错误
+ytsj.baidu.com	180.97.33.25	80,443	Apache	80:正常访问
+yugu.baidu.com	220.181.57.166	80	-	80:(404) 未找到
+ywww.baidu.com	180.149.131.98,180.149.132.151	80,443	bfe/1.0.8.18	80:(302) 重定向
+yyyy.baidu.com	10.65.3.62	-	端口未开放	端口未开放
+zhua.baidu.com	10.46.122.14	-	端口未开放	端口未开放
+ziyi.baidu.com	10.200.54.175	-	端口未开放	端口未开放
+zmon.baidu.com	10.81.211.95	-	端口未开放	端口未开放
+zsyx.baidu.com	180.97.104.235	80,443	Web	80:正常访问
+zxdc.baidu.com	10.99.72.41	-	端口未开放	端口未开放
+0851.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+123.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+1633.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+168cj.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+10b.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+13media.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+25pp.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+3tkj.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+3ddayinzaixain.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+face.baidu.com	180.149.144.41	80,443	获取失败	80:-
+hanyu.baidu.com	180.97.34.108	80,443	获取失败	80:-
+huiyuan.baidu.com	112.80.255.173	80,443	获取失败	80:-
+199it.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+ix.baidu.com	182.61.35.21	80,443	获取失败	80:-
+40miao.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+2cyxw.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+artist.baidu.com	180.76.183.17,180.76.141.217	80,443	获取失败	80:-
+you.baidu.com	115.239.217.166	80,443	获取失败	80:-
+rado.baidu.com	182.61.35.21	80,443	获取失败	80:-
+nlog.baidu.com	220.181.163.54,111.13.100.22,202.108.23.198,180.149.131.88,123.125.112.68,220.181.112.111	80	获取失败	80:-
+mp4.baidu.com	182.61.35.21	80,443	获取失败	80:-
+kpop.baidu.com	180.76.141.217,180.76.183.17	80,443	获取失败	80:-
+jipiao.baidu.com	14.215.177.233	80,443	获取失败	80:-
+wall.baidu.com	123.125.115.231	80,443	获取失败	80:-
+duar.baidu.com	180.101.212.50	80,443	获取失败	80:-
+360zhyx.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+dj5.baidu.com	115.239.211.92	80,443	获取失败	80:-
+king.baidu.com	180.76.183.17,180.76.141.217	80,443	获取失败	80:-
+stj.baidu.com	106.39.162.128	80,443	获取失败	80:-
+dou.baidu.com	180.97.33.25	80,443	获取失败	80:-
+member.baidu.com	112.80.255.173	80,443	获取失败	80:-
+dj8.baidu.com	115.239.211.92	80,443	获取失败	80:-
+bgb.baidu.com	180.101.212.35	80,443	获取失败	80:-
+3elife.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+xinge.baidu.com	182.61.35.21	80,443	获取失败	80:-
+ting.baidu.com	180.76.141.217,180.76.183.17	80,443	获取失败	80:-
+imsg.baidu.com	180.97.104.182	80,443	获取失败	80:-
+shequ.baidu.com	180.97.34.232	80,443	获取失败	80:-
+imgsrc.baidu.com	58.216.55.48	80,443	获取失败	80:-
+chongwu.baidu.com	180.97.34.232	80,443	获取失败	80:-
+wsmp.baidu.com	180.149.131.88,220.181.163.54	80	获取失败	80:-
+source.baidu.com	106.120.159.176	80	获取失败	80:-
+21cbr.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+ivqc.baidu.com	115.239.210.61,180.97.33.79	80,443	获取失败	80:-
+hiphotos.baidu.com	58.216.55.48	80,443	获取失败	80:-
+devices.baidu.com	202.106.2.62	80,443	获取失败	80:-
+1212.baidu.com	180.97.93.38	80,443	获取失败	80:-
+dj.baidu.com	180.76.141.217,180.76.183.17	80,443	获取失败	80:-
+chunjie.baidu.com	180.97.33.34	80	获取失败	80:-
+finance.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+mission.baidu.com	180.97.34.232	80,443	获取失败	80:-
+yiso.baidu.com	180.149.131.247,180.149.133.167,220.181.57.232	80,443	获取失败	80:-
+entertainment.baidu.com	180.97.33.136,115.239.210.174	80,443	获取失败	80:-
+ly.baidu.com	115.239.217.166	80,443	获取失败	80:-
+fund.baidu.com	180.97.33.136,115.239.210.174	80,443	获取失败	80:-
+middle.baidu.com	220.181.163.54,180.149.131.88	80	获取失败	80:-
+znsv.baidu.com	220.181.163.33	80	获取失败	80:-
+flight.baidu.com	14.215.177.233	80,443	获取失败	80:-
+ydyx.baidu.com	180.97.104.203	80,443	获取失败	80:-
+trip.baidu.com	115.239.217.166	80,443	获取失败	80:-
+sftj.baidu.com	220.181.7.190	80,443	获取失败	80:-
+icmp.baidu.com	103.235.46.151	80	获取失败	80:-
+zhly.baidu.com	115.239.210.77	80	获取失败	80:-
+poap.baidu.com	180.97.33.34,123.125.112.68	80	获取失败	80:-
+mbox.baidu.com	182.61.35.21	80,443	获取失败	80:-
+ddmp.baidu.com	111.13.105.167,202.106.2.34,106.39.162.229	80,443	获取失败	80:-
+appx.baidu.com	180.97.33.34	80	获取失败	80:-
+hp2.baidu.com	180.97.33.25	80,443	获取失败	80:-
+biji.baidu.com	115.239.217.112	80,443	获取失败	80:-
+dj7.baidu.com	115.239.211.92	80,443	获取失败	80:-
+dj3.baidu.com	115.239.211.92	80,443	获取失败	80:-
+xdu.baidu.com	182.61.62.50	80,443	获取失败	80:-
+navi.baidu.com	202.106.2.64	80,443	获取失败	80:-
+mil.baidu.com	180.97.33.136,115.239.210.174	80,443	获取失败	80:-
+himg.baidu.com	180.97.93.15	80,443	获取失败	80:-
+dj1.baidu.com	115.239.211.92	80,443	获取失败	80:-
+gimg.baidu.com	115.239.211.92	80,443	获取失败	80:-
+sme.baidu.com	180.149.133.177	80,443	获取失败	80:-
+dj6.baidu.com	180.149.132.115	80,443	获取失败	80:-
+pdi.baidu.com	106.39.162.48	80,443	获取失败	80:-
+yue.baidu.com	180.76.141.217,180.76.183.17	80,443	获取失败	80:-
+msh.baidu.com	182.61.62.50	80,443	获取失败	80:-
+ent.baidu.com	180.97.33.136,115.239.210.174	80,443	获取失败	80:-
+kbs.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+wpl.baidu.com	180.97.104.235	80,443	获取失败	80:-
+icu.baidu.com	111.206.37.120	80,443	获取失败	80:-
+bjh.baidu.com	115.239.210.77	80	获取失败	80:-
+opn.baidu.com	180.97.104.182	80,443	获取失败	80:-
+hun.baidu.com	180.97.34.232	80,443	获取失败	80:-
+hmi.baidu.com	183.232.231.89,123.125.115.15,180.97.33.34	80	获取失败	80:-
+avp.baidu.com	115.239.217.168	80,443	获取失败	80:-
+han.baidu.com	180.76.141.217,180.76.183.17	80,443	获取失败	80:-
+mcp.baidu.com	180.149.132.219	80,443	获取失败	80:-
+als.baidu.com	180.97.33.138	80,443	获取失败	80:-
+lvyou.baidu.com	115.239.217.166	80,443	获取失败	80:-
+3dprint.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+360powder.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+travel.baidu.com	115.239.217.166	80,443	获取失败	80:-
+geci.baidu.com	182.61.35.21	80,443	获取失败	80:-
+enjoy.baidu.com	180.97.34.232	80,443	获取失败	80:-
+pano.baidu.com	115.239.217.137	80,443	获取失败	80:-
+dj9.baidu.com	115.239.211.92	80,443	获取失败	80:-
+upl.baidu.com	115.239.217.115	80,443	获取失败	80:-
+zhuanji.baidu.com	180.97.33.136,115.239.210.174	80,443	获取失败	80:-
+qinzi.baidu.com	180.97.34.232	80,443	获取失败	80:-
+zt.baidu.com	14.215.177.244	80,443	获取失败	80:-
+yx.baidu.com	180.97.33.25	80,443	获取失败	80:-
+gmu.baidu.com	202.108.23.198,202.108.23.199	80	获取失败	80:-
+yuanshi.baidu.com	180.149.133.165,180.149.131.245	80,443	获取失败	80:-
+houtai.baidu.com	119.75.222.30	80,443	获取失败	80:-
+duanxin.baidu.com	180.149.145.241	80,443	获取失败	80:-
+yingxiao.baidu.com	180.97.104.203	80,443	获取失败	80:-
+wwww.baidu.com	220.181.57.217,220.181.57.216	80,443	获取失败	80:-
+youyuan.baidu.com	115.239.210.77	80	获取失败	80:-
+tianma.baidu.com	180.97.104.203	80,443	获取失败	80:-
+wz.baidu.com	180.149.133.167,180.149.131.247,220.181.57.232	80,443	获取失败	80:-
+yuyue.baidu.com	180.97.34.232	80,443	获取失败	80:-
+hy.baidu.com	112.80.255.173	80,443	获取失败	80:-
+yule.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+07073.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+dj2.baidu.com	115.239.211.92	80,443	获取失败	80:-
+3bf.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+uphoto.baidu.com	180.149.132.174	80,443	获取失败	80:-
+usp.baidu.com	180.97.104.235	80,443	获取失败	80:-
+pro.baidu.com	180.97.104.203	80,443	获取失败	80:-
+3wyu.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+zhangmen.baidu.com	180.76.183.17,180.76.141.217	80,443	获取失败	80:-
+xinwen.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+tongji.baidu.com	220.181.7.190	80,443	获取失败	80:-
+shahe.baidu.com	180.149.145.248	80,443	获取失败	80:-
+sitemap.baidu.com	220.181.7.186	80,443	获取失败	80:-
+qianqian.baidu.com	180.76.183.17,180.76.141.217	80,443	获取失败	80:-
+ping.baidu.com	220.181.112.163	80	获取失败	80:-
+kouqiang.baidu.com	115.239.210.77	80	获取失败	80:-
+mrm.baidu.com	106.39.162.251	80,443	获取失败	80:-
+1w18.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+mingxing.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+dj0.baidu.com	115.239.211.92	80,443	获取失败	80:-
+luyou.baidu.com	115.239.217.166	80,443	获取失败	80:-
+1126947191.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+kanqiu.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+22cn.baijia.baidu.com	180.97.33.34,180.97.33.41	80	获取失败	80:-
+m.news.baidu.com	115.239.210.174,180.97.33.136	80,443	获取失败	80:-
+box.baidu.com	182.61.35.21	80,443	获取失败	80:-
+utility.baidu.com	123.125.114.130	80	获取失败	80:-
+band.baidu.com	180.97.34.232	80,443	获取失败	80:-
+411326198104101521.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+1905szyl.baijia.baidu.com	180.97.33.41,180.97.33.34	80	获取失败	80:-
+mbc.baidu.com	180.97.33.128	80,443	获取失败	80:-
+trend.baidu.com	220.181.7.190	80,443	获取失败	80:-
+caipiao.baidu.com	180.97.66.48	80,443	获取失败	80:-
+weizhan.baidu.com	180.149.133.167,180.149.131.247,220.181.57.232	80,443	获取失败	80:-
+xing.baidu.com	115.239.217.166	80,443	获取失败	80:-
+yinyue.baidu.com	182.61.35.21	80,443	获取失败	80:-
+gtb.baidu.com	115.239.217.63	80,443	获取失败	80:-
+wyx.baidu.com	180.97.33.25	80,443	获取失败	80:-

@@ -1,0 +1,57 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+api.immomo.com	47.91.173.37	80,443	momo	80:(404) 未找到
+vip.immomo.com	58.83.184.12	80,443	momo	80:正常访问
+www.immomo.com	118.178.215.131	80,443	momo	80:正常访问
+passport.immomo.com	47.91.173.37	80,443	momo	80:正常访问
+m.immomo.com	58.83.184.20	80,443	momo	80:正常访问
+tips.immomo.com	58.83.184.20	443	momo	443:正常访问
+gb.immomo.com	10.83.68.19	-	端口未开放	端口未开放
+s.immomo.com	39.107.192.238	80,443	momo	80:正常访问
+developer.immomo.com	58.83.184.22	80,443	momo	80:正常访问
+hr.immomo.com	58.83.184.19	80,443	momo	80:正常访问
+game.immomo.com	58.83.184.22	80,443	momo	80:正常访问
+open.immomo.com	58.83.184.14	80,443	momo	80:正常访问
+hello.immomo.com	125.39.3.153	-	端口未开放	端口未开放
+download.immomo.com	58.83.184.13	80,443	Tengine	80:(403) 已禁止
+web.immomo.com	58.83.184.19	80,443	momo	80:正常访问
+pc.immomo.com	58.83.184.19	80,443	momo	80:正常访问
+account.immomo.com	58.83.184.11	80,443	momo	80:正常访问
+push.immomo.com	58.83.184.19	80,443	momo	80:(404) 未找到
+security.immomo.com	59.110.136.53	80,443	openresty	80:正常访问
+sec.immomo.com	58.83.184.150	-	端口未开放	端口未开放
+dl.immomo.com	183.131.168.131	80,443	WS CDN Server	80:(404) 未找到
+pay.immomo.com	58.83.184.18	80,443	momo	80:正常访问
+img.immomo.com	163.171.193.128	80,443	获取失败	80:-
+bm.immomo.com	58.83.184.12	80,443	momo	80:正常访问
+bi.immomo.com	58.83.184.22	80,443	momo	80:正常访问
+chat.immomo.com	58.83.184.150	-	端口未开放	端口未开放
+developers.immomo.com	47.95.30.14	80,443	momo	80:正常访问
+et.immomo.com	163.171.193.128	80,443	openresty	80:正常访问
+hermes.immomo.com	58.83.184.146	80		80:正常访问
+ir.immomo.com	23.48.201.80,23.48.201.66	80,443		80:正常访问
+live.immomo.com	58.83.184.19	80,443	momo	80:正常访问
+ldap.immomo.com	10.83.40.10	-	端口未开放	端口未开放
+mk.immomo.com	39.107.209.118	80,443	momo	80:(404) 未找到
+nb.immomo.com	58.83.184.14	80,443	momo	80:(404) 未找到
+smtp.immomo.com	124.251.45.56	80,443	momo	80:(440) Login Timeout
+h5.immomo.com	58.83.184.23	80,443	momo	80:(403) 已禁止
+ap.immomo.com	211.151.22.11	443	获取失败	443:-
+later.immomo.com	58.83.184.19	80,443	momo	80:(403) 已禁止
+beta.www.immomo.com	58.83.184.163	-	端口未开放	端口未开放
+cn2.immomo.com	58.83.184.13	80,443	momo	80:正常访问
+imgcache2.immomo.com	222.222.95.26,222.222.95.12,203.100.94.8,222.222.95.10,222.222.95.22,222.222.95.25,203.100.94.9,222.222.95.27,222.222.95.9,222.222.95.29,222.222.95.11,222.222.95.28,222.222.95.8,222.222.95.23,222.222.95.24	80,443	openresty	80:正常访问
+liuxing.immomo.com	58.83.184.24	80	momo	80:(404) 未找到
+moji.immomo.com	58.83.184.19	80,443	momo	80:(403) 已禁止
+openvpn.immomo.com	253.157.14.165	-	端口未开放	端口未开放
+oauth.immomo.com	124.250.60.11	80,443	momo	80:正常访问
+openvpn.bjbgp.immomo.com	118.5.49.6	-	端口未开放	端口未开放
+dfs.immomo.com	58.83.207.11	80,443	-	80:(503) 服务器不可用
+dls.immomo.com	221.235.187.9	-	端口未开放	端口未开放
+eap.immomo.com	47.95.164.107	-	端口未开放	端口未开放
+ext.immomo.com	39.107.209.118	80,443	momo	80:(404) 未找到
+fes.immomo.com	58.83.184.20	80,443	momo	80:(502) 错误的网关
+sso.immomo.com	58.83.184.150	-	端口未开放	端口未开放
+cn8.immomo.com	58.83.184.13	80,443	momo	80:正常访问
+hera.immomo.com	58.83.184.144	-	端口未开放	端口未开放
+moka.immomo.com	10.249.0.42	-	端口未开放	端口未开放
+wowo.immomo.com	39.106.247.183	80,443	momo	80:正常访问

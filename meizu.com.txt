@@ -1,0 +1,249 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+app.meizu.com	183.61.122.69	80,443	nginx	80:正常访问
+care.meizu.com	203.107.32.146	80,443	nginx	80:正常访问
+download.meizu.com	87.245.210.7,87.245.210.11,87.245.210.8,87.245.210.77,87.245.210.76	80,443	nginx	80:(403) 已禁止
+eln.meizu.com	171.111.154.207	80,443	Tengine	80:(502) 错误的网关
+findphoneweb.meizu.com	14.152.75.164	80,443	获取失败	80:-
+detail.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+gamebbs.meizu.com	14.152.75.174	80,443	nginx	80:正常访问
+en.meizu.com	119.28.48.239,49.51.8.209	80	DNSPod URL V2.0	80:(404) 未找到
+event.meizu.com	120.79.112.205	80,443		80:正常访问
+hr.meizu.com	203.107.32.146	80,443	nginx	80:正常访问
+53kf2.meizu.com	14.152.74.172	-	端口未开放	端口未开放
+developer.meizu.com	14.152.75.168	80,443	nginx	80:正常访问
+install.mystore.meizu.com	183.61.122.69	80,443	nginx	80:正常访问
+flymebbs.meizu.com	14.152.75.173	80,443		80:正常访问
+bug.meizu.com	14.152.75.173	80,443		80:正常访问
+img.meizu.com	121.14.201.206	80,443	nginx	80:正常访问
+hd.meizu.com	120.77.133.107	80,443	openresty	80:(403) 已禁止
+mq.meizu.com	203.107.32.146	80,443	Tengine	80:(502) 错误的网关
+music.meizu.com	14.152.75.187	80,443	nginx	80:(403) 已禁止
+mail.meizu.com	14.29.68.185	80,443	Microsoft-IIS/7.5	80:正常访问
+m.meizu.com	47.74.172.8	80,443		80:正常访问
+me.meizu.com	203.107.32.146	80,443	nginx	80:正常访问
+ordercenter.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+open.meizu.com	183.61.122.108	80,443	nginx	80:正常访问
+il.meizu.com	119.28.48.239,49.51.8.209	80	DNSPod URL V2.0	80:(404) 未找到
+iq.meizu.com	119.147.165.249	-	端口未开放	端口未开放
+retail.meizu.com	203.107.32.146	80,443	nginx	80:正常访问
+mall.meizu.com	203.107.32.146	80,443		80:正常访问
+oa.meizu.com	14.29.68.179	-	端口未开放	端口未开放
+safe.meizu.com	183.61.122.111	80,443	nginx	80:(404) 未找到
+rms.meizu.com	47.93.120.1	80,443	nginx/1.12.1	80:正常访问
+panda.meizu.com	124.251.60.232	-	端口未开放	端口未开放
+pic.meizu.com	58.63.253.69	-	端口未开放	端口未开放
+ros.meizu.com	47.93.168.95	80,443	nginx/1.12.1	80:正常访问
+ru.meizu.com	49.51.8.209,119.28.48.239	80	DNSPod URL V2.0	80:(404) 未找到
+sec.meizu.com	14.29.125.185	80,443	nginx	80:正常访问
+sync.meizu.com	14.152.75.177	80,443	nginx	80:正常访问
+s.meizu.com	123.56.98.135	-	端口未开放	端口未开放
+url.meizu.com	203.107.32.146	80,443	nginx	80:(400) 错误的请求
+service.meizu.com	59.110.244.21	80,443	nginx	80:正常访问
+shop.meizu.com	119.147.165.249	-	端口未开放	端口未开放
+syncweb.meizu.com	183.61.122.90	80,443	nginx	80:正常访问
+www.meizu.com	47.74.172.8	80,443		80:正常访问
+tools.meizu.com	121.14.201.203	80	nginx	80:(503) 服务器不可用
+wanmei.meizu.com	115.29.195.216	80	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+www.weixin.meizu.com	203.107.32.146	80,443	nginx	80:正常访问
+static.meizu.com	140.205.16.112,140.205.16.108,140.205.16.113,140.205.16.110,140.205.16.74,140.205.16.111,140.205.16.75,140.205.16.109	80,443	Tengine	80:(403) 已禁止
+www.res.meizu.com	58.215.98.35	80,443	JSP3/2.0.14	80:(403) 已禁止
+www3.res.meizu.com	122.226.187.11,122.226.187.14,222.186.137.247,122.226.187.12,222.186.137.228,122.226.187.15,222.186.137.252,122.226.187.18,122.226.187.16,222.186.137.229	80,443	-	80:(403) 已禁止
+www2.res.meizu.com	122.226.187.16,222.186.137.229,122.226.187.11,222.186.137.247,122.226.187.17,122.226.187.12,222.186.137.228,122.226.187.15,222.186.137.252,122.226.187.18	80,443	-	80:(403) 已禁止
+webexweb.meizu.com	157.122.146.252	80,443	Apache	80:正常访问
+e.meizu.com	14.152.75.171	80,443	nginx	80:正常访问
+g.meizu.com	183.61.122.85	80,443	nginx	80:正常访问
+ab.meizu.com	122.13.212.12,58.63.253.106,119.147.165.237	-	端口未开放	端口未开放
+i.meizu.com	14.152.75.185	80,443	nginx	80:(502) 错误的网关
+abc.meizu.com	39.108.199.5	443	openresty	443:(403) 已禁止
+p.meizu.com	121.14.201.209	80,443	nginx/1.6.2	80:正常访问
+gps.meizu.com	58.63.253.116	-	端口未开放	端口未开放
+u.meizu.com	183.61.122.79	80,443	nginx	80:正常访问
+y.meizu.com	14.152.75.180	80,443	openresty	80:(404) 未找到
+cms.meizu.com	183.61.122.126	80,443	nginx	80:(404) 未找到
+api.meizu.com	14.152.75.176	80,443	openresty	80:(403) 已禁止
+map.meizu.com	121.14.201.233	80,443	nginx	80:正常访问
+book.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+new.meizu.com	125.89.61.122	-	端口未开放	端口未开放
+reader.meizu.com	183.61.122.121	80,443	openresty	80:(404) 未找到
+cp.meizu.com	121.14.201.203	80	nginx	80:正常访问
+cat.meizu.com	10.9.200.17	-	端口未开放	端口未开放
+rom.meizu.com	121.14.201.239	80	nginx	80:(403) 已禁止
+game.meizu.com	183.61.122.77	80	nginx	80:正常访问
+my.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+crm.meizu.com	47.95.47.174	443	nginx/1.12.2	443:正常访问
+css.meizu.com	119.147.168.149	-	端口未开放	端口未开放
+manage.meizu.com	14.29.125.133	80,443	nginx	80:(403) 已禁止
+vip.meizu.com	100.98.5.92	-	端口未开放	端口未开放
+web.meizu.com	121.14.201.253	80,443	nginx	80:正常访问
+test.meizu.com	172.16.200.200	-	端口未开放	端口未开放
+music2.meizu.com	121.14.201.237	80,443	nginx	80:正常访问
+in.meizu.com	49.51.8.209,119.28.48.239	80	DNSPod URL V2.0	80:(404) 未找到
+pay.meizu.com	14.152.75.170	80,443	nginx	80:正常访问
+image.meizu.com	121.14.201.206	80,443	nginx	80:(405) 不允许的方法
+client.meizu.com	5.5.5.5	-	端口未开放	端口未开放
+photo.meizu.com	47.95.162.122	80,443		80:正常访问
+auth.meizu.com	120.77.130.253	80,443	openresty	80:正常访问
+backup.meizu.com	183.61.122.87	80,443	nginx	80:(403) 已禁止
+att.meizu.com	58.63.253.91	-	端口未开放	端口未开放
+bi.meizu.com	192.168.17.71	-	端口未开放	端口未开放
+bw.meizu.com	120.26.87.169	-	端口未开放	端口未开放
+conf.meizu.com	192.168.17.31	-	端口未开放	端口未开放
+device.meizu.com	14.152.73.229	80,443	nginx/1.11.6	80:正常访问
+fl.meizu.com	121.14.201.219	80,443	nginx	80:正常访问
+imap.meizu.com	14.29.68.185	80,443	nginx	80:(403) 已禁止
+gs.meizu.com	121.14.201.254	80,443	nginx	80:正常访问
+im.meizu.com	120.78.242.12	80,443	-	80:(404) 未找到
+fw.meizu.com	183.61.122.123	80,443	nginx	80:(403) 已禁止
+laboratory.meizu.com	14.152.75.23	80,443	nginx	80:(403) 已禁止
+lists.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+ma.meizu.com	14.29.68.182	80,443	nginx	80:(403) 已禁止
+mac.meizu.com	47.107.215.180	80	nginx	80:正常访问
+ml.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+mp.meizu.com	14.152.75.10	80,443	nginx	80:正常访问
+mk.meizu.com	203.107.32.146	80,443	openresty/1.11.2.3	80:正常访问
+order.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+partner.meizu.com	121.14.201.236,221.5.102.168	80,443	nginx	80:正常访问
+pop3.meizu.com	14.29.68.185	80,443	nginx	80:(403) 已禁止
+pi.meizu.com	121.14.201.207	80,443	nginx	80:正常访问
+pop.meizu.com	14.29.68.185	80,443	nginx	80:(403) 已禁止
+ms.meizu.com	121.40.74.143	80	Apache-Coyote/1.1	80:(404) 未找到
+patch.meizu.com	101.69.121.120,221.204.166.20,221.204.60.123,121.29.54.199,112.90.58.190,125.211.204.225,121.29.54.195,218.11.8.104,221.204.60.63,101.69.121.89,221.204.58.110,221.204.166.22,221.204.166.38,182.118.11.236	80,443	openresty	80:(404) 未找到
+smtp.meizu.com	14.29.68.185	80,443	nginx	80:(403) 已禁止
+sms.meizu.com	14.152.75.190	80,443	nginx	80:(403) 已禁止
+remote.meizu.com	183.61.122.106	80	openresty	80:(403) 已禁止
+re.meizu.com	58.63.253.69	-	端口未开放	端口未开放
+router.meizu.com	14.152.74.236	-	端口未开放	端口未开放
+spam.meizu.com	113.106.104.214	-	端口未开放	端口未开放
+15.meizu.com	120.77.88.219	80,443	nginx	80:正常访问
+a8.meizu.com	120.76.101.80	80	Apache-Coyote/1.1	80:正常访问
+p2.meizu.com	58.63.253.99	-	端口未开放	端口未开放
+p3.meizu.com	58.63.253.110	-	端口未开放	端口未开放
+p1.meizu.com	58.63.253.98	-	端口未开放	端口未开放
+p4.meizu.com	58.63.253.111	-	端口未开放	端口未开放
+p5.meizu.com	58.63.253.96	-	端口未开放	端口未开放
+p6.meizu.com	121.14.39.18	-	端口未开放	端口未开放
+p8.meizu.com	183.56.146.80	-	端口未开放	端口未开放
+p7.meizu.com	121.14.58.42	-	端口未开放	端口未开放
+p9.meizu.com	183.56.146.81	-	端口未开放	端口未开放
+voice.meizu.com	183.61.122.113	80,443	nginx	80:正常访问
+vpn.meizu.com	14.21.33.154	443	Apache	443:正常访问
+life.meizu.com	183.61.122.126	80,443	nginx	80:正常访问
+part.meizu.com	87.245.210.76,87.245.210.11,87.245.210.8,87.245.210.77,87.245.210.7	80,443	Apache/2.4.9 (Unix) OpenSSL/1.0.1f PHP/5.4.27	80:(403) 已禁止
+common.meizu.com	14.152.73.229	80,443	nginx/1.11.6	80:正常访问
+list.meizu.com	100.98.202.32	-	端口未开放	端口未开放
+loan.meizu.com	14.152.75.17	80,443	nginx	80:正常访问
+stream.meizu.com	119.147.165.245	-	端口未开放	端口未开放
+sweep.meizu.com	183.61.122.98	80	nginx	80:(403) 已禁止
+insurance.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+clock.meizu.com	116.31.71.194	80,443	nginx/1.11.6	80:正常访问
+repair.meizu.com	47.93.167.10	80		80:正常访问
+cart.meizu.com	203.107.32.146	80,443	openresty/1.11.2.3	80:正常访问
+analysis.meizu.com	116.66.216.102	443	nginx	443:正常访问
+area.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+jr.meizu.com	183.61.122.74	80	nginx	80:正常访问
+issues.meizu.com	121.14.39.30	-	端口未开放	端口未开放
+item.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+welfare.meizu.com	14.152.75.181	80,443	nginx	80:正常访问
+assistant.meizu.com	14.152.75.18	80,443	nginx	80:(404) 未找到
+fuse.meizu.com	120.77.133.207	80,443	openresty	80:(404) 未找到
+gravity.meizu.com	119.23.172.111	80,443	nginx	80:(404) 未找到
+resource.meizu.com	121.14.39.15	-	端口未开放	端口未开放
+contacts.meizu.com	183.61.122.105	80,443	nginx	80:正常访问
+promotion.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+smart.meizu.com	123.56.98.135	80	Microsoft-IIS/7.5	80:(404) 未找到
+api.game.meizu.com	121.14.201.196	80,443	openresty	80:正常访问
+api.v2.meizu.com	121.14.201.213	80,443	openresty	80:正常访问
+antiddos.meizu.com	129.28.240.111	80,443	nginx	80:正常访问
+browser.meizu.com	183.61.122.125	80,443	nginx	80:(404) 未找到
+coupon.meizu.com	14.152.75.161	80,443	nginx	80:(403) 已禁止
+dashboard.meizu.com	116.31.72.23	-	端口未开放	端口未开放
+ebook.meizu.com	183.61.122.102	80,443	nginx	80:正常访问
+exam.meizu.com	14.152.75.188	80	nginx	80:(405) 不允许的方法
+hd1.meizu.com	119.28.48.239,49.51.8.209	80	DNSPod URL V2.0	80:(404) 未找到
+hdtest.meizu.com	114.215.98.97	-	端口未开放	端口未开放
+hkvpn.meizu.com	203.100.54.34	443	-	443:(404) 未找到
+hybrid.meizu.com	14.152.75.179	80	nginx	80:(403) 已禁止
+iask.meizu.com	120.77.75.153	80	openresty	80:(404) 未找到
+interface.meizu.com	119.147.168.149	-	端口未开放	端口未开放
+launcher.meizu.com	121.14.201.230	80,443	nginx	80:(404) 未找到
+lottery.meizu.com	203.107.32.146	80,443	Apache-Coyote/1.1	80:(404) 未找到
+mapi.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+logistics.meizu.com	112.74.136.26	-	端口未开放	端口未开放
+mpay.meizu.com	183.61.122.101	80,443	nginx	80:(502) 错误的网关
+maven.meizu.com	172.16.82.22	-	端口未开放	端口未开放
+netadmin.meizu.com	121.14.201.225	80,443	nginx	80:正常访问
+oatest.meizu.com	14.29.68.190	-	端口未开放	端口未开放
+p10.meizu.com	183.56.146.190	-	端口未开放	端口未开放
+paytest.meizu.com	112.74.115.60	-	端口未开放	端口未开放
+qzone.meizu.com	14.152.75.8	80,443	nginx	80:(403) 已禁止
+qiye.meizu.com	182.92.23.40	-	端口未开放	端口未开放
+recharge.meizu.com	183.61.122.73	443	nginx	443:正常访问
+seller.meizu.com	203.107.32.146	80,443	openresty/1.11.2.1	80:正常访问
+static1.meizu.com	58.63.253.91	-	端口未开放	端口未开放
+static2.meizu.com	58.249.117.27,58.63.253.91	-	端口未开放	端口未开放
+static3.meizu.com	58.63.253.91,58.249.117.27	-	端口未开放	端口未开放
+stun.meizu.com	121.14.58.44	-	端口未开放	端口未开放
+testapp.meizu.com	203.107.32.146	80,443	Tengine	80:(502) 错误的网关
+tongji.meizu.com	121.14.201.215	80,443	nginx	80:(403) 已禁止
+test.weibo.meizu.com	58.63.253.56	-	端口未开放	端口未开放
+upload.res.meizu.com	120.79.112.205	80,443	nginx	80:(403) 已禁止
+testmail.meizu.com	112.91.151.217	-	端口未开放	端口未开放
+testpay.meizu.com	14.21.33.153	-	端口未开放	端口未开放
+webdisk.meizu.com	14.29.68.182	80,443	nginx	80:正常访问
+zentao.meizu.com	121.14.39.51	-	端口未开放	端口未开放
+ea.meizu.com	14.152.75.171	80,443	nginx	80:正常访问
+afl.meizu.com	121.14.201.219	80,443	nginx	80:正常访问
+adx.meizu.com	121.14.201.223	80,443	nginx	80:(403) 已禁止
+cal.meizu.com	183.61.122.119	80,443	nginx	80:正常访问
+csc.meizu.com	59.110.244.21	80,443	-	80:(405) 不允许的方法
+kl.meizu.com	120.79.106.2	80	获取失败	80:-
+dms.meizu.com	47.74.172.8	80,443	-	80:(403) 已禁止
+dwz.meizu.com	14.152.75.165	80,443	nginx	80:(403) 已禁止
+cpd.meizu.com	1.2.3.1	-	端口未开放	端口未开放
+dcs.meizu.com	14.29.68.189	80,443	nginx	80:正常访问
+dfs.meizu.com	14.152.75.7	80	nginx/1.2.9	80:正常访问
+ebk.meizu.com	183.61.122.102	80,443	nginx	80:正常访问
+dzt.meizu.com	221.228.87.57	80,443	openresty	80:(404) 未找到
+cvn.meizu.com	121.14.201.249	80	nginx	80:正常访问
+dmp.meizu.com	14.152.75.16	80	nginx	80:(403) 已禁止
+ess.meizu.com	14.29.68.189	80,443	nginx	80:正常访问
+izt.meizu.com	47.93.84.73	-	端口未开放	端口未开放
+mgc.meizu.com	121.14.201.252	80,443	nginx	80:正常访问
+mms.meizu.com	121.14.201.210	80,443	nginx/1.2.5	80:正常访问
+mie.meizu.com	47.107.216.41	80,443	nginx	80:正常访问
+myj.meizu.com	47.95.65.202	80,443	nginx	80:正常访问
+mos.meizu.com	203.107.32.146	80,443	openresty	80:正常访问
+oaa.meizu.com	14.29.68.182	80,443	nginx	80:(403) 已禁止
+mvn.meizu.com	172.16.10.213	-	端口未开放	端口未开放
+mzs.meizu.com	120.77.75.191	443	nginx	443:正常访问
+oms.meizu.com	119.23.119.206	80	MEIZU  Srv 1.0	80:正常访问
+prc.meizu.com	119.23.172.111	80,443	nginx	80:(403) 已禁止
+rtx.meizu.com	14.29.68.188	80,443	nginx	80:(403) 已禁止
+sip.meizu.com	125.89.61.122	-	端口未开放	端口未开放
+uac.meizu.com	14.29.68.187	80,443	nginx	80:正常访问
+waf.meizu.com	121.14.201.204	80,443	nginx	80:正常访问
+zsk.meizu.com	47.93.122.11	80,443	nginx	80:正常访问
+agps.meizu.com	58.63.253.93	-	端口未开放	端口未开放
+eouc.meizu.com	116.66.216.106	443	nginx	443:正常访问
+expe.meizu.com	14.29.68.180	80,443	Apache	80:正常访问
+ggtf.meizu.com	39.108.199.5	443	openresty	443:(403) 已禁止
+inke.meizu.com	14.29.125.133	80,443	nginx	80:(404) 未找到
+mdcs.meizu.com	14.29.68.189	80,443	nginx	80:正常访问
+myj2.meizu.com	112.91.151.211	80,443	nginx	80:(403) 已禁止
+ocsc.meizu.com	59.110.244.21	80,443	-	80:(405) 不允许的方法
+roam.meizu.com	183.61.122.67	80,443	nginx	80:(403) 已禁止
+scht.meizu.com	113.108.229.197	-	端口未开放	端口未开放
+tvcc.meizu.com	14.152.75.16	80	nginx	80:(403) 已禁止
+umap.meizu.com	14.152.75.15	80,443	nginx	80:正常访问
+umid.meizu.com	127.0.0.1	-	端口未开放	端口未开放
+uxip.meizu.com	127.1.1.1	-	端口未开放	端口未开放
+woms.meizu.com	14.29.68.183	80,443	nginx	80:正常访问
+wxas.meizu.com	183.61.122.122	443	获取失败	443:-
+member.meizu.com	183.61.122.97	80,443	获取失败	80:-
+bbs.meizu.com	120.77.88.205	80,443	获取失败	80:-
+store.meizu.com	203.107.32.146	80,443	获取失败	80:-
+login.meizu.com	14.152.75.182	80,443	获取失败	80:-
+weixin.res.meizu.com	185.232.59.55	80,443	获取失败	80:-
+designer.meizu.com	14.152.75.169	80,443	获取失败	80:-
+push.meizu.com	183.61.122.93	80,443	获取失败	80:-
+video.meizu.com	183.61.122.72	80	获取失败	80:-

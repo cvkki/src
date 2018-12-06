@@ -1,0 +1,15 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+c.webank.com	203.195.226.228	443	nginx	443:正常访问
+w.webank.com	119.29.44.161,193.112.233.30	80,443	nginx	80:正常访问
+www.webank.com	211.159.212.166,111.230.163.144	80,443	nginx	80:正常访问
+mall.webank.com	111.230.163.144	80,443	nginx	80:正常访问
+mail.webank.com	10.97.113.13	-	端口未开放	端口未开放
+hr.webank.com	211.159.212.166	80,443	nginx	80:正常访问
+ht.webank.com	203.195.226.246	-	端口未开放	端口未开放
+fs.webank.com	111.230.163.144	80,443	nginx	80:正常访问
+ida.webank.com	193.112.232.253	80,443	nginx	80:正常访问
+personal.webank.com	203.195.227.226,203.195.226.226	80,443	nginx	80:正常访问
+ws.webank.com	193.112.230.104	443	nginx	443:正常访问
+mx1.webank.com	119.29.184.114	443		443:(403) 已禁止
+trace.webank.com	203.195.226.226,203.195.227.226	80,443	nginx	80:正常访问
+moa.webank.com	119.29.80.181	80,443	Apache	80:正常访问

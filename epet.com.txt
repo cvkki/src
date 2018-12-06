@@ -1,0 +1,29 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+api.epet.com	101.37.42.95	80,443	nginx	80:(404) 未找到
+cat.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+wap.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+zs.epet.com	117.23.61.103,180.97.158.239	80,443		80:正常访问
+wap.epet.com	113.18.194.225,113.18.194.226,113.18.194.221,113.18.194.222,113.18.194.224,113.18.194.223,113.18.194.220,113.18.194.219	80,443	Tengine	80:正常访问
+zhishi.epet.com	117.23.61.103,180.97.158.239	80,443		80:正常访问
+www.epet.com	116.207.118.75	80,443	Tengine	80:正常访问
+sale.epet.com	124.165.219.106	80,443	获取失败	80:-
+cat.epet.com	219.147.157.104	80,443	Tengine	80:正常访问
+my.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+service.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+pay.epet.com	101.37.42.95	80,443	nginx	80:(404) 未找到
+sa.epet.com	116.62.89.9	80	nginx	80:(403) 已禁止
+list.epet.com	61.168.100.231	80,443	Tengine	80:正常访问
+1111.epet.com	222.85.26.223	80,443	Tengine	80:正常访问
+api.dev.epet.com	101.37.42.95	80,443	nginx	80:(404) 未找到
+d.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+dz.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+expert.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+file.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+icbsp.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+openvpn.epet.com	253.157.14.165	-	端口未开放	端口未开放
+oauth.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+passport2.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+openvpn.bjbgp.epet.com	77.4.7.92	-	端口未开放	端口未开放
+usercenter.dev.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+weixin.epet.com	101.37.42.95	80,443	nginx	80:正常访问
+sup.epet.com	162.159.210.92,162.159.211.92	80,443	获取失败	80:-

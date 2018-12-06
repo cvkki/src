@@ -1,0 +1,936 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+1600.bj.bbs.house.sina.com.cn	123.59.190.240	80,443	nginx	80:正常访问
+123.auto.sina.com.cn	180.149.153.24	80,443	Sina	80:(500) 内部服务器错误
+1hai.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+2.wap.sina.com.cn	202.108.35.165	80,443	Apache/2.2.29 (Unix) PHP/5.2.17 mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5	80:正常访问
+2004.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2002.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2006.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2008.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2008.mail.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+06supergirl.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+1942.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2010auto.sc.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2010.sc.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2010.t.sina.com.cn	180.149.134.142,180.149.134.141	80,443	WeiBo	80:正常访问
+2012.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2013weibo.hb.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2014.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2013weibo.sc.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2016.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2014weibo.hb.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+2h.bj.bbs.house.sina.com.cn	123.59.190.240	80,443	nginx	80:正常访问
+315.edu.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+360.44talk.bbs.house.sina.com.cn	123.59.190.240	80,443	nginx	80:正常访问
+184.pub.sina.com.cn	202.106.182.184	-	端口未开放	端口未开放
+3c.henan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+3g.wap.sina.com.cn	202.108.35.165	80,443	Apache/2.2.29 (Unix) PHP/5.2.17 mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5	80:正常访问
+3g.sina.com.cn	123.125.29.114	80,443	openresty	80:正常访问
+3gsoft.tech.sina.com.cn	180.149.153.24	80,443	nginx	80:正常访问
+2011.t.sina.com.cn	180.149.134.249	80,443	Apache	80:(500) 内部服务器错误
+44.0yn.bbs.house.sina.com.cn	123.59.190.240	80,443	nginx	80:正常访问
+4s.auto.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+55.00hzjiaju.bbs.house.sina.com.cn	123.59.190.240	80,443	nginx	80:正常访问
+5173.games.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+80s.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+80s.henan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+91.jiaju.sina.com.cn	123.59.190.224	80,443	Apache	80:正常访问
+ab.iask.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+abc2003.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+act.city.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.dl.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.fj.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.hb.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.jiangsu.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.jx.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+a.q.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+act.shanxi.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.ln.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.sx.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.zj.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+act.tj.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+ad.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+668.sina.com.cn	121.14.1.230	-	端口未开放	端口未开放
+act.sh.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+71.wapcms.pub.sina.com.cn	111.13.87.52	-	端口未开放	端口未开放
+ads.sina.com.cn	202.102.94.124	80,443	Sina	80:正常访问
+admin.iask.sina.com.cn	202.108.43.139	80	nginx/1.12.1	80:正常访问
+ah.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ad3.sina.com.cn	202.102.94.124	80,443	Sina	80:正常访问
+ah.travel.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+agent.show.sina.com.cn	183.131.73.140	80,443	nginx	80:正常访问
+ad2.sina.com.cn	202.106.184.162	-	端口未开放	端口未开放
+all.vic.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+allaboutwomen.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+aipai.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+album.sina.com.cn	180.149.134.205	80	nginx/1.0.15	80:正常访问
+ambm.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+amdsmile.gongyi.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+angel.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+anjian.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+ankang.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+anqing.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+anli.jiaju.sina.com.cn	123.59.190.124	80,443	Apache	80:正常访问
+anqing.house.sina.com.cn	47.104.4.105	80,443		80:正常访问
+anshan.esf.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+agentcs.show.sina.com.cn	122.227.42.223	80	Microsoft-IIS/6.0	80:正常访问
+anshan.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+anshan.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+anshun.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+anshun.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+antagames.sports.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+albums.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+anyang.house.sina.com.cn	47.104.234.28	80,443		80:正常访问
+alumni.sina.com.cn	203.130.33.5	-	端口未开放	端口未开放
+aokang2008.sina.com.cn	113.108.216.230	80,443	edge-esnssl-1.12.1-13	80:正常访问
+analytics.video.sina.com.cn	172.16.78.44	-	端口未开放	端口未开放
+api.roll.news.sina.com.cn	113.108.216.230	80,443	edge-esnssl-1.12.1-13	80:正常访问
+api.slide.news.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+api.sports.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+anyang.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+api.t.sina.com.cn	180.149.135.176	80,443	nginx	80:(503) 服务器不可用
+app.blog.sina.com.cn	180.149.136.125	80,443	nginx/1.2.8	80:正常访问
+app.esf.sina.com.cn	123.59.246.213	80,443	nginx	80:(404) 未找到
+api.vip.book.sina.com.cn	123.125.22.249	80	Tengine	80:正常访问
+app.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+app.gongyi.sina.com.cn	60.28.175.120	80,443	Microsoft-IIS/6.0	80:(500) 内部服务器错误
+aqioo.astro.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+aqwxz.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+api.ggt.sina.com.cn	101.201.39.179	-	端口未开放	端口未开放
+art.cul.sina.com.cn	113.108.216.230	80,443	edge-esnssl-1.12.1-13	80:正常访问
+as.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+api.iask.sina.com.cn	219.142.78.108	-	端口未开放	端口未开放
+ask.baby.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+assembly.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+astro.2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+astro.2014.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+astro.eladies.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+app.show.sina.com.cn	183.131.146.186	-	端口未开放	端口未开放
+astroboy.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+atc.sae.sina.com.cn	123.125.23.221,123.125.23.91	80,443	nginx	80:(404) 未找到
+audiart.style.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+auto.2008.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+appgame.games.sina.com.cn	202.106.185.225	-	端口未开放	端口未开放
+auto.2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.ah.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.city.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+auto.fj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.hlj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.jiangsu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.henan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+auto.sc.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ay.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ayawawa.blog.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+b.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+autoalliance.sina.com.cn	202.106.182.149	-	端口未开放	端口未开放
+baby.2008.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+astro.t.sina.com.cn	180.149.134.249	80,443	Apache	80:正常访问
+baby.2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+baby.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+baby.eladies.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+baby.t.sina.com.cn	180.149.134.249	80,443	Sina	80:正常访问
+baicheng.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+baise.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+baise.house.sina.com.cn	47.104.4.105	80,443		80:正常访问
+baishan.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+ball.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+baoding.house.sina.com.cn	47.104.243.9	80,443		80:正常访问
+baoding.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+baoding.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+baoji.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+babycgi.sina.com.cn	202.108.43.210	-	端口未开放	端口未开放
+baoji.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+baoji.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+baoliao.gd.sina.com.cn	121.14.1.118	80,443	nginx	80:正常访问
+baoliao.qcyn.sina.com.cn	58.63.237.237	80,443	Apache	80:(404) 未找到
+baoliao.fj.sina.com.cn	121.14.1.12	80	Apache	80:(404) 未找到
+bal.blog.sina.com.cn	58.63.234.128	-	端口未开放	端口未开放
+baoming.sina.com.cn	180.149.134.154	80,443	nginx/1.4.4	80:(503) 服务器不可用
+bar.2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bar.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+bazhong.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+bbs.2010.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bbs.digi.sina.com.cn	180.149.153.24	80,443	edge-esnssl-1.12.1-13	80:正常访问
+bbs.auto.sina.com.cn	180.149.153.24	80,443	nginx	80:正常访问
+bbs.eladies.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+bbs.fj.sina.com.cn	121.14.1.12	80	edge-esnssl-1.12.1-13	80:正常访问
+bbs.gd.sina.com.cn	58.63.237.237	80,443	Sina	80:正常访问
+bbs.3g.sina.com.cn	113.108.216.239	80	openresty	80:正常访问
+bbs.henan.sina.com.cn	113.108.216.230	80,443	edge-esnssl-1.12.1-13	80:正常访问
+bbs.games.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+baosenxs.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+bbs.q.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+bbs.jiaju.sina.com.cn	123.59.190.239	80	Apache	80:正常访问
+bbs.sc.sina.com.cn	121.14.1.12	80	Apache	80:(404) 未找到
+bbs.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bbs1.house.sina.com.cn	123.59.190.240	80,443	nginx	80:(404) 未找到
+bbsdigi.tech.sina.com.cn	180.149.153.24	80,443	edge-esnssl-1.12.1-13	80:正常访问
+bbx.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+bd.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+bbs.sports.sina.com.cn	58.63.238.224	-	端口未开放	端口未开放
+bd.house.sina.com.cn	47.104.216.110	80,443		80:正常访问
+beautycontest.news.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+baoming.edu.sina.com.cn	218.30.66.101	443	获取失败	443:-
+beihai.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+beihai.house.sina.com.cn	47.104.243.9	80,443		80:正常访问
+beijing-hyundai.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+beijing.t.sina.com.cn	180.149.134.141,180.149.134.142	80,443	WeiBo	80:(403) 已禁止
+beijingwanbao.blog.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+bengbu.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bengbu.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+benxi.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+beta.yangfanbook.sina.com.cn	60.28.175.120	80,443	-	80:(400) 错误的请求
+bh.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bieshu.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+bijie.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bijie.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+bill.finance.sina.com.cn	202.102.94.124	80,443	Sina	80:正常访问
+binzhou.house.sina.com.cn	47.104.85.200	80,443		80:正常访问
+bixian.ent.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+biz.finance.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+beta.v.sina.com.cn	219.142.78.103	-	端口未开放	端口未开放
+biz.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+biz.sydc.sina.com.cn	123.59.190.224	80,443	Apache	80:正常访问
+bj.auto.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bj.bbs.house.2010.sina.com.cn	123.59.190.240	80,443	nginx	80:(404) 未找到
+bj.esf.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+bj.house.2010.sina.com.cn	47.104.216.110	80,443	-	80:(404) 未找到
+bj.house.sina.com.cn	47.104.216.110	80,443		80:正常访问
+bj.jiaju.sina.com.cn	120.27.14.241	80,443		80:正常访问
+bj.office.sina.com.cn	47.105.143.86	80,443	-	80:(403) 已禁止
+bj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bj.sydc.sina.com.cn	47.105.143.86	80,443		80:正常访问
+bj.zufang.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+bjyxl.sina.com.cn	202.108.33.60,202.108.33.107	80,443	nginx	80:(404) 未找到
+a.sina.com.cn	123.125.29.114	80,443	Sina	80:正常访问
+a1.sina.com.cn	202.102.94.124	80,443	Sina	80:正常访问
+a2.sina.com.cn	202.102.94.124	80,443	Sina	80:正常访问
+bj.newsesf.sina.com.cn	10.207.0.151	-	端口未开放	端口未开放
+cq.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cha.sina.com.cn	202.108.43.238	80	Apache/2.2.15 (CentOS)	80:(500) 内部服务器错误
+bb.sina.com.cn	202.108.44.46	-	端口未开放	端口未开放
+e.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+g.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+i.sina.com.cn	58.63.236.212,180.149.138.190	80,443	nginx	80:正常访问
+k.sina.com.cn	49.7.36.41	80,443	Tengine	80:正常访问
+jj.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+lv.sina.com.cn	47.105.143.86	80,443		80:正常访问
+m.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mybaby.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+ok.sina.com.cn	222.186.145.188,115.231.22.125,222.186.145.187	80,443	nginx/0.8.34	80:(400) 错误的请求
+q.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+t.sina.com.cn	180.149.134.141,180.149.134.142	80,443	WeiBo/LB	80:正常访问
+v.sina.com.cn	49.7.36.41	80,443	Tengine	80:(417) Page Error
+uu.sina.com.cn	202.108.37.161,202.108.37.148,202.108.37.149,202.108.37.150	-	端口未开放	端口未开放
+x.sina.com.cn	180.149.153.234	80,443	Sina	80:正常访问
+y.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+l.sina.com.cn	218.30.108.115	-	端口未开放	端口未开放
+z.sina.com.cn	180.149.153.234	80,443	Sina	80:正常访问
+2007.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+1.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+help.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+www1.sina.com.cn	202.106.184.219	-	端口未开放	端口未开放
+wap.sina.com.cn	218.206.86.237	80	openresty	80:正常访问
+mail.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+email.sina.com.cn	202.108.35.227	80,443	nginx	80:(404) 未找到
+2000.sina.com.cn	168.160.224.103	-	端口未开放	端口未开放
+blog.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+sys.sina.com.cn	202.106.184.186	80	Apache	80:正常访问
+mall.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+news.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+api.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+wap2.sina.com.cn	202.108.44.61	-	端口未开放	端口未开放
+apps.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+book.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+feed.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+rss.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+map.sina.com.cn	180.149.135.37	-	端口未开放	端口未开放
+union.sina.com.cn	180.149.153.206	80	openresty	80:正常访问
+tuan.sina.com.cn	202.102.94.124	80,443	Sina	80:(404) 未找到
+feedback.sina.com.cn	218.30.108.241	-	端口未开放	端口未开放
+tousu.sina.com.cn	180.149.153.24	80,443	nginx/1.12.2	80:正常访问
+erp.sina.com.cn	10.211.211.18	-	端口未开放	端口未开放
+forum.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+corp.sina.com.cn	115.231.40.228,115.231.40.230,115.231.40.227,115.223.15.218,115.231.40.233,115.231.40.229,115.231.40.231,115.231.40.226,115.231.40.232	80,443	Tengine	80:正常访问
+sea.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+game.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sq.sina.com.cn	61.135.152.36	-	端口未开放	端口未开放
+mobile.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+comment.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+login.sina.com.cn	180.149.138.190,58.63.236.212	80,443	nginx/1.2.0	80:正常访问
+hot.sina.com.cn	202.106.182.252	-	端口未开放	端口未开放
+my.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+group.sina.com.cn	202.108.43.231	-	端口未开放	端口未开放
+open.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+bbs2.sina.com.cn	202.108.44.25	-	端口未开放	端口未开放
+offer.sina.com.cn	61.172.207.194	80,443	nginx/1.15.5	80:正常访问
+passport.sina.com.cn	58.63.236.212	80,443	nginx	80:(404) 未找到
+crm.sina.com.cn	202.108.37.141	-	端口未开放	端口未开放
+us.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+log.sina.com.cn	61.135.153.70	-	端口未开放	端口未开放
+download.sina.com.cn	113.108.216.237	80,443	nginx/1.6.0 r18112720-d6198aa	80:(405) 不允许的方法
+ip.sina.com.cn	61.172.207.32	-	端口未开放	端口未开放
+zhaopin.sina.com.cn	202.108.226.76	-	端口未开放	端口未开放
+js.sina.com.cn	202.108.35.179	-	端口未开放	端口未开放
+test.sina.com.cn	202.108.43.224	-	端口未开放	端口未开放
+shouji.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+shop.sina.com.cn	218.30.108.115	-	端口未开放	端口未开放
+ditu.sina.com.cn	114.80.223.14	-	端口未开放	端口未开放
+web.sina.com.cn	202.108.35.188	-	端口未开放	端口未开放
+tieba.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+weibo.sina.com.cn	202.102.94.124	80,443	WeiBo/LB	80:正常访问
+music.sina.com.cn	180.149.134.217	80,443	WeiBo	80:正常访问
+video.sina.com.cn	115.231.40.233,115.231.40.226,115.231.40.227,115.231.40.231,115.231.40.228,115.231.40.229,115.231.40.232,115.231.40.230	80,443	Tengine	80:正常访问
+youxi.sina.com.cn	218.206.86.90,218.206.86.95	-	端口未开放	端口未开放
+share.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+service.sina.com.cn	61.135.152.127	-	端口未开放	端口未开放
+mp3.sina.com.cn	115.182.70.137	80	nginx	80:(403) 已禁止
+show.sina.com.cn	222.186.145.188,115.231.22.125,222.186.145.187	80,443	nginx	80:正常访问
+security.sina.com.cn	58.63.236.212	80,443	nginx	80:(403) 已禁止
+run.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+play.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+pay.sina.com.cn	114.141.133.197	80,443	nginx	80:正常访问
+love.sina.com.cn	61.135.153.113	-	端口未开放	端口未开放
+tools.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+aq.sina.com.cn	58.63.236.212	80,443	nginx	80:(403) 已禁止
+dl.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+video2.sina.com.cn	218.30.12.194	-	端口未开放	端口未开放
+client.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+wiki.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+mm.sina.com.cn	202.108.43.224	-	端口未开放	端口未开放
+style.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+sec.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+search.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+bank.sina.com.cn	219.142.78.64	-	端口未开放	端口未开放
+photo.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+monitor.sina.com.cn	202.106.184.131	-	端口未开放	端口未开放
+ar.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+click.sina.com.cn	58.63.238.81	-	端口未开放	端口未开放
+auth.sina.com.cn	180.149.134.158	80,443	Apache	80:(404) 未找到
+lucky.sina.com.cn	220.194.63.78	-	端口未开放	端口未开放
+bn.sina.com.cn	202.102.94.124	80,443	Tengine	80:正常访问
+java.sina.com.cn	210.200.138.129	-	端口未开放	端口未开放
+atlas.sina.com.cn	121.14.1.11	-	端口未开放	端口未开放
+b2b.sina.com.cn	202.108.37.51	-	端口未开放	端口未开放
+club.sina.com.cn	202.108.33.23	80	nginx/1.2.8	80:正常访问
+cs.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+cidian.sina.com.cn	222.186.145.187,115.231.22.125	80,443	获取失败	80:-
+women.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+boy.sina.com.cn	61.135.153.167	-	端口未开放	端口未开放
+ipad.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+dir.sina.com.cn	202.108.43.238	80	Apache/2.2.15 (CentOS)	80:(500) 内部服务器错误
+chat.sina.com.cn	125.76.244.227	-	端口未开放	端口未开放
+edu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ec.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+feeds.sina.com.cn	202.108.33.23	80	nginx/1.2.8	80:正常访问
+dj.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+ct.sina.com.cn	218.206.86.39	-	端口未开放	端口未开放
+fj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+fo.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cm.sina.com.cn	211.99.198.30	-	端口未开放	端口未开放
+fs.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+games.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+gd.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+go.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+golf.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+green.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+gs.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hn.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ir.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+develop.sina.com.cn	61.135.153.17	-	端口未开放	端口未开放
+data.sina.com.cn	10.211.211.23	-	端口未开放	端口未开放
+dip.sina.com.cn	10.13.56.253,10.13.56.252	-	端口未开放	端口未开放
+live.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+ftp.sina.com.cn	10.210.66.100	-	端口未开放	端口未开放
+gateway.sina.com.cn	10.210.136.100	-	端口未开放	端口未开放
+gold.sina.com.cn	202.106.182.158	-	端口未开放	端口未开放
+members.sina.com.cn	180.149.138.190,58.63.236.212	80,443	nginx/1.2.0	80:正常访问
+lt.sina.com.cn	218.206.86.39	-	端口未开放	端口未开放
+mn.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+it.sina.com.cn	10.210.97.116	-	端口未开放	端口未开放
+member.sina.com.cn	202.106.184.168	80	nginx/1.2.8	80:正常访问
+mu.sina.com.cn	180.149.134.217	80,443	WeiBo/LB	80:正常访问
+marketplace.sina.com.cn	202.106.184.248	-	端口未开放	端口未开放
+nb.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+local.sina.com.cn	202.106.182.208	-	端口未开放	端口未开放
+nms.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+nokia.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+maps.sina.com.cn	202.106.182.208	-	端口未开放	端口未开放
+office.sina.com.cn	47.105.143.86	80,443		80:正常访问
+partner.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+pn.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+nd.sina.com.cn	172.16.139.203	-	端口未开放	端口未开放
+nc.sina.com.cn	219.142.66.90	-	端口未开放	端口未开放
+quotes.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+ns1.sina.com.cn	202.106.184.166	-	端口未开放	端口未开放
+ns4.sina.com.cn	121.14.1.22	-	端口未开放	端口未开放
+nv.sina.com.cn	219.142.66.82	-	端口未开放	端口未开放
+ig.sina.com.cn	218.30.66.101	443	获取失败	443:-
+orders.sina.com.cn	202.106.184.238	-	端口未开放	端口未开放
+papa.sina.com.cn	121.14.1.117	-	端口未开放	端口未开放
+photos.sina.com.cn	61.135.153.167	-	端口未开放	端口未开放
+pictures.sina.com.cn	61.135.153.167	-	端口未开放	端口未开放
+rd.sina.com.cn	61.135.153.85	-	端口未开放	端口未开放
+pop3.sina.com.cn	113.108.216.75	-	端口未开放	端口未开放
+pop.sina.com.cn	113.108.216.75	-	端口未开放	端口未开放
+route.sina.com.cn	202.108.37.88	80	Apache/1.3.37 (Unix)	80:(404) 未找到
+sc.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sd.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+rw.sina.com.cn	202.108.43.216	-	端口未开放	端口未开放
+sh.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+pub.sina.com.cn	172.16.7.130	-	端口未开放	端口未开放
+sn.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+radio.sina.com.cn	61.135.153.170	-	端口未开放	端口未开放
+stage.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+stock.sina.com.cn	180.149.153.24	80,443	nginx	80:正常访问
+sz.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+8.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+smtp.sina.com.cn	49.7.36.22	-	端口未开放	端口未开放
+stats.sina.com.cn	202.106.184.198	80	Apache/1.3.31 (Unix) mod_perl/1.29 mod_fastcgi/2.4.2	80:(403) 已禁止
+sol.sina.com.cn	219.142.78.64	-	端口未开放	端口未开放
+storage.sina.com.cn	202.108.33.42	-	端口未开放	端口未开放
+stat.sina.com.cn	61.135.153.19	-	端口未开放	端口未开放
+support.sina.com.cn	61.135.152.128	-	端口未开放	端口未开放
+28.sina.com.cn	202.108.33.26	-	端口未开放	端口未开放
+65.sina.com.cn	203.212.4.189	-	端口未开放	端口未开放
+i6.sina.com.cn	202.106.185.253	-	端口未开放	端口未开放
+s3.sina.com.cn	113.108.216.237	80,443	nginx/1.6.0 r18112720-d6198aa	80:(405) 不允许的方法
+x8.sina.com.cn	180.149.153.234	80,443	Sina	80:正常访问
+tech.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+tcl.sina.com.cn	202.108.33.34	80	Apache	80:正常访问
+t8.sina.com.cn	219.142.78.13	-	端口未开放	端口未开放
+ut.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tiger.sina.com.cn	218.30.114.84	-	端口未开放	端口未开放
+vg.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tracker.sina.com.cn	58.63.235.22,58.63.237.195,58.63.235.29,58.63.235.52,58.63.237.201	-	端口未开放	端口未开放
+windows2000.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tour.sina.com.cn	202.108.35.176	-	端口未开放	端口未开放
+travel.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+weather.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+wifi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+top.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+job.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cloud.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+see.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+va.sina.com.cn	121.14.1.188	-	端口未开放	端口未开放
+people.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+wf.sina.com.cn	61.135.153.15,61.135.153.14,61.135.153.13,61.135.153.12	-	端口未开放	端口未开放
+zeus.sina.com.cn	61.135.153.242,202.108.6.22,202.108.6.27,202.108.6.29,202.108.33.100,202.108.6.32,202.108.6.25,202.108.6.31,202.108.6.24,202.108.6.23,202.108.6.21,202.108.6.33,202.108.6.34,202.108.6.28,202.108.6.30,202.108.6.26	-	端口未开放	端口未开放
+air.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+history.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bus.sina.com.cn	219.142.78.37,219.142.78.36	-	端口未开放	端口未开放
+woman.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+man.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+gx.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+market.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+life.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+eat.sina.com.cn	202.102.94.124	80,443	nginx/1.2.8	80:正常访问
+school.sina.com.cn	61.144.244.103	-	端口未开放	端口未开放
+point.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+space.sina.com.cn	219.142.118.113	80	Apache	80:正常访问
+unite.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+up.sina.com.cn	10.13.224.119	-	端口未开放	端口未开放
+ask.sina.com.cn	202.108.43.234	-	端口未开放	端口未开放
+car.sina.com.cn	202.106.182.228	-	端口未开放	端口未开放
+prize.sina.com.cn	202.108.35.14	-	端口未开放	端口未开放
+party.sina.com.cn	202.108.43.224	-	端口未开放	端口未开放
+vote.sina.com.cn	113.108.216.230	80,443	nginx/1.12.2	80:正常访问
+drink.sina.com.cn	121.14.1.141	-	端口未开放	端口未开放
+health.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+current.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+mark.sina.com.cn	218.30.66.101	443	获取失败	443:-
+listen.sina.com.cn	180.149.134.17	80	Apache	80:正常访问
+bill.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+rock.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+college.sina.com.cn	218.30.66.101	443	获取失败	443:-
+lady.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+match.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+mountain.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+collection.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+fashion.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+sport.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+unity.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+tie.sina.com.cn	219.142.78.13	-	端口未开放	端口未开放
+mix.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+musician.sina.com.cn	202.102.94.125	80,443	web cache	80:(403) 已禁止
+universal.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+visitor.sina.com.cn	202.108.6.207	80,443	Tengine	80:正常访问
+insurance.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+fun.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+card.sina.com.cn	218.30.115.159	-	端口未开放	端口未开放
+mud.sina.com.cn	202.106.184.198	80	Apache/1.3.31 (Unix) mod_perl/1.29 mod_fastcgi/2.4.2	80:(403) 已禁止
+tap.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+merchant.sina.com.cn	202.106.184.248	-	端口未开放	端口未开放
+dot.sina.com.cn	61.135.153.225	80	-	80:(503) 服务器不可用
+juice.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+pet.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+elect.sina.com.cn	121.14.1.141	-	端口未开放	端口未开放
+jelly.sina.com.cn	123.126.52.21	80,443	nginx	80:正常访问
+cai.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+living.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+points.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+tide.sina.com.cn	211.155.249.121	-	端口未开放	端口未开放
+friends.sina.com.cn	202.108.43.224	-	端口未开放	端口未开放
+platform.sina.com.cn	180.149.153.24	80,443	Sina	80:(400) 错误的请求
+kid.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+jr.sina.com.cn	180.149.153.24	80,443	获取失败	80:-
+sports.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+agencies.sina.com.cn	202.108.35.14	-	端口未开放	端口未开放
+housing.sina.com.cn	61.172.201.149	-	端口未开放	端口未开放
+fund.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+magazine.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+foundation.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+scholarship.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+survey.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+license.sina.com.cn	202.106.187.174	80	nginx/1.2.8	80:正常访问
+washing.sina.com.cn	202.106.184.235	-	端口未开放	端口未开放
+publish.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+trend.sina.com.cn	10.210.66.88	-	端口未开放	端口未开放
+classic.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+finance.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+campus.sina.com.cn	61.172.201.176	-	端口未开放	端口未开放
+counter.sina.com.cn	219.142.78.222	-	端口未开放	端口未开放
+gov.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+10years.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+painter.sina.com.cn	202.152.180.57	-	端口未开放	端口未开放
+sailing.sina.com.cn	202.108.37.150,202.108.37.148,202.108.37.149	-	端口未开放	端口未开放
+boss.sina.com.cn	172.16.70.176	-	端口未开放	端口未开放
+2018.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+supervision.sina.com.cn	202.106.182.189	-	端口未开放	端口未开放
+100.sina.com.cn	203.130.33.10	-	端口未开放	端口未开放
+2shou.sina.com.cn	58.63.237.124	80	-	80:(503) 服务器不可用
+315.sina.com.cn	202.108.33.107,202.108.33.60	80,443	nginx	80:(404) 未找到
+3bmy.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+administrator.sys.sina.com.cn	202.106.184.186	80	Apache	80:正常访问
+adsys.sina.com.cn	202.108.37.139	80	Apache/1.3.33 (Unix)	80:(404) 未找到
+apps.games.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+api.product.sina.com.cn	202.106.187.173	80	nginx/1.2.8	80:正常访问
+antispam.sina.com.cn	202.106.182.148	-	端口未开放	端口未开放
+analytics.sina.com.cn	202.106.182.245	-	端口未开放	端口未开放
+b2b1.sina.com.cn	211.99.198.40	-	端口未开放	端口未开放
+baike.sina.com.cn	218.57.9.167	-	端口未开放	端口未开放
+baili.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+bailiwanggou.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+baoliao.sina.com.cn	180.149.134.154	80,443	nginx/1.4.4	80:(503) 服务器不可用
+bbs6.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+beijing.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+bendi.sina.com.cn	202.106.182.208	-	端口未开放	端口未开放
+bestchange.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+beta.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+caijing.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+blcx.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+chanye.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+bugfree.sina.com.cn	10.221.20.55	-	端口未开放	端口未开放
+chibi.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+chuangye.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+chongqing.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+chaxun.sina.com.cn	61.135.153.59	-	端口未开放	端口未开放
+comic.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+chat2.sina.com.cn	202.106.182.182	-	端口未开放	端口未开放
+d00.sina.com.cn	180.149.134.221	80,443	nginx/0.8.54	80:(403) 已禁止
+d01.sina.com.cn	180.149.134.221	80,443	nginx/0.8.54	80:(403) 已禁止
+d11.sina.com.cn	180.149.134.221	80,443	nginx/0.8.54	80:正常访问
+dalian.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cs.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+data.auto.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+css.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+dichan.sina.com.cn	47.105.143.86	80,443		80:正常访问
+digi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+dating.sina.com.cn	202.108.33.26	-	端口未开放	端口未开放
+dota2.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+dhhz.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+dmc90.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+domain.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+euro.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+exmail.sina.com.cn	49.7.36.125	80,443	Apache/2.2.15 (CentOS)	80:(403) 已禁止
+expo2011.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+f1.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ehome.sina.com.cn	202.108.37.23	-	端口未开放	端口未开放
+enet.sina.com.cn	202.106.184.235	-	端口未开放	端口未开放
+gaokao.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+gft.q.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+gongyi.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+gtest.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+guangdong.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+guangzhou.t.sina.com.cn	180.149.134.142,180.149.134.141	80,443	WeiBo	80:(403) 已禁止
+guba.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+guizhou.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hainan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hangkong.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hebei.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+henan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+guangzhou.sina.com.cn	202.106.184.145	-	端口未开放	端口未开放
+gupiao.sina.com.cn	124.238.233.85	-	端口未开放	端口未开放
+guoxue.sina.com.cn	202.106.182.175	-	端口未开放	端口未开放
+hkluo.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+huayi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hubei.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+iask.sina.com.cn	222.186.145.187,115.231.22.125	80,443	nginx	80:正常访问
+idata.sina.com.cn	180.149.138.249	80	-	80:(503) 服务器不可用
+image5.sina.com.cn	202.106.184.155	-	端口未开放	端口未开放
+inter.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+image1.sina.com.cn	61.135.153.16	-	端口未开放	端口未开放
+image3.sina.com.cn	61.135.153.56	-	端口未开放	端口未开放
+image4.sina.com.cn	202.108.44.50	-	端口未开放	端口未开放
+ishare.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+jiaju.sina.com.cn	47.105.71.228	80,443		80:正常访问
+jiangsu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+jiangxi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+jiaoyi.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+jiaoyu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+intra.sina.com.cn	10.210.12.10	-	端口未开放	端口未开放
+jingjiang.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+jifen.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+iphone.sina.com.cn	218.206.86.221	-	端口未开放	端口未开放
+jiaoyou.sina.com.cn	202.108.33.26	-	端口未开放	端口未开放
+junshi.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+jupiter.sina.com.cn	202.102.75.147	-	端口未开放	端口未开放
+koudai.sina.com.cn	218.30.114.204	80,443	Apache/2.4.9 (Unix) OpenSSL/1.0.1e-fips PHP/5.5.31	80:正常访问
+kj1207100001.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+kuaizhao.sina.com.cn	60.28.164.20	-	端口未开放	端口未开放
+kxsg.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+lingbao.sina.com.cn	180.149.153.24	80,443	Sina	80:(502) 错误的网关
+lining.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+lb1.sina.com.cn	219.142.66.87	-	端口未开放	端口未开放
+lottery.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+luhe.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+lineage.sina.com.cn	61.152.151.98	-	端口未开放	端口未开放
+m.bbs.sina.com.cn	218.30.115.24	80	nginx/1.0.15	80:(403) 已禁止
+mengzhou.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+merp.sina.com.cn	219.142.118.244	80,443	获取失败	80:-
+mgame.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+miaosha.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+mir2.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mole.sina.com.cn	183.60.92.36	80,443	openresty	80:正常访问
+mail.staff.sina.com.cn	10.210.97.18	-	端口未开放	端口未开放
+mail.email.sina.com.cn	202.108.37.31	-	端口未开放	端口未开放
+mail.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+mpay.sina.com.cn	114.141.133.197	80,443	nginx	80:正常访问
+mulan.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+media.email.sina.com.cn	202.108.37.31	-	端口未开放	端口未开放
+mirrors.sina.com.cn	172.16.20.160	-	端口未开放	端口未开放
+mingxijian.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+misc.sina.com.cn	218.206.86.11	-	端口未开放	端口未开放
+mt.email.sina.com.cn	202.108.37.31	-	端口未开放	端口未开放
+nali.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+newstar.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+nj2.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+nonghang.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+newvip.sina.com.cn	202.108.33.20	-	端口未开放	端口未开放
+nvxing.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+news.hn.sina.com.cn	121.14.1.116	-	端口未开放	端口未开放
+nike.sina.com.cn	61.135.153.31	-	端口未开放	端口未开放
+neimeng.sina.com.cn	58.63.236.248,121.14.1.190	80,443	获取失败	80:-
+neimenggu.sina.com.cn	121.14.1.190,58.63.236.248	80,443	获取失败	80:-
+opendata.sina.com.cn	123.125.105.161	443	nginx/1.6.1	443:(400) 错误的请求
+photo.blog.sina.com.cn	219.142.118.113	80	Apache	80:正常访问
+piao.sina.com.cn	202.106.184.235	-	端口未开放	端口未开放
+q.q.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+qidong.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+plus.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+qinzi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+qrcode.sina.com.cn	218.30.114.228	80,443	nginx	80:(404) 未找到
+qipai.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+qanqanda.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+qiye.sina.com.cn	211.99.198.15	-	端口未开放	端口未开放
+sanguo.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+search.bbs.sina.com.cn	1.1.1.1	80,443	yunjiasu-nginx	80:(409) 冲突
+shandong.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shanghai.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shangye.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+shanxi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shangpin.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+sedy2013.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+shenzhen.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shequ.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+shiqu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shipin.sina.com.cn	202.102.94.124	80,443	Tengine	80:正常访问
+shouyou.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+shuma.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sichuan.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+shide.sina.com.cn	61.135.153.46	-	端口未开放	端口未开放
+sslvpn.sina.com.cn	218.30.113.99	80,443	mysrv	80:(404) 未找到
+smsadmin.sina.com.cn	202.108.35.159	80	Apache	80:(403) 已禁止
+sms1.sina.com.cn	202.106.184.238	-	端口未开放	端口未开放
+superstar.sina.com.cn	202.108.37.207,202.108.37.204,202.108.37.205,202.108.37.206	-	端口未开放	端口未开放
+suzhou.sina.com.cn	58.63.236.248,121.14.1.190	80,443	获取失败	80:-
+test.wap.sina.com.cn	202.108.35.165	80,443	Apache/2.2.29 (Unix) PHP/5.2.17 mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5	80:正常访问
+test.pay.sina.com.cn	222.73.39.38	80,443	获取失败	80:-
+tianqi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tiao.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tiyu.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+test.live.sina.com.cn	10.13.49.173	-	端口未开放	端口未开放
+tips.sina.com.cn	202.106.182.205,202.106.182.206,202.106.182.204	-	端口未开放	端口未开放
+test.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+toutiao.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+touzi.sina.com.cn	180.149.153.24	80,443	nginx/1.12.2	80:正常访问
+tl.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+uc.sys.sina.com.cn	202.106.184.186	80	Apache	80:正常访问
+tthh99-1.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+tthh99.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+u6.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+u7.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+u5.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+u1.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+ufyby.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+unmxx1.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+wendang.sina.com.cn	222.186.145.187,115.231.22.125	80,443	获取失败	80:-
+v100.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+vfile.sina.com.cn	121.14.1.101	-	端口未开放	端口未开放
+wenda.sina.com.cn	219.142.78.58	80	nginx/1.0.15	80:(403) 已禁止
+vivi.sina.com.cn	219.142.78.237	-	端口未开放	端口未开放
+wuzi.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+xiamen.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+wxcs.vip.sina.com.cn	202.108.35.157	-	端口未开放	端口未开放
+xinwen.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+xinxin.sina.com.cn	203.81.25.163	80,443	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+yayun.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+yige.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+yinyue.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+yuer.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+yule.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+zhaoshang.sina.com.cn	114.80.163.180	80,443	nginx	80:(403) 已禁止
+yuan.sina.com.cn	202.108.33.26	-	端口未开放	端口未开放
+zhejiang.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+zhengji.sina.com.cn	180.149.134.154	80,443	nginx/1.4.4	80:(503) 服务器不可用
+zhenjiang.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+zhibo.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+zhifu.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+yumingedu.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+yunnan.sina.com.cn	121.14.1.190,58.63.236.248	80,443	获取失败	80:-
+zhuanti.sina.com.cn	61.135.153.225	80	-	80:(503) 服务器不可用
+zhongyi.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+zhuangxiu.sina.com.cn	14.29.93.219	80,443	nginx	80:正常访问
+zhuanye.sina.com.cn	218.57.9.168,218.57.9.164	-	端口未开放	端口未开放
+cj.sina.com.cn	180.149.153.24	80,443	nginx/1.12.2	80:正常访问
+ex.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+fh.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+hb.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+fy.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+gz.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hd.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+ff.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+jl.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ln.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mf.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+lh.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+nx.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+qd.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sx.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ud.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+tu.sina.com.cn	202.108.43.251	80,443	openresty	80:(403) 已禁止
+vr.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+wt.sina.com.cn	202.108.43.251	80,443	openresty	80:(403) 已禁止
+wx.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+xj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ka.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+zb.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+zj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+yz.sina.com.cn	202.108.37.43	80,443	-	80:(400) 错误的请求
+qp.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+yn.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ams.sina.com.cn	202.106.169.153	80	-	80:(503) 服务器不可用
+jq.sina.com.cn	219.153.34.204	-	端口未开放	端口未开放
+vl.sina.com.cn	219.142.66.90	-	端口未开放	端口未开放
+amc.sina.com.cn	123.125.29.158	-	端口未开放	端口未开放
+bns.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cba.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ara.sina.com.cn	121.14.1.190,58.63.236.248	80,443	获取失败	80:-
+bgm.sina.com.cn	218.30.13.179	-	端口未开放	端口未开放
+che.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+bpu.sina.com.cn	202.106.184.154	-	端口未开放	端口未开放
+cbt.sina.com.cn	168.160.224.103	-	端口未开放	端口未开放
+csi.sina.com.cn	183.60.92.46	80,443	fasthttp	80:(405) 不允许的方法
+csl.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cva.sina.com.cn	123.126.53.69	80	nginx	80:正常访问
+dfz.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+cns.sina.com.cn	202.106.184.192	-	端口未开放	端口未开放
+dmp.sina.com.cn	180.149.153.234	80,443	Sina	80:(403) 已禁止
+ent.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+esf.sina.com.cn	123.59.246.213	80,443	nginx	80:(403) 已禁止
+dsm.sina.com.cn	202.108.37.146	-	端口未开放	端口未开放
+fee.sina.com.cn	202.108.35.187	-	端口未开放	端口未开放
+geo.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+gtv.sina.com.cn	180.149.153.24	80,443	nginx	80:正常访问
+hlj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+hjj.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+htc.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+izq.sina.com.cn	180.149.153.24	80,443	Sina	80:(404) 未找到
+jdi.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+ivr.sina.com.cn	218.206.86.53	-	端口未开放	端口未开放
+kan.sina.com.cn	113.108.216.230	80,443	nginx	80:正常访问
+kfc.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+lad.sina.com.cn	113.108.216.237	80,443	nginx/1.6.0 r18112720-d6198aa	80:(405) 不允许的方法
+lsd.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+lux.sina.com.cn	202.102.94.124	80,443	Sina	80:(404) 未找到
+mil.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+nba.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mpp.sina.com.cn	218.206.86.65	80	Apache/2.4.28 (Unix) PHP/7.0.14	80:(403) 已禁止
+niu.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+nmg.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mdc.sina.com.cn	219.142.118.27	-	端口未开放	端口未开放
+nsr.sina.com.cn	202.106.184.154	-	端口未开放	端口未开放
+pfp.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+qun.sina.com.cn	114.80.223.58	80	nginx/1.2.8	80:正常访问
+otp.sina.com.cn	10.79.64.30	-	端口未开放	端口未开放
+phs.sina.com.cn	202.108.37.65	-	端口未开放	端口未开放
+prt.sina.com.cn	61.172.201.196	-	端口未开放	端口未开放
+rmt.sina.com.cn	127.0.0.1	-	端口未开放	端口未开放
+sax.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sae.sina.com.cn	123.125.23.221,123.125.23.91	80,443	nginx/1.6.1	80:正常访问
+sng.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+rui.sina.com.cn	121.194.0.7	-	端口未开放	端口未开放
+sso.sina.com.cn	58.63.236.212,180.149.138.190	80,443	nginx	80:正常访问
+sme.sina.com.cn	121.14.1.11	-	端口未开放	端口未开放
+shi.sina.com.cn	218.30.115.12	-	端口未开放	端口未开放
+tbe.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+tnf.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+ued.sina.com.cn	202.108.35.225,202.108.35.224	80,443	nginx	80:正常访问
+uni.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+tgo.sina.com.cn	121.14.1.102	-	端口未开放	端口未开放
+utg.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+vic.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sup.sina.com.cn	202.106.184.186	80	Apache	80:正常访问
+upl.sina.com.cn	202.108.44.25	-	端口未开放	端口未开放
+xyz.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+xyq.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sni.sina.com.cn	180.149.153.24	80,443	获取失败	80:-
+xcz.sina.com.cn	58.63.236.248,121.14.1.190	80,443	获取失败	80:-
+01.web.sina.com.cn	202.108.35.191	-	端口未开放	端口未开放
+544.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+le8.sina.com.cn	61.135.153.44	-	端口未开放	端口未开放
+nj1.sina.com.cn	202.102.94.124	80,443	nginx	80:(403) 已禁止
+mk2.sina.com.cn	218.30.108.145	-	端口未开放	端口未开放
+nc5.sina.com.cn	219.142.66.90	-	端口未开放	端口未开放
+qp3.sina.com.cn	1.1.1.1	80,443	yunjiasu-nginx	80:(409) 冲突
+rm1.sina.com.cn	113.108.216.44	80	nginx	80:正常访问
+va2.sina.com.cn	202.108.5.43	-	端口未开放	端口未开放
+3dns.sina.com.cn	61.135.153.248	-	端口未开放	端口未开放
+03vl.sina.com.cn	218.30.20.190	-	端口未开放	端口未开放
+adsh.sina.com.cn	202.109.73.70	-	端口未开放	端口未开放
+agcm.sina.com.cn	202.108.35.29	-	端口未开放	端口未开放
+baom.sina.com.cn	202.108.33.60,202.108.33.107	80,443	nginx	80:(403) 已禁止
+bctv.sina.com.cn	202.106.184.192	-	端口未开放	端口未开放
+bsms.sina.com.cn	202.108.33.37	-	端口未开放	端口未开放
+cccr.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+cdma.sina.com.cn	202.108.35.165	80,443	Apache/2.2.29 (Unix) PHP/5.2.17 mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5	80:正常访问
+cetv.sina.com.cn	202.108.33.34	80	Apache	80:正常访问
+coke.sina.com.cn	113.108.216.230	80,443	Sina	80:(404) 未找到
+cn15.sina.com.cn	202.106.184.196	-	端口未开放	端口未开放
+cpaa.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+cnpm.sina.com.cn	10.13.131.72	-	端口未开放	端口未开放
+cns1.sina.com.cn	202.106.184.192	-	端口未开放	端口未开放
+crux.sina.com.cn	61.172.201.23,61.172.201.22	-	端口未开放	端口未开放
+ctdc.sina.com.cn	123.125.31.237	80	nginx	80:正常访问
+cufl.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+ebao.sina.com.cn	61.129.67.88	-	端口未开放	端口未开放
+fcnv.sina.com.cn	211.155.30.68	-	端口未开放	端口未开放
+fm90.sina.com.cn	202.108.37.150,202.108.37.148,202.108.37.149	-	端口未开放	端口未开放
+ghzq.sina.com.cn	180.149.153.24	80,443	Sina	80:(500) 内部服务器错误
+i3gz.sina.com.cn	58.63.236.224,58.63.236.221,58.63.236.219,58.63.236.217,58.63.236.222,58.63.236.218,58.63.236.220,58.63.236.225,58.63.236.223,58.63.236.226	-	端口未开放	端口未开放
+icpf.sina.com.cn	218.30.115.88	-	端口未开放	端口未开放
+isou.sina.com.cn	115.231.22.125,222.186.145.187	80,443	获取失败	80:-
+jczs.sina.com.cn	202.102.94.124	80,443	edge-esnssl-1.12.1-13	80:正常访问
+kfcc.sina.com.cn	10.211.28.25	-	端口未开放	端口未开放
+kfkj.sina.com.cn	172.16.59.143	-	端口未开放	端口未开放
+kobe.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+mbox.sina.com.cn	218.206.86.238	80	-	80:(503) 服务器不可用
+mem2.sina.com.cn	202.106.184.161	-	端口未开放	端口未开放
+pavo.sina.com.cn	210.51.179.88,210.51.179.89,210.51.179.90,210.51.179.91	-	端口未开放	端口未开放
+pub2.sina.com.cn	172.16.7.106	-	端口未开放	端口未开放
+rdxw.sina.com.cn	202.108.35.178	-	端口未开放	端口未开放
+saet.sina.com.cn	123.125.23.91,123.125.23.221	80,443	nginx	80:正常访问
+saxs.sina.com.cn	113.108.216.79,183.60.92.248	80,443	nginx	80:(404) 未找到
+sax9.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sax6.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sax8.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sax4.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sax3.sina.com.cn	113.108.216.79,183.60.92.248	80,443	nginx	80:(404) 未找到
+sax7.sina.com.cn	113.108.216.79,183.60.92.248	80,443	nginx	80:(404) 未找到
+sax2.sina.com.cn	113.108.216.79,183.60.92.248	80,443	nginx	80:(404) 未找到
+sax5.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+sax0.sina.com.cn	183.60.92.248,113.108.216.79	80,443	nginx	80:(404) 未找到
+saxn.sina.com.cn	180.149.136.49	80,443	nginx	80:(404) 未找到
+sass.sina.com.cn	121.14.1.182	-	端口未开放	端口未开放
+secs.sina.com.cn	180.149.134.221	80,443	nginx/0.8.54	80:正常访问
+sifa.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+sjrz.sina.com.cn	113.108.216.230	80,443	Sina	80:正常访问
+sjtu.sina.com.cn	202.102.94.124	80,443	nginx	80:(404) 未找到
+slek.sina.com.cn	61.135.153.225	80	-	80:(503) 服务器不可用
+slog.sina.com.cn	180.149.134.221	80,443	nginx/0.8.54	80:正常访问
+smmf.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+smsd.sina.com.cn	202.108.37.185	-	端口未开放	端口未开放
+suda.sina.com.cn	202.106.184.220	-	端口未开放	端口未开放
+sxpp.sina.com.cn	115.182.15.35	80,443	Microsoft-HTTPAPI/2.0	80:(404) 未找到
+sydc.sina.com.cn	47.105.143.86	80,443		80:正常访问
+tbar.sina.com.cn	219.142.78.13	-	端口未开放	端口未开放
+teen.sina.com.cn	202.102.94.124	80,443	nginx	80:正常访问
+tuya.sina.com.cn	219.136.241.131	-	端口未开放	端口未开放
+tzxy.sina.com.cn	180.149.153.24	80,443	Sina	80:正常访问
+upl2.sina.com.cn	202.106.184.198	80	Apache/1.3.31 (Unix) mod_perl/1.29 mod_fastcgi/2.4.2	80:(403) 已禁止
+usay.sina.com.cn	202.106.182.179	-	端口未开放	端口未开放
+vdun.sina.com.cn	183.60.187.58,183.60.187.57	80,443	nginx	80:正常访问
+vela.sina.com.cn	219.142.66.90	-	端口未开放	端口未开放
+vip6.sina.com.cn	202.106.182.240	-	端口未开放	端口未开放
+vibo.sina.com.cn	61.4.189.154	-	端口未开放	端口未开放
+vip3.sina.com.cn	202.108.44.32	-	端口未开放	端口未开放
+vip5.sina.com.cn	202.108.44.33	-	端口未开放	端口未开放
+vip1.sina.com.cn	202.108.44.35	-	端口未开放	端口未开放
+vip4.sina.com.cn	202.106.182.150	-	端口未开放	端口未开放
+vip2.sina.com.cn	202.108.44.36	-	端口未开放	端口未开放
+xcz2.sina.com.cn	58.63.234.240	-	端口未开放	端口未开放
+zwgj.sina.com.cn	115.231.40.227,115.231.40.233,115.231.40.228,115.231.40.232,115.231.40.231,115.231.40.226,115.231.40.230,115.231.40.229	80,443	Tengine	80:(405) 不允许的方法
+ady.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+anshan.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+55.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+baoji.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+anyang.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+anqing.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+ask.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+62hh.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+astro.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+baise.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+baoding.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bbs.house.sina.com.cnwx.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+d9.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+bbs0.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+www.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+binzhou.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bbs.sh.sina.com.cn	121.14.1.12	80	获取失败	80:-
+d1.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+bbs.qd.sina.com.cn	180.149.153.24	80,443	获取失败	80:-
+a6.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+bj.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bbs.qcyn.sina.com.cn	58.63.237.237	80,443	获取失败	80:-
+ask.test.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+i3.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+d7.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+d0.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+bengbu.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+biz.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+d8.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+a7.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+d3.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+a3.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+image2.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+d4.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+asjiaju.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bbs.weiphone.comcq.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bd.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+bbs.ln.sina.com.cn	180.149.153.24	80,443	获取失败	80:-
+bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+beihai.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+d2.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+home.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+a4.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+ad4.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+bijie.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+d6.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+a0.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+vip.sina.com.cn	180.149.153.24	80,443	获取失败	80:-
+benxi.bbs.house.sina.com.cn	123.59.190.240	80,443	获取失败	80:-
+a5.sina.com.cn	202.102.94.124	80,443	获取失败	80:-
+minisite.sina.com.cn	113.108.216.230	80,443	获取失败	80:-
+d5.sina.com.cn	202.102.94.124	80,443	获取失败	80:-

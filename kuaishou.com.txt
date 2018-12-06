@@ -1,0 +1,56 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.kuaishou.com	116.211.168.22	80,443		80:正常访问
+e.kuaishou.com	124.243.249.51	80,443		80:正常访问
+t.kuaishou.com	103.237.9.17	80,443	-	80:(403) 已禁止
+mail.kuaishou.com	221.122.20.33	443	Microsoft-IIS/8.5	443:正常访问
+security.kuaishou.com	103.237.9.17	80,443		80:正常访问
+ky.kuaishou.com	39.96.134.180	80,443	-	80:(404) 未找到
+i1.kuaishou.com	101.251.217.216	80,443		80:正常访问
+campus.kuaishou.com	116.211.167.245	80,443	Tengine	80:正常访问
+1.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+13d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+16d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+17d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+1d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+1w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+2w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+31d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+32d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+33d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+34d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+35d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+36d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+3d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+3w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+4d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+4w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+7d.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+7w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+8w.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+admin.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+apissl.kuaishou.com	124.243.205.129	80,443		80:正常访问
+beta.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+bg.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+bjtu.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+cs.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+deploy.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+hk02.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+hk03.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+imd.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+kankan.kuaishou.com	140.210.64.5	80,443		80:正常访问
+lad.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+moe.s.kuaishou.com	124.243.205.129	80,443		80:正常访问
+nssg.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+qtd.s.kuaishou.com	124.243.205.129	80,443		80:正常访问
+shop.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+sinatel.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+sziit.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+topic.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+ussafe.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+vps.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+wwv.s.kuaishou.com	124.243.205.129	80,443		80:正常访问
+zzu.test.kuaishou.com	140.210.64.107	80,443		80:正常访问
+qr.kuaishou.com	103.237.9.6	80,443		80:正常访问
+sdpg.kuaishou.com	140.210.64.5	80,443		80:正常访问
+sdzw.kuaishou.com	101.251.217.216	80,443		80:正常访问
+shzw.kuaishou.com	180.186.38.200	80,443		80:正常访问

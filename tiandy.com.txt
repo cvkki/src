@@ -1,0 +1,28 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.tiandy.com	123.56.204.70	80	Apache/2.4.7 (Ubuntu)	80:正常访问
+m.tiandy.com	27.112.8.172	-	端口未开放	端口未开放
+tt.tiandy.com	27.112.8.172	-	端口未开放	端口未开放
+mail.tiandy.com	103.65.41.155	80	nginx	80:正常访问
+crm.tiandy.com	221.238.143.86	80	Apache-Coyote/1.1	80:正常访问
+en.tiandy.com	47.91.75.23	80	nginx	80:正常访问
+bugzilla.tiandy.com	221.238.143.84	443	nginx	443:正常访问
+imap.tiandy.com	220.181.72.229	80,443	nginx	80:(403) 已禁止
+pop.tiandy.com	123.125.50.215	80,443	nginx	80:(403) 已禁止
+ir.tiandy.com	185.86.180.148	80,443	Apache/2	80:正常访问
+supplier.tiandy.com	221.238.143.86	80	Apache-Coyote/1.1	80:正常访问
+qa.tiandy.com	221.238.227.85	443	nginx	443:正常访问
+services.tiandy.com	47.104.189.227	80	-	80:(404) 未找到
+smtp.tiandy.com	123.125.50.10,123.125.50.11	-	端口未开放	端口未开放
+sr.tiandy.com	221.238.227.85	443	nginx	443:正常访问
+cloud.tiandy.com	122.114.57.142	80	Apache-Coyote/1.1	80:正常访问
+vote.tiandy.com	221.238.227.85	443	nginx	443:正常访问
+dr.tiandy.com	221.238.227.85	443	nginx	443:正常访问
+dealer.tiandy.com	221.238.227.86	80	Apache-Coyote/1.1	80:正常访问
+canting.tiandy.com	221.238.143.83	80	Apache-Coyote/1.1	80:(404) 未找到
+crm1.tiandy.com	60.29.3.170	-	端口未开放	端口未开放
+kaoping.tiandy.com	221.238.143.84	443	nginx	443:正常访问
+mantis.tiandy.com	221.238.143.86	80	Apache-Coyote/1.1	80:正常访问
+mail.usa.tiandy.com	207.126.101.12,207.126.101.11	-	端口未开放	端口未开放
+oatest.tiandy.com	221.238.143.86	80	Apache-Coyote/1.1	80:正常访问
+tms.tiandy.com	221.238.143.84	443	nginx	443:正常访问
+tdoa.tiandy.com	221.238.227.84	80	Resin/3.1.8	80:正常访问

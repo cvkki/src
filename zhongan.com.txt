@@ -1,0 +1,30 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+chexian.zhongan.com	121.43.74.96	80,443		80:正常访问
+uat.zhongan.com	112.124.211.38	80,443	-	80:(403) 已禁止
+www.zhongan.com	112.124.211.249	80,443	-	80:(403) 已禁止
+a.zhongan.com	112.124.211.249	80,443	-	80:(403) 已禁止
+aa.zhongan.com	101.37.3.120	80,443	openresty	80:(403) 已禁止
+c.zhongan.com	120.55.172.162	80,443	openresty	80:(403) 已禁止
+e.zhongan.com	114.55.158.213	80,443	openresty	80:(404) 未找到
+m.zhongan.com	112.124.211.249	80,443	-	80:(403) 已禁止
+t.zhongan.com	112.124.212.5	80,443		80:正常访问
+u.zhongan.com	101.37.3.120	80,443	openresty	80:(403) 已禁止
+mini.zhongan.com	101.37.72.81	80,443	-	80:(403) 已禁止
+static.zhongan.com	121.43.73.18	80,443		80:正常访问
+cp.zhongan.com	114.55.158.213	80,443	openresty	80:(502) 错误的网关
+crm.zhongan.com	114.55.158.213	80,443	openresty	80:正常访问
+hr.zhongan.com	114.55.158.213	80,443		80:正常访问
+msg.zhongan.com	101.37.3.120	80,443	openresty	80:(403) 已禁止
+login.zhongan.com	114.55.69.181	80,443	-	80:尝试自动重定向的次数太多
+pc.zhongan.com	112.124.211.249	80,443	-	80:(403) 已禁止
+security.zhongan.com	120.27.175.71	80,443		80:正常访问
+certify.zhongan.com	114.55.158.213	80,443	openresty	80:正常访问
+channel.zhongan.com	114.55.158.213	80,443	openresty	80:(404) 未找到
+digital.zhongan.com	112.124.212.133	80,443		80:正常访问
+dm.zhongan.com	101.37.3.120	80,443	openresty	80:正常访问
+mp.zhongan.com	115.159.20.201	80,443	-	80:(500) 内部服务器错误
+eye.zhongan.com	114.55.158.213	80,443	openresty	80:(502) 错误的网关
+mgw.zhongan.com	114.55.158.213	80,443	openresty	80:(403) 已禁止
+spf.zhongan.com	101.37.3.120	80,443	openresty	80:(404) 未找到
+ztg.zhongan.com	112.124.211.33	80,443		80:正常访问
+dmgw.zhongan.com	120.27.166.127	80,443		80:正常访问

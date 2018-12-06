@@ -1,0 +1,47 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+m.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+cdn.wacai.com	58.222.52.249,1.82.132.249,42.123.113.36,42.123.113.44	80,443	marco/2.7	80:(404) 未找到
+8.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+job.wacai.com	47.95.46.1	80,443	nginx/1.4.6 (Ubuntu)	80:正常访问
+123kuaidai.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+kachuang.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+bbs.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+www.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+pay.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+user.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+test.wacai.com	192.168.4.224,192.168.4.214	-	端口未开放	端口未开放
+help.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(404) 未找到
+api.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+img.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(404) 未找到
+open.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+vip.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(403) 已禁止
+huodong.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(404) 未找到
+sec.wacai.com	118.178.226.28	80,443	Safe3WAF/2.3.5	80:正常访问
+money.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(409) 冲突
+file.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+mail.wacai.com	183.131.22.149	80,443	获取失败	80:-
+site.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(404) 未找到
+stock.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+store.wacai.com	115.236.46.1	80,443	获取失败	80:-
+staging.wacai.com	192.168.4.214,192.168.4.224	-	端口未开放	端口未开放
+market.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+common.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+webmail.wacai.com	183.131.22.149	80,443	获取失败	80:-
+credit.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+basic.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+fund.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+boss.wacai.com	192.168.4.224,192.168.4.214	-	端口未开放	端口未开放
+bbsuc.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:(404) 未找到
+antiddos.wacai.com	36.248.217.36	-	端口未开放	端口未开放
+ddos.wacai.com	180.97.161.187	80,443	Tengine	80:(502) 错误的网关
+sites.wacai.com	124.232.176.71,124.232.176.79	80,443	YunFanCDN	80:(404) 未找到
+jz.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+zf.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+kd.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+dfw.wacai.com	115.236.46.5	80,443	获取失败	80:-
+ffm.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+cas.wacai.com	192.168.4.214,192.168.4.224	-	端口未开放	端口未开放
+wjz.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+f2l.wacai.com	115.236.46.5	80,443	Safe3waf/2.3.5	80:正常访问
+bops.wacai.com	192.168.4.214,192.168.4.224	-	端口未开放	端口未开放
+pcac.wacai.com	115.236.46.5	80,443	获取失败	80:-

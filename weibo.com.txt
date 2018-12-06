@@ -1,0 +1,251 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+a.dpool.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+2014.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+2013.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+8.weibo.com	180.149.134.249	80,443	WeiBo/LB	80:正常访问
+a.weibo.com	180.149.134.142,180.149.134.141	80,443	WeiBo/LB	80:正常访问
+api.weibo.com	180.149.135.176	80,443	nginx	80:正常访问
+app.weibo.com	180.149.138.172	80,443	nginx	80:正常访问
+2014.sc.weibo.com	180.149.138.238	80	-	80:(503) 服务器不可用
+apps.weibo.com	180.149.134.217	80,443	nginx/1.6.1	80:正常访问
+apps.e.weibo.com	180.149.138.238	80	-	80:(503) 服务器不可用
+ask.weibo.com	218.30.114.191	80	Apache	80:正常访问
+bang.weibo.com	180.149.134.216	80,443	nginx/1.6.1	80:正常访问
+bleachorl.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+boke.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+c.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+book.weibo.com	221.179.175.207	80,443	Tengine	80:正常访问
+card.weibo.com	180.149.139.105	80,443	WeiBo	80:正常访问
+cai.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+club.weibo.com	180.149.138.235	80	Apache	80:正常访问
+d.weibo.com	180.149.134.141,180.149.134.142	80,443	nginx/1.2.0	80:正常访问
+darentong.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+dasai.manhua.weibo.com	221.179.175.207	80,443	Sina	80:正常访问
+desktop.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+dianping.weibo.com	180.149.134.216	80,443	WeiBo	80:正常访问
+dtszj.game.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+data.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+e.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+eq.weibo.com	180.149.134.249	80,443	nginx	80:正常访问
+event.game.weibo.com	113.108.216.230	80,443	Sina	80:(404) 未找到
+focus.weibo.com	180.149.153.24	80,443	nginx	80:正常访问
+game.manhua.weibo.com	180.149.134.101	80,443	nginx/1.4.4	80:(503) 服务器不可用
+game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+gongyi.weibo.com	180.149.134.217	80,443	nginx/1.6.1	80:正常访问
+gouwu.sc.weibo.com	180.149.134.147	80,443	nginx/1.6.1	80:正常访问
+badge.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+gouwu.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+forum.open.weibo.com	123.125.104.30	-	端口未开放	端口未开放
+gongyi2013.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+hk.weibo.com	218.213.85.50	80,443	Apache	80:正常访问
+help.weibo.com	180.149.134.249	80,443	nginx/1.6.1	80:正常访问
+hot.plaza.weibo.com	180.149.134.216	80,443	nginx/1.6.1	80:正常访问
+hot.weibo.com	180.149.134.217	80,443	nginx/1.2.0	80:正常访问
+hd.e.weibo.com	127.0.0.1	-	端口未开放	端口未开放
+daren.sc.weibo.com	180.149.134.147	80,443	获取失败	80:-
+hr.weibo.com	61.172.201.176	-	端口未开放	端口未开放
+huodong.weibo.com	180.149.138.189,180.149.138.188	80,443	nginx/1.6.1	80:正常访问
+index.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+img.tw.weibo.com	47.94.112.118	80,443	Varnish	80:(403) 已禁止
+ka.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+kpop.weibo.com	180.149.134.251	80,443	Apache/2.2.15 (CentOS)	80:正常访问
+ir.weibo.com	104.71.168.129	80,443	nginx	80:正常访问
+lady.weibo.com	113.108.216.230	80,443	nginx	80:正常访问
+ketang.weibo.com	114.80.223.59	80	-	80:(503) 服务器不可用
+m.my.weibo.com	210.17.38.49	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:正常访问
+m.hk.weibo.com	218.213.85.198	80	Apache	80:正常访问
+m.overseas.weibo.com	210.17.38.49	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:正常访问
+m.pop.tw.weibo.com	210.17.38.55	80,443	Apache/2.4.17 (FreeBSD) OpenSSL/1.0.2d	80:正常访问
+m.sg.weibo.com	210.17.38.49	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:正常访问
+m.th.weibo.com	47.94.112.118	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:正常访问
+m.tw.weibo.com	210.17.38.56	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:正常访问
+m.travel.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+m.weibo.com	180.149.153.187,180.149.153.216,180.149.153.242,180.149.139.248	80,443	nginx/1.6.1	80:正常访问
+manhua.weibo.com	221.179.175.207	80,443	Sina	80:正常访问
+me.weibo.com	180.149.134.216	80,443	nginx/1.6.1	80:正常访问
+media.weibo.com	180.149.139.248,180.149.153.242,180.149.153.216,180.149.153.187	80,443	Tengine/2.2.0	80:正常访问
+member.e.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+meyou.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+movie.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+m.renmai.weibo.com	124.238.236.227	-	端口未开放	端口未开放
+music.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+nba.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+netchina2013.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+nas.im.api.weibo.com	180.149.134.229	-	端口未开放	端口未开放
+op.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+order.sc.weibo.com	180.149.138.238	80	-	80:(503) 服务器不可用
+p.weibo.com	59.110.94.219,59.110.91.120	80,443		80:正常访问
+pay.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+pay.vip.weibo.com	180.149.134.217	80,443	nginx/1.6.1	80:正常访问
+open.weibo.com	180.149.138.172	80,443	openresty	80:正常访问
+place.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+pop.tw.weibo.com	210.17.38.55	80,443	Apache/2.2.29 (FreeBSD) DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_ssl/2.2.29 OpenSSL/0.9.8za-freebsd	80:(500) 内部服务器错误
+q.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+pop.weibo.com	180.149.134.217,180.149.134.216	80,443	WeiBo	80:正常访问
+qlz.game.weibo.com	183.60.187.58,183.60.187.57	80,443	nginx	80:正常访问
+qijilanqiu.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+ryyx.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+s.weibo.com	49.7.36.132	80,443	openresty	80:正常访问
+sass.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+screen.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+sg2.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+shenyuan.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+renmai.weibo.com	59.151.119.141,59.151.119.142	-	端口未开放	端口未开放
+sskc.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+static.tw.weibo.com	106.187.40.190	80,443	Varnish	80:(403) 已禁止
+tech.weibo.com	202.108.35.250,202.108.35.226	80,443	nginx	80:(404) 未找到
+test.cai.weibo.com	123.126.42.247	80	Apache	80:正常访问
+top.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+tong.c.weibo.com	180.149.135.68	80	nginx	80:正常访问
+ting.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+travel2013.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+ttmx.game.weibo.com	183.60.187.58,183.60.187.57	80,443	nginx	80:正常访问
+tuan.weibo.com	202.108.35.250,202.108.35.226	80,443	nginx	80:(404) 未找到
+tui.weibo.com	39.156.6.89	80,443	WeiBo	80:正常访问
+tv.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+udc.weibo.com	202.108.35.250,202.108.35.226	80,443	nginx	80:(404) 未找到
+vdisk.weibo.com	183.60.187.58,183.60.187.57	80,443	nginx	80:正常访问
+vdun.weibo.com	183.60.187.57,183.60.187.58	80,443	nginx	80:正常访问
+verified.e.weibo.com	180.149.138.238	80	-	80:(503) 服务器不可用
+v1.book.weibo.com	127.0.0.1	-	端口未开放	端口未开放
+video.weibo.com	180.149.134.132	80,443	nginx	80:正常访问
+us.weibo.com	10.10.10.10	-	端口未开放	端口未开放
+wan.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+vgirl.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+wdjh.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+weirenwu.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+www.zhaopin.weibo.com	59.151.119.135	-	端口未开放	端口未开放
+yahoo.tw.weibo.com	124.108.92.89	80,443	Apache/2.4.33 (Unix) OpenSSL/1.0.1e-fips mod_fastcgi/2.4.6	80:正常访问
+zhibo.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+zuiwuji.game.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+zhaopin.weibo.com	59.151.119.137,59.151.119.135	-	端口未开放	端口未开放
+l.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+ok.weibo.com	115.231.22.125,222.186.145.188,222.186.145.187	80,443	获取失败	80:-
+la.weibo.com	210.17.38.22	-	端口未开放	端口未开放
+1.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+static.weibo.com	115.231.40.231,115.231.40.226,115.231.40.232,115.231.40.227,115.231.40.228,115.231.40.229,115.231.40.230,115.231.40.233	80,443	Tengine	80:(403) 已禁止
+corp.weibo.com	65.158.114.201,65.158.114.210	80,443	Microsoft-IIS/8.5	80:正常访问
+youxi.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+service.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+admin.weibo.com	172.16.26.254,172.16.142.252	-	端口未开放	端口未开放
+ad.weibo.com	180.149.138.118	80,443	WeiBo	80:正常访问
+security.weibo.com	180.149.138.190	80,443	Tengine/2.2.0	80:(403) 已禁止
+sec.weibo.com	113.108.216.230	80,443	nginx	80:正常访问
+aq.weibo.com	180.149.138.190	80,443	Tengine/2.2.0	80:(403) 已禁止
+kf.weibo.com	180.149.134.216	80,443	nginx/1.6.1	80:正常访问
+biz.weibo.com	180.149.134.228	80,443	Resin/4.0.15	80:正常访问
+cf.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+ch.weibo.com	210.17.38.22	-	端口未开放	端口未开放
+de.weibo.com	210.17.38.49	80,443	获取失败	80:-
+im.weibo.com	180.149.134.40	-	端口未开放	端口未开放
+mp.weibo.com	180.149.153.187,180.149.153.242,180.149.139.248,180.149.153.216	80,443	Tengine/2.2.0	80:正常访问
+mx.weibo.com	60.28.228.237	-	端口未开放	端口未开放
+stock.weibo.com	180.149.139.105	80,443	WeiBo	80:正常访问
+vn.weibo.com	210.17.38.22	-	端口未开放	端口未开放
+ing.weibo.com	180.149.134.217	80,443	WeiBo	80:正常访问
+car.weibo.com	180.149.134.147	80,443	Tengine/2.2.0	80:正常访问
+food.weibo.com	180.149.134.154	80,443	nginx/1.4.4	80:(503) 服务器不可用
+star.weibo.com	180.149.134.216,180.149.134.217	80,443	WeiBo	80:无法处理从 HTTP/HTTPS 协议到其他不同协议的重定向
+wax.weibo.com	39.156.6.89	80,443	WeiBo	80:正常访问
+sports.weibo.com	180.149.138.188,180.149.138.189	80,443	WeiBo	80:正常访问
+fund.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+survey.weibo.com	123.125.29.124	443	nginx/1.12.2	443:(403) 已禁止
+finance.weibo.com	180.149.153.24	80,443	Sina	80:正常访问
+chart.weibo.com	180.149.134.216,180.149.134.217	80,443	WeiBo	80:无法处理从 HTTP/HTTPS 协议到其他不同协议的重定向
+fans.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+api.admin.weibo.com	172.16.140.91,172.16.140.90	-	端口未开放	端口未开放
+cntv.weibo.com	180.149.138.236	80,443	Apache	80:正常访问
+copyright.weibo.com	39.156.6.250	80,443	nginx/1.14.0	80:正常访问
+diaoyan.weibo.com	123.125.29.124	443	nginx/1.12.2	443:(403) 已禁止
+fang.weibo.com	180.149.134.147	80,443	Tengine/2.2.0	80:正常访问
+gamesvr.weibo.com	180.149.153.24	80,443	Sina	80:(404) 未找到
+idata.weibo.com	172.16.181.52	-	端口未开放	端口未开放
+jian.weibo.com	101.37.97.216	80,443		80:正常访问
+intra.weibo.com	10.75.1.59	-	端口未开放	端口未开放
+kefu.weibo.com	180.149.134.216	80,443	nginx/1.6.1	80:正常访问
+mapi.weibo.com	180.149.153.242,180.149.139.248,180.149.153.187,180.149.153.216	80,443	Tengine/2.2.0	80:(404) 未找到
+toutiao.weibo.com	39.156.6.91	80,443	Tengine	80:正常访问
+tongji.weibo.com	221.179.175.174	80	nginx/1.8.0	80:正常访问
+tongcheng.weibo.com	123.125.31.227	80	nginx/1.2.0	80:正常访问
+sync.weibo.com	111.13.88.225	-	端口未开放	端口未开放
+test.api.weibo.com	10.39.0.206,10.39.0.218	-	端口未开放	端口未开放
+test.monitor.weibo.com	10.13.80.85,10.13.80.84	-	端口未开放	端口未开放
+test.us.weibo.com	66.102.251.33	-	端口未开放	端口未开放
+wawa.weibo.com	180.149.134.147	80,443	WeiBo	80:正常访问
+weikan.weibo.com	180.149.134.249	80,443	Apache	80:正常访问
+hd.weibo.com	180.149.134.217,123.125.104.218,180.149.134.216	80,443	WeiBo	80:正常访问
+jq.weibo.com	219.153.34.204	-	端口未开放	端口未开放
+mps.weibo.com	10.75.14.251	-	端口未开放	端口未开放
+pro.weibo.com	180.149.138.248	80,443	nginx	80:正常访问
+ssp.weibo.com	180.149.138.118	80,443	nginx/1.6.1	80:正常访问
+tan.weibo.com	113.108.216.230	80,443	Sina	80:正常访问
+clip.weibo.com	101.37.133.39	80,443		80:正常访问
+wsrc.weibo.com	183.60.187.58,183.60.187.57	80,443	nginx	80:正常访问
+xmpp.weibo.com	180.149.134.227	-	端口未开放	端口未开放
+account.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+ba.weibo.com	180.149.134.249	80,443	获取失败	80:-
+9158.7.weibo.com	180.149.134.110	80	获取失败	80:-
+caipiao.weibo.com	180.149.134.249	80,443	获取失败	80:-
+chang.weibo.com	180.149.134.249	80,443	获取失败	80:-
+company.verified.weibo.com	180.149.134.147	80,443	获取失败	80:-
+alitui.weibo.com	180.149.134.142,180.149.134.141	80,443	获取失败	80:-
+nz.weibo.com	210.17.38.49	80,443	获取失败	80:-
+motherday.weibo.com	180.149.138.188,180.149.138.189	80,443	获取失败	80:-
+city.weibo.com	180.149.134.249	80,443	获取失败	80:-
+gov.weibo.com	180.149.139.248,180.149.153.242,180.149.153.187,180.149.153.216	80,443	获取失败	80:-
+kr.weibo.com	210.17.38.49	80,443	获取失败	80:-
+mcn.weibo.com	180.149.134.216	80,443	获取失败	80:-
+hongbao.weibo.com	180.149.138.188,180.149.138.189	80,443	获取失败	80:-
+vip.weibo.com	180.149.134.217	80,443	获取失败	80:-
+verified.weibo.com	180.149.134.216	80,443	获取失败	80:-
+credits.weibo.com	180.149.136.244	80,443	获取失败	80:-
+netchina2014.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+topic.weibo.com	180.149.138.236	80,443	获取失败	80:-
+passport.weibo.com	58.63.236.212	80,443	获取失败	80:-
+kan.weibo.com	180.149.134.249	80,443	获取失败	80:-
+th.weibo.com	47.94.112.118	80,443	获取失败	80:-
+talk.weibo.com	180.149.134.249	80,443	获取失败	80:-
+cn.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+op.service.weibo.com	180.149.138.236	80,443	获取失败	80:-
+bar.weibo.com	180.149.134.249	80,443	获取失败	80:-
+skin.vip.weibo.com	180.149.134.217	80,443	获取失败	80:-
+jx.weibo.com	180.149.134.249	80,443	获取失败	80:-
+overseas.weibo.com	210.17.38.49	80,443	获取失败	80:-
+wenwo.weibo.com	180.149.134.217	80,443	获取失败	80:-
+weiba.weibo.com	180.149.134.249	80,443	获取失败	80:-
+zhaoren.weibo.com	180.149.134.216	80,443	获取失败	80:-
+www.weibo.com	180.149.134.142,180.149.134.141,180.149.138.56	80,443	获取失败	80:-
+service.account.weibo.com	180.149.134.217	80,443	获取失败	80:-
+my.weibo.com	210.17.38.49	80,443	获取失败	80:-
+huati.weibo.com	180.149.134.217	80,443	获取失败	80:-
+wallet.weibo.com	180.149.134.217	80,443	获取失败	80:-
+wcp.weibo.com	180.149.134.217	80,443	获取失败	80:-
+photo.weibo.com	180.149.134.217	80,443	获取失败	80:-
+jp.weibo.com	210.17.38.49	80,443	获取失败	80:-
+hao.weibo.com	180.149.138.236	80,443	获取失败	80:-
+x.weibo.com	180.149.134.110	80	获取失败	80:-
+plaza.weibo.com	180.149.134.142,180.149.134.141	80,443	获取失败	80:-
+gxq.weibo.com	180.149.134.249	80,443	获取失败	80:-
+worldcup.weibo.com	180.149.134.110	80	获取失败	80:-
+event.weibo.com	180.149.134.147	80,443	获取失败	80:-
+sg.weibo.com	210.17.38.49	80,443	获取失败	80:-
+tiyu.weibo.com	123.125.105.197,180.149.153.238,180.149.153.233,111.13.87.189,111.13.87.190,123.125.105.196	80,443	获取失败	80:-
+level.account.weibo.com	180.149.134.216	80,443	获取失败	80:-
+fuwu.weibo.com	180.149.134.216	80,443	获取失败	80:-
+camera.weibo.com	180.149.134.217	80,443	获取失败	80:-
+live.weibo.com	180.149.134.217	80,443	获取失败	80:-
+pai.weibo.com	180.149.138.189,180.149.138.188	80,443	获取失败	80:-
+widget.weibo.com	180.149.134.224	80,443	获取失败	80:-
+yi.weibo.com	123.125.104.197	80,443	获取失败	80:-
+career.weibo.com	202.108.35.156	80,443	获取失败	80:-
+steve-jobs.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+pay.weibo.com	180.149.136.244	80,443	获取失败	80:-
+weiwen.weibo.com	180.149.134.217	80,443	获取失败	80:-
+fx.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+tw.weibo.com	210.17.38.56	80,443	获取失败	80:-
+toupiao.weibo.com	180.149.134.217	80,443	获取失败	80:-
+e.dpool.weibo.com	180.149.134.141,180.149.134.142	80,443	获取失败	80:-
+7.weibo.com	180.149.134.110	80	获取失败	80:-
+vote.weibo.com	180.149.134.217	80,443	获取失败	80:-
+faxian.weibo.com	180.149.134.142,180.149.134.141	80,443	获取失败	80:-
+au.weibo.com	210.17.38.49	80,443	获取失败	80:-
